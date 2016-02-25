@@ -1,0 +1,21 @@
+%% plot eigen vectors
+figure;
+ha = tight_subplot(3,3,[.01 .0],[0 0],[0 0]);
+for i =1:9%size(E_oriented,3)
+    axes(ha(i));imagesc(vect(:,:,i+1));
+    axis equal; axis tight; axis off; %colormap('gray');
+end
+set(gcf,'color','white') 
+
+
+
+figure;
+ha = tight_subplot(3,3,[.01 .0],[0 0],[0 0]);
+for i =1:size(E_oriented,3)
+    axes(ha(i));imagesc(E_oriented(:,:,i));
+    axis equal; axis tight; axis off; %colormap('gray');
+end
+axes(ha(9)); imagesc(E);axis equal; axis tight; axis off; 
+
+figure; imagesc(E);
+axis equal; axis tight; axis off; colormap('gray');

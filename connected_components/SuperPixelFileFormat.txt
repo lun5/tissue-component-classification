@@ -1,0 +1,24 @@
+Attached please find the list of latest objects with basic properties
+in file ending with _adjDela, also new object map in_circle_map and
+new clustered colors in _k3.
+
+
+In _adjDela, each line has objectID, objectArea, objectType(1 for
+nuclei, 2 for stroma, 3 for lumen), objectXCoord,
+objectYCoord,numberOfNeighbors,objectIDs of neighbors. first line of
+_adjDela is the number of objects
+
+
+Example line:
+
+1,797,2,16.0,74.0,3,98,186,185
+
+ObjectID 1
+ObjectArea 797 pixels
+ObjectTYpe stroma
+XCoordinate 16
+YCoordinate 74
+Has 3 neighbors with IDs 98, 186, and 185
+
+X and Y coordinates may flip in Matlab environment, you should better
+visualize to confirm.

@@ -31,6 +31,13 @@ figure; plot(im_sine(indx,:),'r-');%hold on;axis tight;
 set(gca,'FontSize',20);
 %legend('br','sat*cos(h)', 'sat*sin(h)');
 
+mu_s = 0.2; sigma_s = 3;
+c_hat_norm = (rotated_coordinates(2,:).^2 + rotated_coordinates(3,:).^2).^0.5;
+FF = 1 - exp(- max(c_hat_norm - mu_s,0).^2/(2*sigma_s^2));
+ss = repmat(FF,[2 1]).*rotated_coordinates(2:3,:)./(1 + repmat(c_hat_norm,[2 1]));
+
+ss_1 = reshape(ss(1,:),size(r));
+ss_2 = reshape(ss(2,:),size(r));
 % fused Lasso 
 %% Part b: 1d fused lasso problem
 y = im_sine(indx,:)';

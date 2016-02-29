@@ -1,13 +1,15 @@
 %% connected component test
 %IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH';
-IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH\CVPRImages Superpixels\images_k3_adjdela_circlemap';
-imlist = dir(fullfile(IMG_DIR,'*.jpg'));
+%IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH\CVPRImages Superpixels\images_k3_adjdela_circlemap';
+IMG_DIR = 'Z:\ADH_Jeff\CVPR_images\Breast WSI object lists';
+%IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH\CVPRImages Superpixels\Breast WSI object lists';
+imlist = dir(fullfile(IMG_DIR,'images','*.jpg'));
 imlist = {imlist.name}';
 %imlist = {'1050508_ImMod276_stX22001_stY24001.jpg'};
 num_images = length(imlist);
-param_string = '_se1_minNuc3_minStr5_minLum9';
+%param_string = '_se1_minNuc3_minStr5_minLum9';
 %param_string = '_se1_minNuc5_minStr5_minLum9';
-%param_string = '_se1_minNuc5_minStr5_minLum5';
+param_string = '_se1_minNuc3_minStr5_minLum5';
 num_neighbors = 15;
 obj_type = 1;
 num_comps = 10; 
@@ -18,7 +20,7 @@ im_size = [2048 2048];
 for i = 1:num_images
     tic;
     imname = imlist{i}(1:end-4);
-    I = imread(fullfile(IMG_DIR, [imname '.jpg']));
+    I = imread(fullfile(IMG_DIR,'images', [imname '.jpg']));
     outfilename= fullfile(IMG_DIR,'connected_comp',[imname param_string '_conncomp.jpg']);
 %     if exist(outfilename,'file')
 %         continue;
@@ -26,9 +28,17 @@ for i = 1:num_images
    [top_centers, top_radii] = top_connected_comp( IMG_DIR, imname, param_string, ...
     obj_type, num_neighbors, num_comps, plot_flag ); 
     runtime = toc;
-    disp(['Done with ' imname ' in ' num2str(runtime,2)]); 
+    fprintf('Done with %s in %.2f seconds.\n',imname,runtime);
+    %disp(['Done with ' imname ' in ' num2str(runtime,2) 's']); 
     close all;
 end
+
+imname = 'tp09-1003';
+num_comp = 100; num_neighbors = 15;
+[top_centers, top_radii] = top_connected_comp( IMG_DIR, imname, param_string, ...
+    obj_type, num_neighbors, num_comps, plot_flag ); 
+
+
 
 disp('Done');
 

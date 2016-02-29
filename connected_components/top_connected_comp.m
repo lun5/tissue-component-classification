@@ -1,5 +1,5 @@
 function [top_centers, top_radii] = top_connected_comp( IMG_DIR, imname, param_string, ...
-    obj_type, num_neighbors, num_comps, plot_flag )
+    obj_type, max_num_neighbors, num_comps, plot_flag )
 % compute the top connected components from the object maps in Burak's
 % output. 
 
@@ -24,7 +24,7 @@ if nargin < 7
 elseif nargin < 6
     num_comps =10;
 elseif nargin < 5
-    num_neighbors = 15;
+    max_num_neighbors = 15;
 elseif nargin < 4
     obj_type = 1;
 elseif nargin < 3
@@ -32,10 +32,12 @@ elseif nargin < 3
 end
 
 % read in image, mask, adjacency map
-I = double(imread(fullfile(IMG_DIR, [imname '.jpg'])));
-nrow = size(I,1); ncol = size(I,2);
-adj_map = dlmread(fullfile(IMG_DIR,[imname param_string '_adjDela']),',',0,0);
-circle_map = dlmread(fullfile(IMG_DIR,[imname param_string '_circle_map']),',',1,0);
+%I = double(imread(fullfile(IMG_DIR,'images', [imname '.jpg'])));
+%nrow = size(I,1); ncol = size(I,2);
+info = imfinfo(fullfile(IMG_DIR,'images',[imname '_flat.tif']));
+nrow = info.Height; ncol = info.Width; 
+adj_map = dlmread(fullfile(IMG_DIR,'adjDela',[imname param_string '_adjDela']),',',0,0);
+%circle_map = dlmread(fullfile(IMG_DIR,'circle_map',[imname param_string '_circle_map']),',',1,0);
 num_total_objects = adj_map(1,1);
 adj_map = adj_map(2:end,:);
 obj_types = adj_map(:,3);
@@ -56,20 +58,32 @@ adj_obj = adj_map(indx_type,:);
 indx_1 = cell(num_obj,1);
 indx_2 = cell(num_obj,1);
 dist_values = cell(num_obj,1);
-%tic;
+tic;
 for i = 1:num_obj
    id1 = adj_obj(i,1);
-   num_neighbors = adj_obj(i,6);% number of neighbors
-   if num_neighbors > 0
-       neighbor_indx = adj_obj(i,7:(6+num_neighbors));
+   num_neighbors_input = adj_obj(i,6);% number of neighbors
+   if num_neighbors_input > 0
+       % neighbors of neighbors, neighbor-ception
+       n_n = cat(2,adj_map(adj_obj(i,7:(6+num_neighbors_input)),7:end));
+       n_n = n_n (:)'; n_n(n_n == 0) = []; 
+       neighbor_indx = [adj_obj(i,7:(6+num_neighbors_input)), n_n];
+       %neighbors of neighbors of neighbors
+       %n_n_n = adj_map(n_n,7:end);n_n_n = n_n_n(:)';
+       %n_n_n(n_n_n == 0) = [];
+       %neighbor_indx = [adj_obj(i,7:(6+num_neighbors_input)), n_n, n_n_n];       
+       neighbor_indx(neighbor_indx == id1) = [];
        % check if the neighbor is actually nuclei/whatever
        neighbor_types = obj_types(neighbor_indx);
        neighbors_of_same_type = neighbor_indx(neighbor_types == obj_type);
        num_neighbors_of_same_type = length(neighbors_of_same_type);
+       % limit the number of neighbor to be fewer than max_num_neighbors
+       num_neighbors_of_same_type = min(max_num_neighbors, num_neighbors_of_same_type);
        if num_neighbors_of_same_type > 0
-           indx_1{i} = [repmat(id1,[1, num_neighbors_of_same_type]) neighbors_of_same_type];
-           indx_2{i} = [neighbors_of_same_type repmat(id1,[1, num_neighbors_of_same_type])];
-           %adj_matrix(id1,adj_obj(i,7:(6+num_neighbors))) = 1;
+           indx_1{i} = repmat(id1,[1, num_neighbors_of_same_type]);
+           indx_2{i} = neighbors_of_same_type(1:num_neighbors_of_same_type);
+           %indx_1{i} = [repmat(id1,[1, num_neighbors_of_same_type]) neighbors_of_same_type];
+           %indx_2{i} = [neighbors_of_same_type repmat(id1,[1, num_neighbors_of_same_type])];
+           %adj_matrix(id1,adj_obj(i,7:(6+num_neighbors))) = 1; DONT DO TIS
            %adj_matrix(adj_obj(i,7:(6+num_neighbors)),id1) = 1;
            distances = zeros(1, num_neighbors_of_same_type);
            for j = 1:num_neighbors_of_same_type
@@ -77,26 +91,31 @@ for i = 1:num_obj
                %adj_dist(id1, adj_obj(i,6+j)) = norm(obj_coords(id1,:),obj_coords(adj_obj(i,6+j),:));
                %adj_dist(adj_obj(i,6+j),id1) = adj_dist(id1, adj_obj(i,6+j));
            end
-           dist_values{i} = repmat(distances,[1, 2]);
+           dist_values{i} = distances; %repmat(distances,[1, 2]);
        end
    end
 end
-%toc
+T = toc; fprintf('Indexing done in %.2f seconds\n',T);
 % Elapsed time is 0.411493 seconds.
 indx_1 = cat(2,indx_1{:});
 indx_2 = cat(2,indx_2{:});
 dist_values = cat(2,dist_values{:});
-%adj_matrix = sparse(indx_1,indx_2,1,num_total_objects,num_total_objects);
-%adj_dist = sparse(indx_1,indx_2,dist_values,num_total_objects,num_total_objects);
-med_dist = median(dist_values);
-indx = dist_values > 2*med_dist;
+%adj_matrix = sparse([indx_1 indx_2],[indx_2 indx_1],1,num_total_objects,num_total_objects);
+%adj_dist = sparse([indx_1,indx_2],[indx_2 indx_1],[dist_values dist_values],num_total_objects,num_total_objects);
+med_dist = median(unique(dist_values)); 
+indx = dist_values > med_dist;%prctile(dist_values,75);
 sigma = 1.5*med_dist;
 dist_new = exp(- dist_values.^2./(2*sigma^2));
 dist_new(indx) = 0;
-similarities = sparse(indx_1,indx_2,dist_new,num_total_objects,num_total_objects);
+%similarities = sparse(indx_1,indx_2,dist_new,num_total_objects,num_total_objects);
+similarities = sparse([indx_1,indx_2],[indx_2 indx_1],[dist_new dist_new],num_total_objects,num_total_objects);
+tic;
 [S,C] = graphconncomp(similarities);
-num_elts = grpstats(C,C,{'numel'});
+T = toc; fprintf('Connected component done in %.2f seconds\n',T);
+h = histogram(C,unique(C));
+num_elts = h.Values;close all; %grpstats(C,C,{'numel'});
 [~, indx] = sort(num_elts,'descend');
+num_comps = max(num_comps,sum(num_elts > 35));
 top_centers = cell(num_comps,1);
 top_radii = cell(num_comps,1);
 for i = 1:num_comps
@@ -104,32 +123,45 @@ for i = 1:num_comps
    top_centers{i} = obj_coords(indx_cl,:);
    top_radii{i} = obj_radii(indx_cl);
 end
-
+%output_dir = 'Z:\ADH_Jeff\connected_component_sparse_Feb25';
 if plot_flag
+    I = imread(fullfile(IMG_DIR,'images',[imname '_flat.tif']));
     %outfilename= fullfile(IMG_DIR,'connected_comp',[imname param_string '_conncomp.jpg']);
     outfilename = fullfile(IMG_DIR,'connected_comp',[imname param_string '_conncomp']);
     colors = distinguishable_colors(num_comps,[0 1 0]);
-    fig = figure; imshow(uint8(I)); hold on
+    %fig = figure; imshow(uint8(I)); hold on
+    areas = zeros(1,num_comps);
+    for i = 1:num_comps
+        x = top_centers{i}(:,1); y = top_centers{i}(:,2);
+        %k = boundary(x,y,0.5);
+        %mask = poly2mask(x(k),y(k),nrow, ncol);
+        areas(i) = (max(y) - min(y))*(max(x) - min(x));
+        %areas(i) = sum(mask(:));
+%         if area(i) > 50000
+%             %viscircles(top_centers{i}, top_radii{i},'EdgeColor',colors(i,:));        
+%             plot(x(k),y(k),'-','Color',colors(i,:),'LineWidth',3);            
+%         end
+    end
+    hold off;
+    %resizeImageFig(fig, size(I(:,:,1)),2);
+
     for i = 1:num_comps
         %viscircles(top_centers{i}, top_radii{i},'EdgeColor',colors(i,:));
         x = top_centers{i}(:,1); y = top_centers{i}(:,2);
         k = boundary(x,y,0.5);
         mask = poly2mask(x(k),y(k),nrow, ncol);
         area = sum(mask(:));
-        %if area > 200000           
-            %save([outfilename '_' num2str(i) '.mat'],'mask');           
-            plot(x(k),y(k),'-','Color',colors(i,:),'LineWidth',3);
-            %fig = figure; imshow(uint8(I)); hold on
-            %plot(x(k),y(k),'-k','LineWidth',3);
-            %hold off;
-            %resizeImageFig(fig, size(I(:,:,1)),2);
-            %saveas(fig,[outfilename '_' num2str(i) '.jpg']);
-            %close all;
-        %end
+        if area > 50000           
+            save([outfilename '_' num2str(i) '.mat'],'mask');           
+            %plot(x(k),y(k),'-','Color',colors(i,:),'LineWidth',3);
+            fig = figure; imshow(uint8(I)); hold on
+            plot(x(k),y(k),'-k','LineWidth',3);
+            hold off;
+            resizeImageFig(fig, size(I(:,:,1)),2);
+            saveas(fig,[outfilename '_' num2str(i) '.jpg']);
+            close all;
+        end
     end
-    hold off;
-    resizeImageFig(fig, size(I(:,:,1)),2);
-    %saveas(fig,outfilename);
 end
 
 end

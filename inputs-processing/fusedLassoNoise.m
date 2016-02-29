@@ -7,6 +7,7 @@ tiles_dir = fullfile('Z:\','TilesForLabeling_tiff_renamed'); %window
 
 imname = 'dRfMkOErZY.tif';
 imname = '8ghygsmwjy.tif';
+imname ='7U6FoqV9wU.tif';
 raw_image = imread(fullfile(tiles_dir, imname));
 
 rotation_matrix = load(fullfile(pwd,'DanTrainingData','rotation_matrix_tp10-867-1.mat'),'rotation_matrix');

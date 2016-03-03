@@ -34,7 +34,7 @@ end
 % read in image, mask, adjacency map
 %I = double(imread(fullfile(IMG_DIR,'images', [imname '.jpg'])));
 %nrow = size(I,1); ncol = size(I,2);
-info = imfinfo(fullfile(IMG_DIR,'images',[imname '_lvl0.tif']));
+info = imfinfo(fullfile(IMG_DIR,'images',[imname '.tif']));
 nrow = info.Height; ncol = info.Width; 
 adj_map = dlmread(fullfile(IMG_DIR,'adjDela',[imname param_string '_adjDela']),',',0,0);
 %circle_map = dlmread(fullfile(IMG_DIR,'circle_map',[imname param_string '_circle_map']),',',1,0);
@@ -152,7 +152,7 @@ if plot_flag
         mask = poly2mask(x(k),y(k),nrow, ncol);
         area = sum(mask(:));
         if area > 50000           
-            save([outfilename '_' num2str(i) '.mat'],'mask');           
+            save([outfilename '_' num2str(i) '.mat'],'x','y','k');           
             %plot(x(k),y(k),'-','Color',colors(i,:),'LineWidth',3);
             %fig = figure; imshow(uint8(I)); hold on
             %plot(x(k),y(k),'-k','LineWidth',3);

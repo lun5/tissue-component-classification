@@ -1,13 +1,18 @@
+% Luong Nguyen 2/29/2016
 %% connected component test
+GIT_DIR = '/home/lun5/github/tissue-component-classification';
+addpath(genpath(GIT_DIR));
 %IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH';
 %IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH\CVPRImages Superpixels\images_k3_adjdela_circlemap';
 %IMG_DIR = 'Z:\ADH_Jeff\CVPR_images\Breast WSI object lists';
 IMG_DIR ='/home/lun5/CVPR_images/breast_wsi';
+%/home/lun5/CVPR_images/breast_wsi/adjDela
 %IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH\CVPRImages Superpixels\Breast WSI object lists';
 %imlist = dir(fullfile(IMG_DIR,'images','*.jpg'));
 %imlist = dir(fullfile(IMG_DIR,'images','*.tif'));
-imlist = dir(fullfile(IMG_DIR,'adjDela','*_se1_'));
-imlist = {imlist.name}';
+imlist = dir(fullfile(IMG_DIR,'adjDela','*_se1_*'));
+%imlist = {imlist.name}'
+imlist = {'tp10-867-1','tp10-876-1'}
 %imlist = {'1050508_ImMod276_stX22001_stY24001.jpg'};
 num_images = length(imlist);
 %param_string = '_se1_minNuc3_minStr5_minLum9';
@@ -20,11 +25,13 @@ plot_flag = 1;
 top_centers = cell(num_images,1);
 top_radii = cell(num_images,1);
 im_size = [2048 2048];
-for i = 1:num_images
+parfor i = 1:num_images
     tic;
-    imname = imlist{i}(1:end-36);
+    imname = imlist{i}
+    %(1:end-36);
+    fprintf('start to process image %s\n',imname);
     %I = imread(fullfile(IMG_DIR,'images', [imname '.jpg']));
-    outfilename= fullfile(IMG_DIR,'connected_comp',[imname param_string '_conncomp.jpg']);
+    %outfilename= fullfile(IMG_DIR,'connected_comp',[imname param_string '_conncomp.jpg']);
 %     if exist(outfilename,'file')
 %         continue;
 %     end

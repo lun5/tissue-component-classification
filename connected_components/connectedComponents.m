@@ -5,14 +5,15 @@ addpath(genpath(GIT_DIR));
 %IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH';
 %IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH\CVPRImages Superpixels\images_k3_adjdela_circlemap';
 %IMG_DIR = 'Z:\ADH_Jeff\CVPR_images\Breast WSI object lists';
-IMG_DIR ='/home/lun5/CVPR_images/breast_wsi';
+%IMG_DIR ='/home/lun5/CVPR_images/breast_wsi';
+IMG_DIR = '/home/lun5/HEproject/CVPR_images';
 %/home/lun5/CVPR_images/breast_wsi/adjDela
 %IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH\CVPRImages Superpixels\Breast WSI object lists';
 %imlist = dir(fullfile(IMG_DIR,'images','*.jpg'));
 %imlist = dir(fullfile(IMG_DIR,'images','*.tif'));
 imlist = dir(fullfile(IMG_DIR,'adjDela','*_se1_*'));
-%imlist = {imlist.name}'
-imlist = {'tp10-867-1','tp10-876-1'}
+imlist = {imlist.name}'
+%imlist = {'tp10-867-1','tp10-876-1'}
 %imlist = {'1050508_ImMod276_stX22001_stY24001.jpg'};
 num_images = length(imlist);
 %param_string = '_se1_minNuc3_minStr5_minLum9';
@@ -20,15 +21,15 @@ num_images = length(imlist);
 param_string = '_se1_minNuc3_minStr5_minLum5';
 num_neighbors = 15;
 obj_type = 1;
-num_comps = 100; 
+num_comps = 20; 
 plot_flag = 1;
 top_centers = cell(num_images,1);
 top_radii = cell(num_images,1);
 im_size = [2048 2048];
-parfor i = 1:num_images
-    tic;
-    imname = imlist{i}
-    %(1:end-36);
+for i = 1:num_images
+    %tic;
+    imname = imlist{i}(1:end-36);
+    imname = '3di1az7u8ofxfj';
     fprintf('start to process image %s\n',imname);
     %I = imread(fullfile(IMG_DIR,'images', [imname '.jpg']));
     %outfilename= fullfile(IMG_DIR,'connected_comp',[imname param_string '_conncomp.jpg']);
@@ -37,10 +38,10 @@ parfor i = 1:num_images
 %     end
    [top_centers{i}, top_radii{i}] = top_connected_comp( IMG_DIR, imname, param_string, ...
     obj_type, num_neighbors, num_comps, plot_flag ); 
-    runtime = toc;
-    fprintf('Done with %s in %.2f seconds.\n',imname,runtime);
+    %runtime = toc;
+    %fprintf('Done with %s in %.2f seconds.\n',imname,runtime);
     %disp(['Done with ' imname ' in ' num2str(runtime,2) 's']); 
-    close all;
+    %close all;
 end
 
 % imname = 'tp09-1003';

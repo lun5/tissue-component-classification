@@ -58,10 +58,12 @@ adj_obj = adj_map(indx_type,:);
 indx_1 = cell(num_obj,1);
 indx_2 = cell(num_obj,1);
 dist_values = cell(num_obj,1);
+proportion_features = cell(num_obj,1); 
 tic;
 for i = 1:num_obj
    id1 = adj_obj(i,1);
    num_neighbors_input = adj_obj(i,6);% number of neighbors
+   proportion_features{i} = [0 0];
    if num_neighbors_input > 0
        % neighbors of neighbors, neighbor-ception
        n_n = cat(2,adj_map(adj_obj(i,7:(6+num_neighbors_input)),7:end));
@@ -74,6 +76,8 @@ for i = 1:num_obj
        neighbor_indx(neighbor_indx == id1) = [];
        % check if the neighbor is actually nuclei/whatever
        neighbor_types = obj_types(neighbor_indx);
+       % calculate feature vector: proportion of purple + pink
+       proportion_features{i} = [sum(neighbor_types == 1) sum(neighbor_types == 2)]./length(neighbor_types);
        neighbors_of_same_type = neighbor_indx(neighbor_types == obj_type);
        num_neighbors_of_same_type = length(neighbors_of_same_type);
        % limit the number of neighbor to be fewer than max_num_neighbors
@@ -100,6 +104,16 @@ T = toc; fprintf('Indexing done in %.2f seconds\n',T);
 indx_1 = cat(2,indx_1{:});
 indx_2 = cat(2,indx_2{:});
 dist_values = cat(2,dist_values{:});
+proportion_features = cat(1, proportion_features{:});
+% sample neighboring pixels for spatial relationships
+nSamples = 10000; 
+ind_sample = randperm(length(indx_1),nSamples);
+neighbor_1 = indx_1(ind_sample);
+neighbor_2 = indx_2(ind_sample);
+figure; ndhist(proportion_features(neighbor_1,1),proportion_features(neighbor_2,1),'axis',[0 1 0 1],'filter','bins',1,'columns');
+figure; ndhist(proportion_features(neighbor_1,2),proportion_features(neighbor_2,2),'axis',[0 1 0 1],'filter','bins',1,'columns');
+
+
 %adj_matrix = sparse([indx_1 indx_2],[indx_2 indx_1],1,num_total_objects,num_total_objects);
 %adj_dist = sparse([indx_1,indx_2],[indx_2 indx_1],[dist_values dist_values],num_total_objects,num_total_objects);
 med_dist = median(unique(dist_values)); 

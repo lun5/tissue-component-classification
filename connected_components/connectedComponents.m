@@ -2,45 +2,63 @@
 %% connected component test
 GIT_DIR = '/home/lun5/github/tissue-component-classification';
 addpath(genpath(GIT_DIR));
-%IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH';
-%IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH\CVPRImages Superpixels\images_k3_adjdela_circlemap';
 %IMG_DIR = 'Z:\ADH_Jeff\CVPR_images\Breast WSI object lists';
 %IMG_DIR ='/home/lun5/CVPR_images/breast_wsi';
-IMG_DIR = '/home/lun5/HEproject/CVPR_images';
+%IMG_DIR = '/home/lun5/HEproject/CVPR_images';
 %/home/lun5/CVPR_images/breast_wsi/adjDela
 %IMG_DIR = 'C:\Users\luong_nguyen\Box Sync\ADH\CVPRImages Superpixels\Breast WSI object lists';
 %imlist = dir(fullfile(IMG_DIR,'images','*.jpg'));
 %imlist = dir(fullfile(IMG_DIR,'images','*.tif'));
-imlist = dir(fullfile(IMG_DIR,'adjDela','*_se1_*'));
-imlist = {imlist.name}'
+%IMG_DIR = 'Z:\ADH_Jeff\CVPR_images\';
+IMG_DIR = 'Z:\HEproject\object_proposals';
+%imlist = dir(fullfile(IMG_DIR,'adjDela','*_se1_*'));
+imlist = dir(fullfile(IMG_DIR,'AdjDela_updated','*_se1_*'));
+imlist = {imlist.name}';
 %imlist = {'tp10-867-1','tp10-876-1'}
 %imlist = {'1050508_ImMod276_stX22001_stY24001.jpg'};
 num_images = length(imlist);
 %param_string = '_se1_minNuc3_minStr5_minLum9';
 %param_string = '_se1_minNuc5_minStr5_minLum9';
 param_string = '_se1_minNuc3_minStr5_minLum5';
+%param_string ='_se1_minNuc3_minStr5_minLum9'
 num_neighbors = 15;
-obj_type = 1;
 num_comps = 20; 
-plot_flag = 1;
+plot_flag = 3;
 top_centers = cell(num_images,1);
 top_radii = cell(num_images,1);
 im_size = [2048 2048];
+% output directory
+%outdir = fullfile(IMG_DIR, ['mutual_knn_cc_' num2str(num_neighbors)]);
+outdir = fullfile(IMG_DIR,'updated_cca_voronoi');
+if ~exist(outdir, 'dir');
+    mkdir(outdir);
+end
+
+if ~ exist(fullfile(outdir,'segmented_images'),'dir')
+    mkdir(fullfile(outdir,'segmented_images'));
+end
+
+if ~ exist(fullfile(outdir,'bdry_im'),'dir')
+    mkdir(fullfile(outdir,'bdry_im'));
+end
+
 for i = 1:num_images
-    %tic;
+    T = tic;
     imname = imlist{i}(1:end-36);
-    imname = '3di1az7u8ofxfj';
-    fprintf('start to process image %s\n',imname);
-    %I = imread(fullfile(IMG_DIR,'images', [imname '.jpg']));
-    %outfilename= fullfile(IMG_DIR,'connected_comp',[imname param_string '_conncomp.jpg']);
-%     if exist(outfilename,'file')
+    %imname = '9uixINHtjjiS';
+    %imname = '2ale5ngryfnpo';
+    %imname = '1yDJEq9l1cuUNk7';
+    %imname = 'HlN7HDXf2aFQ';
+    %imname = 'YXDtQ9VZRKUE1';
+    %imname = 'fFwTGXYlhYNa';
+    imname = 'lszomRlGsC5na4Q';
+%     if exist(fullfile(outdir,'segmented_images',[imname '.mat']),'file')
 %         continue;
 %     end
-   [top_centers{i}, top_radii{i}] = top_connected_comp( IMG_DIR, imname, param_string, ...
-    obj_type, num_neighbors, num_comps, plot_flag ); 
-    %runtime = toc;
-    %fprintf('Done with %s in %.2f seconds.\n',imname,runtime);
-    %disp(['Done with ' imname ' in ' num2str(runtime,2) 's']); 
+    segs = object_proposal_all_types( IMG_DIR, outdir,imname, param_string, ...
+        num_neighbors, num_comps, plot_flag ); 
+    runtime = toc(T);
+    fprintf('Done with %s in %.2f seconds.\n',imname,runtime);
     %close all;
 end
 

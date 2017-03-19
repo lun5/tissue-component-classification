@@ -1,0 +1,4078 @@
+Example 100: accuracy=0.11, f1macro=0.0198198, f1micro=0.11 
+
+Example 200: accuracy=0.07, f1macro=0.00934579, f1micro=0.07 
+
+Example 300: accuracy=0.0866667, f1macro=0.0113935, f1micro=0.0866667 
+
+Example 400: accuracy=0.085, f1macro=0.0104455, f1micro=0.085 
+
+Example 500: accuracy=0.088, f1macro=0.0101103, f1micro=0.088 
+
+Example 600: accuracy=0.0833333, f1macro=0.00904977, f1micro=0.0833333 
+
+Example 700: accuracy=0.09, f1macro=0.00971398, f1micro=0.09 
+
+Example 800: accuracy=0.08875, f1macro=0.00959006, f1micro=0.08875 
+
+Example 900: accuracy=0.0866667, f1macro=0.00938289, f1micro=0.0866667 
+
+Example 1000: accuracy=0.086, f1macro=0.00931643, f1micro=0.086 
+
+Example 1100: accuracy=0.0927273, f1macro=0.00998336, f1micro=0.0927273 
+
+Example 1200: accuracy=0.0875, f1macro=0.00946586, f1micro=0.0875 
+
+Example 1300: accuracy=0.09, f1macro=0.00971398, f1micro=0.09 
+
+Example 1400: accuracy=0.0864286, f1macro=0.00935917, f1micro=0.0864286 
+
+Example 1500: accuracy=0.0846667, f1macro=0.00918327, f1micro=0.0846667 
+
+Example 1600: accuracy=0.08375, f1macro=0.00909153, f1micro=0.08375 
+
+Example 1700: accuracy=0.0841176, f1macro=0.00912834, f1micro=0.0841176 
+
+Example 1800: accuracy=0.0811111, f1macro=0.00789744, f1micro=0.0811111 
+
+Example 1900: accuracy=0.0768421, f1macro=0.00751145, f1micro=0.0768421 
+
+Example 2000: accuracy=0.0735, f1macro=0.00720712, f1micro=0.0735 
+
+Example 2100: accuracy=0.0704762, f1macro=0.00627012, f1micro=0.0704762 
+
+Example 2200: accuracy=0.0672727, f1macro=0.00600308, f1micro=0.0672727 
+
+Example 2300: accuracy=0.0643478, f1macro=0.00575786, f1micro=0.0643478 
+
+Example 2400: accuracy=0.0616667, f1macro=0.00553188, f1micro=0.0616667 
+
+Example 2500: accuracy=0.06, f1macro=0.00539084, f1micro=0.06 
+
+Example 2600: accuracy=0.0580769, f1macro=0.00498992, f1micro=0.0580769 
+
+Example 2700: accuracy=0.0562963, f1macro=0.00463443, f1micro=0.0562963 
+
+Example 2800: accuracy=0.0546429, f1macro=0.00450537, f1micro=0.0546429 
+
+Example 2900: accuracy=0.0534483, f1macro=0.00441187, f1micro=0.0534483 
+
+Example 3000: accuracy=0.0523333, f1macro=0.00432441, f1micro=0.0523333 
+
+Example 3100: accuracy=0.0516129, f1macro=0.00443854, f1micro=0.0516129 
+
+Example 3200: accuracy=0.05125, f1macro=0.0046937, f1micro=0.05125 
+
+Example 3300: accuracy=0.0506061, f1macro=0.00487729, f1micro=0.0506061 
+
+Example 3400: accuracy=0.0494118, f1macro=0.00481626, f1micro=0.0494118 
+
+Example 3500: accuracy=0.0488571, f1macro=0.00493842, f1micro=0.0488571 
+
+Example 3600: accuracy=0.0488889, f1macro=0.00518567, f1micro=0.0488889 
+
+Example 3700: accuracy=0.0481081, f1macro=0.00518261, f1micro=0.0481081 
+
+Example 3800: accuracy=0.0471053, f1macro=0.00510468, f1micro=0.0471053 
+
+Example 3900: accuracy=0.0471795, f1macro=0.00526688, f1micro=0.0471795 
+
+Example 4000: accuracy=0.04625, f1macro=0.0051971, f1micro=0.04625 
+
+Example 4100: accuracy=0.0463415, f1macro=0.00533303, f1micro=0.0463415 
+
+Example 4200: accuracy=0.0464286, f1macro=0.00544649, f1micro=0.0464286 
+
+Example 4300: accuracy=0.0460465, f1macro=0.00546247, f1micro=0.0460465 
+
+Example 4400: accuracy=0.0459091, f1macro=0.00551246, f1micro=0.0459091 
+
+Example 4500: accuracy=0.0453333, f1macro=0.00547985, f1micro=0.0453333 
+
+Example 4600: accuracy=0.0445652, f1macro=0.00541021, f1micro=0.0445652 
+
+Example 4700: accuracy=0.0438298, f1macro=0.00534703, f1micro=0.0438298 
+
+Example 4800: accuracy=0.0435417, f1macro=0.00535599, f1micro=0.0435417 
+
+Example 4900: accuracy=0.0430612, f1macro=0.00532778, f1micro=0.0430612 
+
+Example 5000: accuracy=0.0432, f1macro=0.00539434, f1micro=0.0432 
+
+Example 5100: accuracy=0.0435294, f1macro=0.00548998, f1micro=0.0435294 
+
+Example 5200: accuracy=0.0430769, f1macro=0.00546204, f1micro=0.0430769 
+
+Example 5300: accuracy=0.0422642, f1macro=0.00537675, f1micro=0.0422642 
+
+Example 5400: accuracy=0.0416667, f1macro=0.00532097, f1micro=0.0416667 
+
+Example 5500: accuracy=0.0416364, f1macro=0.00534946, f1micro=0.0416364 
+
+Example 5600: accuracy=0.0416071, f1macro=0.00537731, f1micro=0.0416071 
+
+Example 5700: accuracy=0.0414035, f1macro=0.00537311, f1micro=0.0414035 
+
+Example 5800: accuracy=0.0415517, f1macro=0.0054212, f1micro=0.0415517 
+
+Example 5900: accuracy=0.0411864, f1macro=0.00539903, f1micro=0.0411864 
+
+Example 6000: accuracy=0.0408333, f1macro=0.00537386, f1micro=0.0408333 
+
+Example 6100: accuracy=0.0404918, f1macro=0.0053505, f1micro=0.0404918 
+
+Example 6200: accuracy=0.0401613, f1macro=0.00533079, f1micro=0.0401613 
+
+Example 6300: accuracy=0.0398413, f1macro=0.00531081, f1micro=0.0398413 
+
+Example 6400: accuracy=0.0395312, f1macro=0.00528769, f1micro=0.0395312 
+
+Example 6500: accuracy=0.0393846, f1macro=0.00527938, f1micro=0.0393846 
+
+Example 6600: accuracy=0.0393939, f1macro=0.00529663, f1micro=0.0393939 
+
+Example 6700: accuracy=0.0389552, f1macro=0.0052579, f1micro=0.0389552 
+
+Example 6800: accuracy=0.0391176, f1macro=0.00528876, f1micro=0.0391176 
+
+Example 6900: accuracy=0.0386957, f1macro=0.00525026, f1micro=0.0386957 
+
+Example 7000: accuracy=0.0382857, f1macro=0.00521126, f1micro=0.0382857 
+
+Example 7100: accuracy=0.0383099, f1macro=0.00522613, f1micro=0.0383099 
+
+Example 7200: accuracy=0.0379167, f1macro=0.0051876, f1micro=0.0379167 
+
+Example 7300: accuracy=0.0379452, f1macro=0.00520427, f1micro=0.0379452 
+
+Example 7400: accuracy=0.0382432, f1macro=0.00524349, f1micro=0.0382432 
+
+Example 7500: accuracy=0.038, f1macro=0.00522601, f1micro=0.038 
+
+Example 7600: accuracy=0.0382895, f1macro=0.00526412, f1micro=0.0382895 
+
+Example 7700: accuracy=0.0380519, f1macro=0.00524286, f1micro=0.0380519 
+
+Example 7800: accuracy=0.0379487, f1macro=0.00523788, f1micro=0.0379487 
+
+Example 7900: accuracy=0.0379747, f1macro=0.00524832, f1micro=0.0379747 
+
+Example 8000: accuracy=0.037625, f1macro=0.00521827, f1micro=0.037625 
+
+Example 8100: accuracy=0.037284, f1macro=0.00518569, f1micro=0.037284 
+
+Example 8200: accuracy=0.0373171, f1macro=0.00519577, f1micro=0.0373171 
+
+Example 8300: accuracy=0.036988, f1macro=0.00516501, f1micro=0.036988 
+
+Example 8400: accuracy=0.0366667, f1macro=0.00513922, f1micro=0.0366667 
+
+Example 8500: accuracy=0.0363529, f1macro=0.00511164, f1micro=0.0363529 
+
+Example 8600: accuracy=0.0365116, f1macro=0.00513366, f1micro=0.0365116 
+
+Example 8700: accuracy=0.0363218, f1macro=0.00511868, f1micro=0.0363218 
+
+Example 8800: accuracy=0.0359091, f1macro=0.0050869, f1micro=0.0359091 
+
+Example 8900: accuracy=0.0355056, f1macro=0.00486962, f1micro=0.0355056 
+
+Example 9000: accuracy=0.0351111, f1macro=0.00483765, f1micro=0.0351111 
+
+Example 9100: accuracy=0.0347253, f1macro=0.00480891, f1micro=0.0347253 
+
+Example 9200: accuracy=0.0343478, f1macro=0.0047794, f1micro=0.0343478 
+
+Example 9300: accuracy=0.0339785, f1macro=0.00475145, f1micro=0.0339785 
+
+Example 9400: accuracy=0.033617, f1macro=0.00472425, f1micro=0.033617 
+
+Example 9500: accuracy=0.0332632, f1macro=0.00470012, f1micro=0.0332632 
+
+Example 9600: accuracy=0.0329167, f1macro=0.00467508, f1micro=0.0329167 
+
+Example 9700: accuracy=0.0325773, f1macro=0.0046507, f1micro=0.0325773 
+
+Example 9800: accuracy=0.0322449, f1macro=0.00462773, f1micro=0.0322449 
+
+Example 9900: accuracy=0.0319192, f1macro=0.00460378, f1micro=0.0319192 
+
+Example 10000: accuracy=0.0316, f1macro=0.00458198, f1micro=0.0316 
+
+Example 10100: accuracy=0.0312871, f1macro=0.00455917, f1micro=0.0312871 
+
+Example 10200: accuracy=0.0309804, f1macro=0.00453845, f1micro=0.0309804 
+
+Example 10300: accuracy=0.0306796, f1macro=0.00451824, f1micro=0.0306796 
+
+Example 10400: accuracy=0.0303846, f1macro=0.00449695, f1micro=0.0303846 
+
+Example 10500: accuracy=0.0300952, f1macro=0.00447848, f1micro=0.0300952 
+
+Example 10600: accuracy=0.0298113, f1macro=0.00445735, f1micro=0.0298113 
+
+Example 10700: accuracy=0.0295327, f1macro=0.00443822, f1micro=0.0295327 
+
+Example 10800: accuracy=0.0292593, f1macro=0.00441873, f1micro=0.0292593 
+
+Example 10900: accuracy=0.0289908, f1macro=0.00440121, f1micro=0.0289908 
+
+Example 11000: accuracy=0.0287273, f1macro=0.00438407, f1micro=0.0287273 
+
+Example 11100: accuracy=0.0284685, f1macro=0.00436654, f1micro=0.0284685 
+
+Example 11200: accuracy=0.0282143, f1macro=0.00435093, f1micro=0.0282143 
+
+Example 11300: accuracy=0.0279646, f1macro=0.00433568, f1micro=0.0279646 
+
+Example 11400: accuracy=0.0277193, f1macro=0.00431766, f1micro=0.0277193 
+
+Example 11500: accuracy=0.0274783, f1macro=0.0043023, f1micro=0.0274783 
+
+Example 11600: accuracy=0.0272414, f1macro=0.00428494, f1micro=0.0272414 
+
+Example 11700: accuracy=0.0270085, f1macro=0.00426944, f1micro=0.0270085 
+
+Example 11800: accuracy=0.029661, f1macro=0.0080089, f1micro=0.029661 
+
+Example 11900: accuracy=0.0347899, f1macro=0.0129302, f1micro=0.0347899 
+
+Example 12000: accuracy=0.0395, f1macro=0.0159809, f1micro=0.0395 
+
+Example 12100: accuracy=0.0442975, f1macro=0.0182855, f1micro=0.0442975 
+
+Example 12200: accuracy=0.0495902, f1macro=0.0203302, f1micro=0.0495902 
+
+Example 12300: accuracy=0.0544715, f1macro=0.0217603, f1micro=0.0544715 
+
+Example 12400: accuracy=0.0587097, f1macro=0.022659, f1micro=0.0587097 
+
+Example 12500: accuracy=0.06288, f1macro=0.0234006, f1micro=0.06288 
+
+Example 12600: accuracy=0.0669048, f1macro=0.0239913, f1micro=0.0669048 
+
+Example 12700: accuracy=0.0714173, f1macro=0.0246705, f1micro=0.0714173 
+
+Example 12800: accuracy=0.0759375, f1macro=0.0252769, f1micro=0.0759375 
+
+Example 12900: accuracy=0.0803101, f1macro=0.0257769, f1micro=0.0803101 
+
+Example 13000: accuracy=0.0844615, f1macro=0.0261729, f1micro=0.0844615 
+
+Example 13100: accuracy=0.0882443, f1macro=0.0264424, f1micro=0.0882443 
+
+Example 13200: accuracy=0.0920455, f1macro=0.0266989, f1micro=0.0920455 
+
+Example 13300: accuracy=0.0956391, f1macro=0.0268925, f1micro=0.0956391 
+
+Example 13400: accuracy=0.0999254, f1macro=0.0272293, f1micro=0.0999254 
+
+Example 13500: accuracy=0.104074, f1macro=0.0275161, f1micro=0.104074 
+
+Example 13600: accuracy=0.108235, f1macro=0.0277912, f1micro=0.108235 
+
+Example 13700: accuracy=0.112263, f1macro=0.0280269, f1micro=0.112263 
+
+Example 13800: accuracy=0.116522, f1macro=0.0282948, f1micro=0.116522 
+
+Example 13900: accuracy=0.120288, f1macro=0.0284625, f1micro=0.120288 
+
+Example 14000: accuracy=0.123929, f1macro=0.0286016, f1micro=0.123929 
+
+Example 14100: accuracy=0.127589, f1macro=0.028744, f1micro=0.127589 
+
+Example 14200: accuracy=0.130915, f1macro=0.0288274, f1micro=0.130915 
+
+Example 14300: accuracy=0.134755, f1macro=0.0289925, f1micro=0.134755 
+
+Example 14400: accuracy=0.138403, f1macro=0.0291257, f1micro=0.138403 
+
+Example 14500: accuracy=0.142, f1macro=0.0292501, f1micro=0.142 
+
+Example 14600: accuracy=0.145548, f1macro=0.0293642, f1micro=0.145548 
+
+Example 14700: accuracy=0.148571, f1macro=0.0294075, f1micro=0.148571 
+
+Example 14800: accuracy=0.151622, f1macro=0.0294568, f1micro=0.151622 
+
+Example 14900: accuracy=0.154564, f1macro=0.0294917, f1micro=0.154564 
+
+Example 15000: accuracy=0.157933, f1macro=0.0295857, f1micro=0.157933 
+
+Example 15100: accuracy=0.160927, f1macro=0.0296326, f1micro=0.160927 
+
+Example 15200: accuracy=0.163947, f1macro=0.029687, f1micro=0.163947 
+
+Example 15300: accuracy=0.166797, f1macro=0.0297194, f1micro=0.166797 
+
+Example 15400: accuracy=0.169351, f1macro=0.0297177, f1micro=0.169351 
+
+Example 15500: accuracy=0.172258, f1macro=0.029759, f1micro=0.172258 
+
+Example 15600: accuracy=0.175192, f1macro=0.0298073, f1micro=0.175192 
+
+Example 15700: accuracy=0.178217, f1macro=0.0298702, f1micro=0.178217 
+
+Example 15800: accuracy=0.180949, f1macro=0.0299013, f1micro=0.180949 
+
+Example 15900: accuracy=0.183711, f1macro=0.0299374, f1micro=0.183711 
+
+Example 16000: accuracy=0.186312, f1macro=0.029957, f1micro=0.186312 
+
+Example 16100: accuracy=0.189317, f1macro=0.0300205, f1micro=0.189317 
+
+Example 16200: accuracy=0.191728, f1macro=0.030026, f1micro=0.191728 
+
+Example 16300: accuracy=0.194601, f1macro=0.0300789, f1micro=0.194601 
+
+Example 16400: accuracy=0.197866, f1macro=0.0301779, f1micro=0.197866 
+
+Example 16500: accuracy=0.201879, f1macro=0.0303457, f1micro=0.201879 
+
+Example 16600: accuracy=0.205301, f1macro=0.0304551, f1micro=0.205301 
+
+Example 16700: accuracy=0.209042, f1macro=0.030594, f1micro=0.209042 
+
+Example 16800: accuracy=0.212321, f1macro=0.0306886, f1micro=0.212321 
+
+Example 16900: accuracy=0.215917, f1macro=0.0308118, f1micro=0.215917 
+
+Example 17000: accuracy=0.219353, f1macro=0.0309181, f1micro=0.219353 
+
+Example 17100: accuracy=0.222924, f1macro=0.0310369, f1micro=0.222924 
+
+Example 17200: accuracy=0.226512, f1macro=0.0311557, f1micro=0.226512 
+
+Example 17300: accuracy=0.230058, f1macro=0.0312692, f1micro=0.230058 
+
+Example 17400: accuracy=0.233333, f1macro=0.0313594, f1micro=0.233333 
+
+Example 17500: accuracy=0.237086, f1macro=0.0314895, f1micro=0.237086 
+
+Example 17600: accuracy=0.240568, f1macro=0.0315969, f1micro=0.240568 
+
+Example 17700: accuracy=0.244124, f1macro=0.0317088, f1micro=0.244124 
+
+Example 17800: accuracy=0.247528, f1macro=0.0318081, f1micro=0.247528 
+
+Example 17900: accuracy=0.250726, f1macro=0.0318901, f1micro=0.250726 
+
+Example 18000: accuracy=0.254056, f1macro=0.031983, f1micro=0.254056 
+
+Example 18100: accuracy=0.257293, f1macro=0.0320673, f1micro=0.257293 
+
+Example 18200: accuracy=0.26044, f1macro=0.0321449, f1micro=0.26044 
+
+Example 18300: accuracy=0.263388, f1macro=0.0322087, f1micro=0.263388 
+
+Example 18400: accuracy=0.266576, f1macro=0.0322897, f1micro=0.266576 
+
+Example 18500: accuracy=0.269297, f1macro=0.0323377, f1micro=0.269297 
+
+Example 18600: accuracy=0.272097, f1macro=0.0323936, f1micro=0.272097 
+
+Example 18700: accuracy=0.274866, f1macro=0.0324469, f1micro=0.274866 
+
+Example 18800: accuracy=0.277766, f1macro=0.0325093, f1micro=0.277766 
+
+Example 18900: accuracy=0.280582, f1macro=0.0325648, f1micro=0.280582 
+
+Example 19000: accuracy=0.283474, f1macro=0.0326276, f1micro=0.283474 
+
+Example 19100: accuracy=0.286073, f1macro=0.0326707, f1micro=0.286073 
+
+Example 19200: accuracy=0.289115, f1macro=0.0327434, f1micro=0.289115 
+
+Example 19300: accuracy=0.291503, f1macro=0.0327719, f1micro=0.291503 
+
+Example 19400: accuracy=0.294227, f1macro=0.0328239, f1micro=0.294227 
+
+Example 19500: accuracy=0.296974, f1macro=0.0328777, f1micro=0.296974 
+
+Example 19600: accuracy=0.299592, f1macro=0.0329231, f1micro=0.299592 
+
+Example 19700: accuracy=0.301878, f1macro=0.0329498, f1micro=0.301878 
+
+Example 19800: accuracy=0.304343, f1macro=0.0329856, f1micro=0.304343 
+
+Example 19900: accuracy=0.306633, f1macro=0.0330125, f1micro=0.306633 
+
+Example 20000: accuracy=0.30865, f1macro=0.0330219, f1micro=0.30865 
+
+Example 20100: accuracy=0.309254, f1macro=0.0330415, f1micro=0.309254 
+
+Example 20200: accuracy=0.307772, f1macro=0.0335025, f1micro=0.307772 
+
+Example 20300: accuracy=0.306256, f1macro=0.0333097, f1micro=0.306256 
+
+Example 20400: accuracy=0.304951, f1macro=0.0340356, f1micro=0.304951 
+
+Example 20500: accuracy=0.303659, f1macro=0.0344295, f1micro=0.303659 
+
+Example 20600: accuracy=0.302233, f1macro=0.0342921, f1micro=0.302233 
+
+Example 20700: accuracy=0.30087, f1macro=0.0343049, f1micro=0.30087 
+
+Example 20800: accuracy=0.300865, f1macro=0.0368664, f1micro=0.300865 
+
+Example 20900: accuracy=0.300861, f1macro=0.0387079, f1micro=0.300861 
+
+Example 21000: accuracy=0.30019, f1macro=0.039193, f1micro=0.30019 
+
+Example 21100: accuracy=0.300142, f1macro=0.040332, f1micro=0.300142 
+
+Example 21200: accuracy=0.299953, f1macro=0.0410904, f1micro=0.299953 
+
+Example 21300: accuracy=0.299765, f1macro=0.0417124, f1micro=0.299765 
+
+Example 21400: accuracy=0.299533, f1macro=0.0421915, f1micro=0.299533 
+
+Example 21500: accuracy=0.299116, f1macro=0.0424398, f1micro=0.299116 
+
+Example 21600: accuracy=0.298611, f1macro=0.0425831, f1micro=0.298611 
+
+Example 21700: accuracy=0.298433, f1macro=0.0429438, f1micro=0.298433 
+
+Example 21800: accuracy=0.298349, f1macro=0.0433159, f1micro=0.298349 
+
+Example 21900: accuracy=0.298219, f1macro=0.0436155, f1micro=0.298219 
+
+Example 22000: accuracy=0.297909, f1macro=0.0437746, f1micro=0.297909 
+
+Example 22100: accuracy=0.297738, f1macro=0.0439965, f1micro=0.297738 
+
+Example 22200: accuracy=0.298063, f1macro=0.0444652, f1micro=0.298063 
+
+Example 22300: accuracy=0.298027, f1macro=0.0446984, f1micro=0.298027 
+
+Example 22400: accuracy=0.297812, f1macro=0.0448198, f1micro=0.297812 
+
+Example 22500: accuracy=0.297911, f1macro=0.0450825, f1micro=0.297911 
+
+Example 22600: accuracy=0.297788, f1macro=0.0452183, f1micro=0.297788 
+
+Example 22700: accuracy=0.297665, f1macro=0.0453455, f1micro=0.297665 
+
+Example 22800: accuracy=0.296447, f1macro=0.0454575, f1micro=0.296447 
+
+Example 22900: accuracy=0.295153, f1macro=0.0454364, f1micro=0.295153 
+
+Example 23000: accuracy=0.29387, f1macro=0.0454192, f1micro=0.29387 
+
+Example 23100: accuracy=0.292641, f1macro=0.0438547, f1micro=0.292641 
+
+Example 23200: accuracy=0.291422, f1macro=0.043894, f1micro=0.291422 
+
+Example 23300: accuracy=0.290215, f1macro=0.0439304, f1micro=0.290215 
+
+Example 23400: accuracy=0.289017, f1macro=0.043958, f1micro=0.289017 
+
+Example 23500: accuracy=0.287872, f1macro=0.0440313, f1micro=0.287872 
+
+Example 23600: accuracy=0.286653, f1macro=0.0440034, f1micro=0.286653 
+
+Example 23700: accuracy=0.285443, f1macro=0.0439766, f1micro=0.285443 
+
+Example 23800: accuracy=0.284286, f1macro=0.0439921, f1micro=0.284286 
+
+Example 23900: accuracy=0.283096, f1macro=0.0439716, f1micro=0.283096 
+
+Example 24000: accuracy=0.281917, f1macro=0.0439522, f1micro=0.281917 
+
+Example 24100: accuracy=0.280747, f1macro=0.0439311, f1micro=0.280747 
+
+Example 24200: accuracy=0.279628, f1macro=0.0439442, f1micro=0.279628 
+
+Example 24300: accuracy=0.278519, f1macro=0.0439583, f1micro=0.278519 
+
+Example 24400: accuracy=0.277377, f1macro=0.0439416, f1micro=0.277377 
+
+Example 24500: accuracy=0.276245, f1macro=0.0439244, f1micro=0.276245 
+
+Example 24600: accuracy=0.275122, f1macro=0.0439037, f1micro=0.275122 
+
+Example 24700: accuracy=0.274049, f1macro=0.0439118, f1micro=0.274049 
+
+Example 24800: accuracy=0.272984, f1macro=0.0439174, f1micro=0.272984 
+
+Example 24900: accuracy=0.271928, f1macro=0.0439259, f1micro=0.271928 
+
+Example 25000: accuracy=0.27084, f1macro=0.0439088, f1micro=0.27084 
+
+Example 25100: accuracy=0.269801, f1macro=0.0439174, f1micro=0.269801 
+
+Example 25200: accuracy=0.26873, f1macro=0.0439009, f1micro=0.26873 
+
+Example 25300: accuracy=0.267747, f1macro=0.0439284, f1micro=0.267747 
+
+Example 25400: accuracy=0.266693, f1macro=0.0439086, f1micro=0.266693 
+
+Example 25500: accuracy=0.265647, f1macro=0.0438961, f1micro=0.265647 
+
+Example 25600: accuracy=0.264609, f1macro=0.043883, f1micro=0.264609 
+
+Example 25700: accuracy=0.26358, f1macro=0.0438742, f1micro=0.26358 
+
+Example 25800: accuracy=0.262558, f1macro=0.0438658, f1micro=0.262558 
+
+Example 25900: accuracy=0.261544, f1macro=0.0438579, f1micro=0.261544 
+
+Example 26000: accuracy=0.260538, f1macro=0.0438504, f1micro=0.260538 
+
+Example 26100: accuracy=0.25954, f1macro=0.0438432, f1micro=0.25954 
+
+Example 26200: accuracy=0.25855, f1macro=0.0438364, f1micro=0.25855 
+
+Example 26300: accuracy=0.257567, f1macro=0.0438299, f1micro=0.257567 
+
+Example 26400: accuracy=0.256591, f1macro=0.0438236, f1micro=0.256591 
+
+Example 26500: accuracy=0.255623, f1macro=0.0438177, f1micro=0.255623 
+
+Example 26600: accuracy=0.254662, f1macro=0.0438121, f1micro=0.254662 
+
+Example 26700: accuracy=0.253708, f1macro=0.0438067, f1micro=0.253708 
+
+Example 26800: accuracy=0.252761, f1macro=0.0438015, f1micro=0.252761 
+
+Example 26900: accuracy=0.251822, f1macro=0.0437965, f1micro=0.251822 
+
+Example 27000: accuracy=0.250926, f1macro=0.0438062, f1micro=0.250926 
+
+Example 27100: accuracy=0.25, f1macro=0.0438013, f1micro=0.25 
+
+Example 27200: accuracy=0.249081, f1macro=0.0437963, f1micro=0.249081 
+
+Example 27300: accuracy=0.248168, f1macro=0.0437918, f1micro=0.248168 
+
+Example 27400: accuracy=0.247263, f1macro=0.0437875, f1micro=0.247263 
+
+Example 27500: accuracy=0.246364, f1macro=0.0437833, f1micro=0.246364 
+
+Example 27600: accuracy=0.245471, f1macro=0.0437793, f1micro=0.245471 
+
+Example 27700: accuracy=0.244585, f1macro=0.0437753, f1micro=0.244585 
+
+Example 27800: accuracy=0.243705, f1macro=0.0437716, f1micro=0.243705 
+
+Example 27900: accuracy=0.242832, f1macro=0.0437679, f1micro=0.242832 
+
+Example 28000: accuracy=0.241964, f1macro=0.0437644, f1micro=0.241964 
+
+Example 28100: accuracy=0.241103, f1macro=0.0437572, f1micro=0.241103 
+
+Example 28200: accuracy=0.240248, f1macro=0.043754, f1micro=0.240248 
+
+Example 28300: accuracy=0.239399, f1macro=0.0437508, f1micro=0.239399 
+
+Example 28400: accuracy=0.238556, f1macro=0.043744, f1micro=0.238556 
+
+Example 28500: accuracy=0.237719, f1macro=0.043741, f1micro=0.237719 
+
+Example 28600: accuracy=0.236888, f1macro=0.0437381, f1micro=0.236888 
+
+Example 28700: accuracy=0.236063, f1macro=0.0437316, f1micro=0.236063 
+
+Example 28800: accuracy=0.235243, f1macro=0.0437251, f1micro=0.235243 
+
+Example 28900: accuracy=0.234429, f1macro=0.0437225, f1micro=0.234429 
+
+Example 29000: accuracy=0.233621, f1macro=0.0437199, f1micro=0.233621 
+
+Example 29100: accuracy=0.232818, f1macro=0.0437174, f1micro=0.232818 
+
+Example 29200: accuracy=0.232021, f1macro=0.043715, f1micro=0.232021 
+
+Example 29300: accuracy=0.231229, f1macro=0.0437127, f1micro=0.231229 
+
+Example 29400: accuracy=0.230442, f1macro=0.0437104, f1micro=0.230442 
+
+Example 29500: accuracy=0.229661, f1macro=0.0437082, f1micro=0.229661 
+
+Example 29600: accuracy=0.22902, f1macro=0.0453462, f1micro=0.22902 
+
+Example 29700: accuracy=0.22835, f1macro=0.0455049, f1micro=0.22835 
+
+Example 29800: accuracy=0.227819, f1macro=0.0462987, f1micro=0.227819 
+
+Example 29900: accuracy=0.227391, f1macro=0.0471589, f1micro=0.227391 
+
+Example 30000: accuracy=0.226867, f1macro=0.0473701, f1micro=0.226867 
+
+Example 30100: accuracy=0.226412, f1macro=0.0477054, f1micro=0.226412 
+
+Example 30200: accuracy=0.225662, f1macro=0.047206, f1micro=0.225662 
+
+Example 30300: accuracy=0.224917, f1macro=0.0468162, f1micro=0.224917 
+
+Example 30400: accuracy=0.224178, f1macro=0.0465024, f1micro=0.224178 
+
+Example 30500: accuracy=0.223443, f1macro=0.0462423, f1micro=0.223443 
+
+Example 30600: accuracy=0.222712, f1macro=0.046029, f1micro=0.222712 
+
+Example 30700: accuracy=0.221987, f1macro=0.0458474, f1micro=0.221987 
+
+Example 30800: accuracy=0.221266, f1macro=0.0456879, f1micro=0.221266 
+
+Example 30900: accuracy=0.22055, f1macro=0.0455493, f1micro=0.22055 
+
+Example 31000: accuracy=0.219871, f1macro=0.0454695, f1micro=0.219871 
+
+Example 31100: accuracy=0.219196, f1macro=0.0454029, f1micro=0.219196 
+
+Example 31200: accuracy=0.218494, f1macro=0.0453026, f1micro=0.218494 
+
+Example 31300: accuracy=0.217796, f1macro=0.0452119, f1micro=0.217796 
+
+Example 31400: accuracy=0.217102, f1macro=0.045131, f1micro=0.217102 
+
+Example 31500: accuracy=0.216413, f1macro=0.0450594, f1micro=0.216413 
+
+Example 31600: accuracy=0.215728, f1macro=0.0449948, f1micro=0.215728 
+
+Example 31700: accuracy=0.215047, f1macro=0.0449358, f1micro=0.215047 
+
+Example 31800: accuracy=0.214371, f1macro=0.0448794, f1micro=0.214371 
+
+Example 31900: accuracy=0.213699, f1macro=0.0448276, f1micro=0.213699 
+
+Example 32000: accuracy=0.213031, f1macro=0.0447789, f1micro=0.213031 
+
+Example 32100: accuracy=0.212368, f1macro=0.044733, f1micro=0.212368 
+
+Example 32200: accuracy=0.211708, f1macro=0.0446908, f1micro=0.211708 
+
+Example 32300: accuracy=0.211053, f1macro=0.0446506, f1micro=0.211053 
+
+Example 32400: accuracy=0.210401, f1macro=0.0446132, f1micro=0.210401 
+
+Example 32500: accuracy=0.210246, f1macro=0.0450841, f1micro=0.210246 
+
+Example 32600: accuracy=0.210521, f1macro=0.045927, f1micro=0.210521 
+
+Example 32700: accuracy=0.210703, f1macro=0.046554, f1micro=0.210703 
+
+Example 32800: accuracy=0.210884, f1macro=0.047092, f1micro=0.210884 
+
+Example 32900: accuracy=0.211246, f1macro=0.0477368, f1micro=0.211246 
+
+Example 33000: accuracy=0.211242, f1macro=0.0479623, f1micro=0.211242 
+
+Example 33100: accuracy=0.211269, f1macro=0.0481888, f1micro=0.211269 
+
+Example 33200: accuracy=0.211295, f1macro=0.0484021, f1micro=0.211295 
+
+Example 33300: accuracy=0.211321, f1macro=0.048585, f1micro=0.211321 
+
+Example 33400: accuracy=0.211527, f1macro=0.0488684, f1micro=0.211527 
+
+Example 33500: accuracy=0.211761, f1macro=0.0491795, f1micro=0.211761 
+
+Example 33600: accuracy=0.212054, f1macro=0.0494803, f1micro=0.212054 
+
+Example 33700: accuracy=0.212255, f1macro=0.0496818, f1micro=0.212255 
+
+Example 33800: accuracy=0.212574, f1macro=0.0499675, f1micro=0.212574 
+
+Example 33900: accuracy=0.212802, f1macro=0.0501575, f1micro=0.212802 
+
+Example 34000: accuracy=0.213088, f1macro=0.0503858, f1micro=0.213088 
+
+Example 34100: accuracy=0.213548, f1macro=0.0506738, f1micro=0.213548 
+
+Example 34200: accuracy=0.21386, f1macro=0.0508836, f1micro=0.21386 
+
+Example 34300: accuracy=0.213936, f1macro=0.0509184, f1micro=0.213936 
+
+Example 34400: accuracy=0.21436, f1macro=0.0511314, f1micro=0.21436 
+
+Example 34500: accuracy=0.214783, f1macro=0.0513639, f1micro=0.214783 
+
+Example 34600: accuracy=0.21526, f1macro=0.05158, f1micro=0.21526 
+
+Example 34700: accuracy=0.215447, f1macro=0.0516508, f1micro=0.215447 
+
+Example 34800: accuracy=0.215546, f1macro=0.0516716, f1micro=0.215546 
+
+Example 34900: accuracy=0.215616, f1macro=0.0516736, f1micro=0.215616 
+
+Example 35000: accuracy=0.215829, f1macro=0.0517477, f1micro=0.215829 
+
+Example 35100: accuracy=0.216182, f1macro=0.0518635, f1micro=0.216182 
+
+Example 35200: accuracy=0.216477, f1macro=0.0519465, f1micro=0.216477 
+
+Example 35300: accuracy=0.216686, f1macro=0.0519897, f1micro=0.216686 
+
+Example 35400: accuracy=0.217006, f1macro=0.0520797, f1micro=0.217006 
+
+Example 35500: accuracy=0.217099, f1macro=0.0520799, f1micro=0.217099 
+
+Example 35600: accuracy=0.217247, f1macro=0.0520879, f1micro=0.217247 
+
+Example 35700: accuracy=0.217451, f1macro=0.0521187, f1micro=0.217451 
+
+Example 35800: accuracy=0.217626, f1macro=0.0521383, f1micro=0.217626 
+
+Example 35900: accuracy=0.217632, f1macro=0.052095, f1micro=0.217632 
+
+Example 36000: accuracy=0.217944, f1macro=0.0521479, f1micro=0.217944 
+
+Example 36100: accuracy=0.218172, f1macro=0.0521745, f1micro=0.218172 
+
+Example 36200: accuracy=0.21837, f1macro=0.0522045, f1micro=0.21837 
+
+Example 36300: accuracy=0.21865, f1macro=0.052252, f1micro=0.21865 
+
+Example 36400: accuracy=0.218764, f1macro=0.0522392, f1micro=0.218764 
+
+Example 36500: accuracy=0.218932, f1macro=0.0522337, f1micro=0.218932 
+
+Example 36600: accuracy=0.21929, f1macro=0.0523069, f1micro=0.21929 
+
+Example 36700: accuracy=0.219401, f1macro=0.0522897, f1micro=0.219401 
+
+Example 36800: accuracy=0.219755, f1macro=0.0523537, f1micro=0.219755 
+
+Example 36900: accuracy=0.219973, f1macro=0.0523699, f1micro=0.219973 
+
+Example 37000: accuracy=0.220216, f1macro=0.0523965, f1micro=0.220216 
+
+Example 37100: accuracy=0.220243, f1macro=0.0523471, f1micro=0.220243 
+
+Example 37200: accuracy=0.220565, f1macro=0.0523831, f1micro=0.220565 
+
+Example 37300: accuracy=0.22067, f1macro=0.0523615, f1micro=0.22067 
+
+Example 37400: accuracy=0.220802, f1macro=0.0523487, f1micro=0.220802 
+
+Example 37500: accuracy=0.22112, f1macro=0.0523795, f1micro=0.22112 
+
+Example 37600: accuracy=0.221223, f1macro=0.0523616, f1micro=0.221223 
+
+Example 37700: accuracy=0.221485, f1macro=0.0523837, f1micro=0.221485 
+
+Example 37800: accuracy=0.221561, f1macro=0.0523429, f1micro=0.221561 
+
+Example 37900: accuracy=0.2219, f1macro=0.052394, f1micro=0.2219 
+
+Example 38000: accuracy=0.222026, f1macro=0.0523663, f1micro=0.222026 
+
+Example 38100: accuracy=0.222283, f1macro=0.0523861, f1micro=0.222283 
+
+Example 38200: accuracy=0.222277, f1macro=0.0523306, f1micro=0.222277 
+
+Example 38300: accuracy=0.22235, f1macro=0.0523006, f1micro=0.22235 
+
+Example 38400: accuracy=0.222526, f1macro=0.0522894, f1micro=0.222526 
+
+Example 38500: accuracy=0.222779, f1macro=0.0523005, f1micro=0.222779 
+
+Example 38600: accuracy=0.223083, f1macro=0.0523299, f1micro=0.223083 
+
+Example 38700: accuracy=0.223282, f1macro=0.0523236, f1micro=0.223282 
+
+Example 38800: accuracy=0.223402, f1macro=0.0523104, f1micro=0.223402 
+
+Example 38900: accuracy=0.22365, f1macro=0.0523201, f1micro=0.22365 
+
+Example 39000: accuracy=0.223744, f1macro=0.0522989, f1micro=0.223744 
+
+Example 39100: accuracy=0.223913, f1macro=0.0522844, f1micro=0.223913 
+
+Example 39200: accuracy=0.224158, f1macro=0.052293, f1micro=0.224158 
+
+Example 39300: accuracy=0.224224, f1macro=0.0522628, f1micro=0.224224 
+
+Example 39400: accuracy=0.224518, f1macro=0.0522789, f1micro=0.224518 
+
+Example 39500: accuracy=0.224835, f1macro=0.0522974, f1micro=0.224835 
+
+Example 39600: accuracy=0.225025, f1macro=0.0522874, f1micro=0.225025 
+
+Example 39700: accuracy=0.225315, f1macro=0.0523037, f1micro=0.225315 
+
+Example 39800: accuracy=0.225276, f1macro=0.052258, f1micro=0.225276 
+
+Example 39900: accuracy=0.225439, f1macro=0.0522426, f1micro=0.225439 
+
+Example 40000: accuracy=0.225625, f1macro=0.0522343, f1micro=0.225625 
+
+Example 40100: accuracy=0.22616, f1macro=0.0523048, f1micro=0.22616 
+
+Example 40200: accuracy=0.226468, f1macro=0.0523225, f1micro=0.226468 
+
+Example 40300: accuracy=0.22665, f1macro=0.052311, f1micro=0.22665 
+
+Example 40400: accuracy=0.226708, f1macro=0.0522783, f1micro=0.226708 
+
+Example 40500: accuracy=0.226741, f1macro=0.0522345, f1micro=0.226741 
+
+Example 40600: accuracy=0.227069, f1macro=0.052255, f1micro=0.227069 
+
+Example 40700: accuracy=0.227174, f1macro=0.0522286, f1micro=0.227174 
+
+Example 40800: accuracy=0.227279, f1macro=0.0521987, f1micro=0.227279 
+
+Example 40900: accuracy=0.227579, f1macro=0.0522126, f1micro=0.227579 
+
+Example 41000: accuracy=0.227854, f1macro=0.0522312, f1micro=0.227854 
+
+Example 41100: accuracy=0.228005, f1macro=0.0522136, f1micro=0.228005 
+
+Example 41200: accuracy=0.228228, f1macro=0.0522162, f1micro=0.228228 
+
+Example 41300: accuracy=0.228329, f1macro=0.0521952, f1micro=0.228329 
+
+Example 41400: accuracy=0.228478, f1macro=0.0521835, f1micro=0.228478 
+
+Example 41500: accuracy=0.228578, f1macro=0.0521544, f1micro=0.228578 
+
+Example 41600: accuracy=0.228774, f1macro=0.0521505, f1micro=0.228774 
+
+Example 41700: accuracy=0.228897, f1macro=0.0521315, f1micro=0.228897 
+
+Example 41800: accuracy=0.229067, f1macro=0.0521262, f1micro=0.229067 
+
+Example 41900: accuracy=0.229284, f1macro=0.0521328, f1micro=0.229284 
+
+Example 42000: accuracy=0.229381, f1macro=0.0521152, f1micro=0.229381 
+
+Example 42100: accuracy=0.229477, f1macro=0.0520939, f1micro=0.229477 
+
+Example 42200: accuracy=0.229858, f1macro=0.0521255, f1micro=0.229858 
+
+Example 42300: accuracy=0.23, f1macro=0.0521044, f1micro=0.23 
+
+Example 42400: accuracy=0.230142, f1macro=0.0520892, f1micro=0.230142 
+
+Example 42500: accuracy=0.230329, f1macro=0.0520781, f1micro=0.230329 
+
+Example 42600: accuracy=0.230516, f1macro=0.0520674, f1micro=0.230516 
+
+Example 42700: accuracy=0.230539, f1macro=0.0520328, f1micro=0.230539 
+
+Example 42800: accuracy=0.230654, f1macro=0.0520157, f1micro=0.230654 
+
+Example 42900: accuracy=0.230862, f1macro=0.0520178, f1micro=0.230862 
+
+Example 43000: accuracy=0.231116, f1macro=0.0520239, f1micro=0.231116 
+
+Example 43100: accuracy=0.231183, f1macro=0.0519961, f1micro=0.231183 
+
+Example 43200: accuracy=0.231181, f1macro=0.0519563, f1micro=0.231181 
+
+Example 43300: accuracy=0.231547, f1macro=0.0519829, f1micro=0.231547 
+
+Example 43400: accuracy=0.231705, f1macro=0.0519729, f1micro=0.231705 
+
+Example 43500: accuracy=0.231839, f1macro=0.0519611, f1micro=0.231839 
+
+Example 43600: accuracy=0.231858, f1macro=0.0519231, f1micro=0.231858 
+
+Example 43700: accuracy=0.232105, f1macro=0.0519282, f1micro=0.232105 
+
+Example 43800: accuracy=0.232352, f1macro=0.0519323, f1micro=0.232352 
+
+Example 43900: accuracy=0.232437, f1macro=0.0519114, f1micro=0.232437 
+
+Example 44000: accuracy=0.232568, f1macro=0.0518954, f1micro=0.232568 
+
+Example 44100: accuracy=0.232789, f1macro=0.0519006, f1micro=0.232789 
+
+Example 44200: accuracy=0.233032, f1macro=0.0519043, f1micro=0.233032 
+
+Example 44300: accuracy=0.233115, f1macro=0.0518767, f1micro=0.233115 
+
+Example 44400: accuracy=0.233378, f1macro=0.0518875, f1micro=0.233378 
+
+Example 44500: accuracy=0.233528, f1macro=0.0518756, f1micro=0.233528 
+
+Example 44600: accuracy=0.233565, f1macro=0.0518464, f1micro=0.233565 
+
+Example 44700: accuracy=0.233781, f1macro=0.0518465, f1micro=0.233781 
+
+Example 44800: accuracy=0.233951, f1macro=0.0518404, f1micro=0.233951 
+
+Example 44900: accuracy=0.234165, f1macro=0.0518442, f1micro=0.234165 
+
+Example 45000: accuracy=0.234178, f1macro=0.051814, f1micro=0.234178 
+
+Example 45100: accuracy=0.234279, f1macro=0.0517995, f1micro=0.234279 
+
+Example 45200: accuracy=0.234513, f1macro=0.0518009, f1micro=0.234513 
+
+Example 45300: accuracy=0.234592, f1macro=0.0517793, f1micro=0.234592 
+
+Example 45400: accuracy=0.234758, f1macro=0.0517735, f1micro=0.234758 
+
+Example 45500: accuracy=0.235033, f1macro=0.0517802, f1micro=0.235033 
+
+Example 45600: accuracy=0.235241, f1macro=0.0517824, f1micro=0.235241 
+
+Example 45700: accuracy=0.235492, f1macro=0.0517897, f1micro=0.235492 
+
+Example 45800: accuracy=0.235633, f1macro=0.0517783, f1micro=0.235633 
+
+Example 45900: accuracy=0.235839, f1macro=0.051777, f1micro=0.235839 
+
+Example 46000: accuracy=0.236043, f1macro=0.051776, f1micro=0.236043 
+
+Example 46100: accuracy=0.236291, f1macro=0.0517838, f1micro=0.236291 
+
+Example 46200: accuracy=0.236407, f1macro=0.0517679, f1micro=0.236407 
+
+Example 46300: accuracy=0.236695, f1macro=0.0517789, f1micro=0.236695 
+
+Example 46400: accuracy=0.237004, f1macro=0.0517898, f1micro=0.237004 
+
+Example 46500: accuracy=0.237161, f1macro=0.0517822, f1micro=0.237161 
+
+Example 46600: accuracy=0.23721, f1macro=0.0517594, f1micro=0.23721 
+
+Example 46700: accuracy=0.237302, f1macro=0.0517403, f1micro=0.237302 
+
+Example 46800: accuracy=0.237457, f1macro=0.0517303, f1micro=0.237457 
+
+Example 46900: accuracy=0.237719, f1macro=0.0517386, f1micro=0.237719 
+
+Example 47000: accuracy=0.237894, f1macro=0.0517376, f1micro=0.237894 
+
+Example 47100: accuracy=0.238089, f1macro=0.0517335, f1micro=0.238089 
+
+Example 47200: accuracy=0.238305, f1macro=0.0517315, f1micro=0.238305 
+
+Example 47300: accuracy=0.238605, f1macro=0.0517426, f1micro=0.238605 
+
+Example 47400: accuracy=0.238692, f1macro=0.0517244, f1micro=0.238692 
+
+Example 47500: accuracy=0.238947, f1macro=0.0517327, f1micro=0.238947 
+
+Example 47600: accuracy=0.23895, f1macro=0.0517041, f1micro=0.23895 
+
+Example 47700: accuracy=0.239015, f1macro=0.0516829, f1micro=0.239015 
+
+Example 47800: accuracy=0.239268, f1macro=0.0516876, f1micro=0.239268 
+
+Example 47900: accuracy=0.239353, f1macro=0.0516727, f1micro=0.239353 
+
+Example 48000: accuracy=0.239437, f1macro=0.0516543, f1micro=0.239437 
+
+Example 48100: accuracy=0.239584, f1macro=0.0516516, f1micro=0.239584 
+
+Example 48200: accuracy=0.239647, f1macro=0.0516334, f1micro=0.239647 
+
+Example 48300: accuracy=0.239834, f1macro=0.0516324, f1micro=0.239834 
+
+Example 48400: accuracy=0.239938, f1macro=0.0516212, f1micro=0.239938 
+
+Example 48500: accuracy=0.239897, f1macro=0.0515926, f1micro=0.239897 
+
+Example 48600: accuracy=0.239959, f1macro=0.0515787, f1micro=0.239959 
+
+Example 48700: accuracy=0.240144, f1macro=0.0515791, f1micro=0.240144 
+
+Example 48800: accuracy=0.240102, f1macro=0.0515505, f1micro=0.240102 
+
+Example 48900: accuracy=0.240368, f1macro=0.0515612, f1micro=0.240368 
+
+Example 49000: accuracy=0.240327, f1macro=0.0515318, f1micro=0.240327 
+
+Example 49100: accuracy=0.240367, f1macro=0.0515113, f1micro=0.240367 
+
+Example 49200: accuracy=0.240569, f1macro=0.0515084, f1micro=0.240569 
+
+Example 49300: accuracy=0.240751, f1macro=0.0515081, f1micro=0.240751 
+
+Example 49400: accuracy=0.240931, f1macro=0.051508, f1micro=0.240931 
+
+Example 49500: accuracy=0.241192, f1macro=0.0515169, f1micro=0.241192 
+
+Example 49600: accuracy=0.241431, f1macro=0.051525, f1micro=0.241431 
+
+Example 49700: accuracy=0.24159, f1macro=0.0515196, f1micro=0.24159 
+
+Example 49800: accuracy=0.241727, f1macro=0.0515133, f1micro=0.241727 
+
+Example 49900: accuracy=0.241784, f1macro=0.0514949, f1micro=0.241784 
+
+Example 50000: accuracy=0.24198, f1macro=0.0514974, f1micro=0.24198 
+
+Example 50100: accuracy=0.242156, f1macro=0.051498, f1micro=0.242156 
+
+Example 50200: accuracy=0.242311, f1macro=0.0514968, f1micro=0.242311 
+
+Example 50300: accuracy=0.242505, f1macro=0.0514955, f1micro=0.242505 
+
+Example 50400: accuracy=0.242639, f1macro=0.0514893, f1micro=0.242639 
+
+Example 50500: accuracy=0.24297, f1macro=0.0515059, f1micro=0.24297 
+
+Example 50600: accuracy=0.243103, f1macro=0.0514996, f1micro=0.243103 
+
+Example 50700: accuracy=0.243353, f1macro=0.0515073, f1micro=0.243353 
+
+Example 50800: accuracy=0.243504, f1macro=0.0515032, f1micro=0.243504 
+
+Example 50900: accuracy=0.243654, f1macro=0.0514985, f1micro=0.243654 
+
+Example 51000: accuracy=0.243902, f1macro=0.0515038, f1micro=0.243902 
+
+Example 51100: accuracy=0.244012, f1macro=0.0514929, f1micro=0.244012 
+
+Example 51200: accuracy=0.244219, f1macro=0.0514947, f1micro=0.244219 
+
+Example 51300: accuracy=0.244288, f1macro=0.0514818, f1micro=0.244288 
+
+Example 51400: accuracy=0.24428, f1macro=0.0514577, f1micro=0.24428 
+
+Example 51500: accuracy=0.244427, f1macro=0.0514535, f1micro=0.244427 
+
+Example 51600: accuracy=0.244438, f1macro=0.0514344, f1micro=0.244438 
+
+Example 51700: accuracy=0.244565, f1macro=0.0514298, f1micro=0.244565 
+
+Example 51800: accuracy=0.24473, f1macro=0.0514269, f1micro=0.24473 
+
+Example 51900: accuracy=0.244817, f1macro=0.0514148, f1micro=0.244817 
+
+Example 52000: accuracy=0.244827, f1macro=0.0513956, f1micro=0.244827 
+
+Example 52100: accuracy=0.244971, f1macro=0.0513898, f1micro=0.244971 
+
+Example 52200: accuracy=0.245019, f1macro=0.0513743, f1micro=0.245019 
+
+Example 52300: accuracy=0.244952, f1macro=0.0513475, f1micro=0.244952 
+
+Example 52400: accuracy=0.245076, f1macro=0.0513378, f1micro=0.245076 
+
+Example 52500: accuracy=0.245276, f1macro=0.0513384, f1micro=0.245276 
+
+Example 52600: accuracy=0.245494, f1macro=0.051343, f1micro=0.245494 
+
+Example 52700: accuracy=0.245484, f1macro=0.0513213, f1micro=0.245484 
+
+Example 52800: accuracy=0.245644, f1macro=0.0513196, f1micro=0.245644 
+
+Example 52900: accuracy=0.245803, f1macro=0.0513197, f1micro=0.245803 
+
+Example 53000: accuracy=0.245868, f1macro=0.0513056, f1micro=0.245868 
+
+Example 53100: accuracy=0.246045, f1macro=0.0513067, f1micro=0.246045 
+
+Example 53200: accuracy=0.246147, f1macro=0.0512987, f1micro=0.246147 
+
+Example 53300: accuracy=0.246248, f1macro=0.0512926, f1micro=0.246248 
+
+Example 53400: accuracy=0.246348, f1macro=0.0512826, f1micro=0.246348 
+
+Example 53500: accuracy=0.246355, f1macro=0.0512629, f1micro=0.246355 
+
+Example 53600: accuracy=0.246455, f1macro=0.0512533, f1micro=0.246455 
+
+Example 53700: accuracy=0.246704, f1macro=0.0512617, f1micro=0.246704 
+
+Example 53800: accuracy=0.246822, f1macro=0.051255, f1micro=0.246822 
+
+Example 53900: accuracy=0.24692, f1macro=0.051249, f1micro=0.24692 
+
+Example 54000: accuracy=0.246944, f1macro=0.0512379, f1micro=0.246944 
+
+Example 54100: accuracy=0.246506, f1macro=0.0511868, f1micro=0.246506 
+
+Example 54200: accuracy=0.246052, f1macro=0.0511349, f1micro=0.246052 
+
+Example 54300: accuracy=0.245599, f1macro=0.0510826, f1micro=0.245599 
+
+Example 54400: accuracy=0.245147, f1macro=0.0510311, f1micro=0.245147 
+
+Example 54500: accuracy=0.244697, f1macro=0.0509787, f1micro=0.244697 
+
+Example 54600: accuracy=0.244249, f1macro=0.0509279, f1micro=0.244249 
+
+Example 54700: accuracy=0.243803, f1macro=0.0508781, f1micro=0.243803 
+
+Example 54800: accuracy=0.243358, f1macro=0.0508284, f1micro=0.243358 
+
+Example 54900: accuracy=0.242933, f1macro=0.0507801, f1micro=0.242933 
+
+Example 55000: accuracy=0.242491, f1macro=0.0507311, f1micro=0.242491 
+
+Example 55100: accuracy=0.242051, f1macro=0.0506811, f1micro=0.242051 
+
+Example 55200: accuracy=0.241612, f1macro=0.0506322, f1micro=0.241612 
+
+Example 55300: accuracy=0.241175, f1macro=0.0505838, f1micro=0.241175 
+
+Example 55400: accuracy=0.24074, f1macro=0.0505362, f1micro=0.24074 
+
+Example 55500: accuracy=0.240306, f1macro=0.0504886, f1micro=0.240306 
+
+Example 55600: accuracy=0.239892, f1macro=0.0504428, f1micro=0.239892 
+
+Example 55700: accuracy=0.239461, f1macro=0.0503953, f1micro=0.239461 
+
+Example 55800: accuracy=0.239032, f1macro=0.0503481, f1micro=0.239032 
+
+Example 55900: accuracy=0.238676, f1macro=0.0504533, f1micro=0.238676 
+
+Example 56000: accuracy=0.238321, f1macro=0.050553, f1micro=0.238321 
+
+Example 56100: accuracy=0.237986, f1macro=0.0506699, f1micro=0.237986 
+
+Example 56200: accuracy=0.237669, f1macro=0.0508018, f1micro=0.237669 
+
+Example 56300: accuracy=0.237318, f1macro=0.0508748, f1micro=0.237318 
+
+Example 56400: accuracy=0.236933, f1macro=0.0508876, f1micro=0.236933 
+
+Example 56500: accuracy=0.236655, f1macro=0.0510433, f1micro=0.236655 
+
+Example 56600: accuracy=0.23636, f1macro=0.0511676, f1micro=0.23636 
+
+Example 56700: accuracy=0.236032, f1macro=0.0512333, f1micro=0.236032 
+
+Example 56800: accuracy=0.235722, f1macro=0.0513195, f1micro=0.235722 
+
+Example 56900: accuracy=0.235413, f1macro=0.0513968, f1micro=0.235413 
+
+Example 57000: accuracy=0.235088, f1macro=0.0514445, f1micro=0.235088 
+
+Example 57100: accuracy=0.234781, f1macro=0.05151, f1micro=0.234781 
+
+Example 57200: accuracy=0.234441, f1macro=0.0515352, f1micro=0.234441 
+
+Example 57300: accuracy=0.234119, f1macro=0.0515723, f1micro=0.234119 
+
+Example 57400: accuracy=0.23385, f1macro=0.0516672, f1micro=0.23385 
+
+Example 57500: accuracy=0.233478, f1macro=0.0516493, f1micro=0.233478 
+
+Example 57600: accuracy=0.23316, f1macro=0.0516843, f1micro=0.23316 
+
+Example 57700: accuracy=0.232808, f1macro=0.0516791, f1micro=0.232808 
+
+Example 57800: accuracy=0.232561, f1macro=0.051774, f1micro=0.232561 
+
+Example 57900: accuracy=0.232228, f1macro=0.0517778, f1micro=0.232228 
+
+Example 58000: accuracy=0.231879, f1macro=0.0517665, f1micro=0.231879 
+
+Example 58100: accuracy=0.231583, f1macro=0.0518031, f1micro=0.231583 
+
+Example 58200: accuracy=0.23122, f1macro=0.051782, f1micro=0.23122 
+
+Example 58300: accuracy=0.230961, f1macro=0.0518485, f1micro=0.230961 
+
+Example 58400: accuracy=0.230651, f1macro=0.0518675, f1micro=0.230651 
+
+Example 58500: accuracy=0.230462, f1macro=0.0519839, f1micro=0.230462 
+
+Example 58600: accuracy=0.230137, f1macro=0.0519869, f1micro=0.230137 
+
+Example 58700: accuracy=0.229847, f1macro=0.0520097, f1micro=0.229847 
+
+Example 58800: accuracy=0.229541, f1macro=0.0520232, f1micro=0.229541 
+
+Example 58900: accuracy=0.229219, f1macro=0.0520201, f1micro=0.229219 
+
+Example 59000: accuracy=0.228932, f1macro=0.0520416, f1micro=0.228932 
+
+Example 59100: accuracy=0.228646, f1macro=0.0520629, f1micro=0.228646 
+
+Example 59200: accuracy=0.228378, f1macro=0.0520951, f1micro=0.228378 
+
+Example 59300: accuracy=0.228078, f1macro=0.0521011, f1micro=0.228078 
+
+Example 59400: accuracy=0.22771, f1macro=0.0520614, f1micro=0.22771 
+
+Example 59500: accuracy=0.227445, f1macro=0.0520887, f1micro=0.227445 
+
+Example 59600: accuracy=0.227097, f1macro=0.0520582, f1micro=0.227097 
+
+Example 59700: accuracy=0.226767, f1macro=0.0520402, f1micro=0.226767 
+
+Example 59800: accuracy=0.226455, f1macro=0.0520278, f1micro=0.226455 
+
+Example 59900: accuracy=0.226227, f1macro=0.0520773, f1micro=0.226227 
+
+Example 60000: accuracy=0.225933, f1macro=0.0520808, f1micro=0.225933 
+
+Example 60100: accuracy=0.225624, f1macro=0.0520745, f1micro=0.225624 
+
+Example 60200: accuracy=0.225332, f1macro=0.0520797, f1micro=0.225332 
+
+Example 60300: accuracy=0.225075, f1macro=0.0521052, f1micro=0.225075 
+
+Example 60400: accuracy=0.224834, f1macro=0.0521351, f1micro=0.224834 
+
+Example 60500: accuracy=0.224545, f1macro=0.052135, f1micro=0.224545 
+
+Example 60600: accuracy=0.224241, f1macro=0.0521285, f1micro=0.224241 
+
+Example 60700: accuracy=0.223954, f1macro=0.0521296, f1micro=0.223954 
+
+Example 60800: accuracy=0.223618, f1macro=0.0521025, f1micro=0.223618 
+
+Example 60900: accuracy=0.223317, f1macro=0.052085, f1micro=0.223317 
+
+Example 61000: accuracy=0.223016, f1macro=0.0520698, f1micro=0.223016 
+
+Example 61100: accuracy=0.222733, f1macro=0.0520641, f1micro=0.222733 
+
+Example 61200: accuracy=0.222451, f1macro=0.0520641, f1micro=0.222451 
+
+Example 61300: accuracy=0.222153, f1macro=0.0520509, f1micro=0.222153 
+
+Example 61400: accuracy=0.221889, f1macro=0.0520546, f1micro=0.221889 
+
+Example 61500: accuracy=0.221528, f1macro=0.0520108, f1micro=0.221528 
+
+Example 61600: accuracy=0.221201, f1macro=0.0519841, f1micro=0.221201 
+
+Example 61700: accuracy=0.220924, f1macro=0.0519822, f1micro=0.220924 
+
+Example 61800: accuracy=0.220663, f1macro=0.0519834, f1micro=0.220663 
+
+Example 61900: accuracy=0.220485, f1macro=0.0520287, f1micro=0.220485 
+
+Example 62000: accuracy=0.220226, f1macro=0.0520336, f1micro=0.220226 
+
+Example 62100: accuracy=0.220419, f1macro=0.0522625, f1micro=0.220419 
+
+Example 62200: accuracy=0.220997, f1macro=0.0526733, f1micro=0.220997 
+
+Example 62300: accuracy=0.221541, f1macro=0.053053, f1micro=0.221541 
+
+Example 62400: accuracy=0.222067, f1macro=0.0534137, f1micro=0.222067 
+
+Example 62500: accuracy=0.222384, f1macro=0.0536698, f1micro=0.222384 
+
+Example 62600: accuracy=0.222827, f1macro=0.0539748, f1micro=0.222827 
+
+Example 62700: accuracy=0.223206, f1macro=0.0542434, f1micro=0.223206 
+
+Example 62800: accuracy=0.223519, f1macro=0.0544748, f1micro=0.223519 
+
+Example 62900: accuracy=0.224054, f1macro=0.0547941, f1micro=0.224054 
+
+Example 63000: accuracy=0.224556, f1macro=0.0550907, f1micro=0.224556 
+
+Example 63100: accuracy=0.225008, f1macro=0.0553585, f1micro=0.225008 
+
+Example 63200: accuracy=0.225427, f1macro=0.055605, f1micro=0.225427 
+
+Example 63300: accuracy=0.225972, f1macro=0.0558952, f1micro=0.225972 
+
+Example 63400: accuracy=0.226388, f1macro=0.0561272, f1micro=0.226388 
+
+Example 63500: accuracy=0.226976, f1macro=0.0564182, f1micro=0.226976 
+
+Example 63600: accuracy=0.227453, f1macro=0.0566607, f1micro=0.227453 
+
+Example 63700: accuracy=0.227975, f1macro=0.0569143, f1micro=0.227975 
+
+Example 63800: accuracy=0.228386, f1macro=0.0571217, f1micro=0.228386 
+
+Example 63900: accuracy=0.228873, f1macro=0.0573485, f1micro=0.228873 
+
+Example 64000: accuracy=0.229266, f1macro=0.057539, f1micro=0.229266 
+
+Example 64100: accuracy=0.229657, f1macro=0.0577253, f1micro=0.229657 
+
+Example 64200: accuracy=0.230249, f1macro=0.0579746, f1micro=0.230249 
+
+Example 64300: accuracy=0.230715, f1macro=0.0581756, f1micro=0.230715 
+
+Example 64400: accuracy=0.23132, f1macro=0.0584185, f1micro=0.23132 
+
+Example 64500: accuracy=0.231845, f1macro=0.058629, f1micro=0.231845 
+
+Example 64600: accuracy=0.232167, f1macro=0.05877, f1micro=0.232167 
+
+Example 64700: accuracy=0.232488, f1macro=0.0589069, f1micro=0.232488 
+
+Example 64800: accuracy=0.232855, f1macro=0.0590567, f1micro=0.232855 
+
+Example 64900: accuracy=0.233328, f1macro=0.059234, f1micro=0.233328 
+
+Example 65000: accuracy=0.233754, f1macro=0.0593952, f1micro=0.233754 
+
+Example 65100: accuracy=0.23427, f1macro=0.0595802, f1micro=0.23427 
+
+Example 65200: accuracy=0.234693, f1macro=0.0597332, f1micro=0.234693 
+
+Example 65300: accuracy=0.235145, f1macro=0.0598923, f1micro=0.235145 
+
+Example 65400: accuracy=0.235688, f1macro=0.060074, f1micro=0.235688 
+
+Example 65500: accuracy=0.236198, f1macro=0.060243, f1micro=0.236198 
+
+Example 65600: accuracy=0.236585, f1macro=0.0603741, f1micro=0.236585 
+
+Example 65700: accuracy=0.237002, f1macro=0.0605099, f1micro=0.237002 
+
+Example 65800: accuracy=0.237553, f1macro=0.0606816, f1micro=0.237553 
+
+Example 65900: accuracy=0.23783, f1macro=0.060775, f1micro=0.23783 
+
+Example 66000: accuracy=0.238227, f1macro=0.0608982, f1micro=0.238227 
+
+Example 66100: accuracy=0.238472, f1macro=0.0609801, f1micro=0.238472 
+
+Example 66200: accuracy=0.238822, f1macro=0.0610878, f1micro=0.238822 
+
+Example 66300: accuracy=0.239155, f1macro=0.0611855, f1micro=0.239155 
+
+Example 66400: accuracy=0.239428, f1macro=0.0612699, f1micro=0.239428 
+
+Example 66500: accuracy=0.239383, f1macro=0.0613085, f1micro=0.239383 
+
+Example 66600: accuracy=0.239024, f1macro=0.0613006, f1micro=0.239024 
+
+Example 66700: accuracy=0.238666, f1macro=0.0612907, f1micro=0.238666 
+
+Example 66800: accuracy=0.238308, f1macro=0.0612851, f1micro=0.238308 
+
+Example 66900: accuracy=0.237952, f1macro=0.0612755, f1micro=0.237952 
+
+Example 67000: accuracy=0.237597, f1macro=0.0612645, f1micro=0.237597 
+
+Example 67100: accuracy=0.237243, f1macro=0.061252, f1micro=0.237243 
+
+Example 67200: accuracy=0.23689, f1macro=0.061244, f1micro=0.23689 
+
+Example 67300: accuracy=0.236538, f1macro=0.0612359, f1micro=0.236538 
+
+Example 67400: accuracy=0.236187, f1macro=0.0612242, f1micro=0.236187 
+
+Example 67500: accuracy=0.235837, f1macro=0.0612125, f1micro=0.235837 
+
+Example 67600: accuracy=0.235488, f1macro=0.0611992, f1micro=0.235488 
+
+Example 67700: accuracy=0.23514, f1macro=0.061192, f1micro=0.23514 
+
+Example 67800: accuracy=0.234794, f1macro=0.0611782, f1micro=0.234794 
+
+Example 67900: accuracy=0.234448, f1macro=0.0611709, f1micro=0.234448 
+
+Example 68000: accuracy=0.234103, f1macro=0.0611594, f1micro=0.234103 
+
+Example 68100: accuracy=0.233759, f1macro=0.0611468, f1micro=0.233759 
+
+Example 68200: accuracy=0.233416, f1macro=0.0611335, f1micro=0.233416 
+
+Example 68300: accuracy=0.233089, f1macro=0.0611455, f1micro=0.233089 
+
+Example 68400: accuracy=0.232763, f1macro=0.0611408, f1micro=0.232763 
+
+Example 68500: accuracy=0.232934, f1macro=0.0617206, f1micro=0.232934 
+
+Example 68600: accuracy=0.232945, f1macro=0.0620839, f1micro=0.232945 
+
+Example 68700: accuracy=0.233115, f1macro=0.0625996, f1micro=0.233115 
+
+Example 68800: accuracy=0.233096, f1macro=0.0628905, f1micro=0.233096 
+
+Example 68900: accuracy=0.233222, f1macro=0.0633107, f1micro=0.233222 
+
+Example 69000: accuracy=0.233391, f1macro=0.0637547, f1micro=0.233391 
+
+Example 69100: accuracy=0.233546, f1macro=0.0641598, f1micro=0.233546 
+
+Example 69200: accuracy=0.233642, f1macro=0.0644826, f1micro=0.233642 
+
+Example 69300: accuracy=0.233795, f1macro=0.0648437, f1micro=0.233795 
+
+Example 69400: accuracy=0.233977, f1macro=0.0652118, f1micro=0.233977 
+
+Example 69500: accuracy=0.234115, f1macro=0.0655241, f1micro=0.234115 
+
+Example 69600: accuracy=0.234138, f1macro=0.0657262, f1micro=0.234138 
+
+Example 69700: accuracy=0.234275, f1macro=0.0660133, f1micro=0.234275 
+
+Example 69800: accuracy=0.234513, f1macro=0.0663619, f1micro=0.234513 
+
+Example 69900: accuracy=0.234535, f1macro=0.0665349, f1micro=0.234535 
+
+Example 70000: accuracy=0.234643, f1macro=0.0667673, f1micro=0.234643 
+
+Example 70100: accuracy=0.234665, f1macro=0.0669233, f1micro=0.234665 
+
+Example 70200: accuracy=0.234387, f1macro=0.0668316, f1micro=0.234387 
+
+Example 70300: accuracy=0.234054, f1macro=0.0666939, f1micro=0.234054 
+
+Example 70400: accuracy=0.233736, f1macro=0.0665764, f1micro=0.233736 
+
+Example 70500: accuracy=0.233433, f1macro=0.0664649, f1micro=0.233433 
+
+Example 70600: accuracy=0.23313, f1macro=0.0663618, f1micro=0.23313 
+
+Example 70700: accuracy=0.232829, f1macro=0.0662515, f1micro=0.232829 
+
+Example 70800: accuracy=0.232514, f1macro=0.066135, f1micro=0.232514 
+
+Example 70900: accuracy=0.232186, f1macro=0.0660115, f1micro=0.232186 
+
+Example 71000: accuracy=0.231887, f1macro=0.0659132, f1micro=0.231887 
+
+Example 71100: accuracy=0.231561, f1macro=0.0657918, f1micro=0.231561 
+
+Example 71200: accuracy=0.231671, f1macro=0.0701961, f1micro=0.231671 
+
+Example 71300: accuracy=0.231809, f1macro=0.0729767, f1micro=0.231809 
+
+Example 71400: accuracy=0.231905, f1macro=0.0745466, f1micro=0.231905 
+
+Example 71500: accuracy=0.231846, f1macro=0.0748878, f1micro=0.231846 
+
+Example 71600: accuracy=0.232039, f1macro=0.076246, f1micro=0.232039 
+
+Example 71700: accuracy=0.232176, f1macro=0.077072, f1micro=0.232176 
+
+Example 71800: accuracy=0.232228, f1macro=0.0774499, f1micro=0.232228 
+
+Example 71900: accuracy=0.232323, f1macro=0.0778828, f1micro=0.232323 
+
+Example 72000: accuracy=0.232528, f1macro=0.0785451, f1micro=0.232528 
+
+Example 72100: accuracy=0.232621, f1macro=0.0788191, f1micro=0.232621 
+
+Example 72200: accuracy=0.232729, f1macro=0.0790866, f1micro=0.232729 
+
+Example 72300: accuracy=0.232711, f1macro=0.0790453, f1micro=0.232711 
+
+Example 72400: accuracy=0.232887, f1macro=0.0794056, f1micro=0.232887 
+
+Example 72500: accuracy=0.233007, f1macro=0.0796167, f1micro=0.233007 
+
+Example 72600: accuracy=0.233196, f1macro=0.0799237, f1micro=0.233196 
+
+Example 72700: accuracy=0.233356, f1macro=0.0801464, f1micro=0.233356 
+
+Example 72800: accuracy=0.233585, f1macro=0.0804553, f1micro=0.233585 
+
+Example 72900: accuracy=0.233745, f1macro=0.0806304, f1micro=0.233745 
+
+Example 73000: accuracy=0.233836, f1macro=0.0806876, f1micro=0.233836 
+
+Example 73100: accuracy=0.234036, f1macro=0.0808951, f1micro=0.234036 
+
+Example 73200: accuracy=0.234071, f1macro=0.0808664, f1micro=0.234071 
+
+Example 73300: accuracy=0.234216, f1macro=0.0809776, f1micro=0.234216 
+
+Example 73400: accuracy=0.234414, f1macro=0.0811415, f1micro=0.234414 
+
+Example 73500: accuracy=0.234435, f1macro=0.081086, f1micro=0.234435 
+
+Example 73600: accuracy=0.234524, f1macro=0.0811141, f1micro=0.234524 
+
+Example 73700: accuracy=0.23464, f1macro=0.0811713, f1micro=0.23464 
+
+Example 73800: accuracy=0.234715, f1macro=0.0811779, f1micro=0.234715 
+
+Example 73900: accuracy=0.234871, f1macro=0.0812698, f1micro=0.234871 
+
+Example 74000: accuracy=0.234905, f1macro=0.0812344, f1micro=0.234905 
+
+Example 74100: accuracy=0.234953, f1macro=0.0812141, f1micro=0.234953 
+
+Example 74200: accuracy=0.23504, f1macro=0.0812317, f1micro=0.23504 
+
+Example 74300: accuracy=0.235047, f1macro=0.0811736, f1micro=0.235047 
+
+Example 74400: accuracy=0.235134, f1macro=0.0811919, f1micro=0.235134 
+
+Example 74500: accuracy=0.235221, f1macro=0.0812083, f1micro=0.235221 
+
+Example 74600: accuracy=0.235255, f1macro=0.0811814, f1micro=0.235255 
+
+Example 74700: accuracy=0.235435, f1macro=0.0812713, f1micro=0.235435 
+
+Example 74800: accuracy=0.235602, f1macro=0.0813453, f1micro=0.235602 
+
+Example 74900: accuracy=0.235661, f1macro=0.0813314, f1micro=0.235661 
+
+Example 75000: accuracy=0.235773, f1macro=0.0813588, f1micro=0.235773 
+
+Example 75100: accuracy=0.235859, f1macro=0.0813693, f1micro=0.235859 
+
+Example 75200: accuracy=0.23609, f1macro=0.0814788, f1micro=0.23609 
+
+Example 75300: accuracy=0.236268, f1macro=0.0815498, f1micro=0.236268 
+
+Example 75400: accuracy=0.236406, f1macro=0.0815896, f1micro=0.236406 
+
+Example 75500: accuracy=0.23649, f1macro=0.0815907, f1micro=0.23649 
+
+Example 75600: accuracy=0.236733, f1macro=0.0816977, f1micro=0.236733 
+
+Example 75700: accuracy=0.236843, f1macro=0.0817164, f1micro=0.236843 
+
+Example 75800: accuracy=0.237032, f1macro=0.0817799, f1micro=0.237032 
+
+Example 75900: accuracy=0.237101, f1macro=0.0817659, f1micro=0.237101 
+
+Example 76000: accuracy=0.237303, f1macro=0.081835, f1micro=0.237303 
+
+Example 76100: accuracy=0.237359, f1macro=0.0818158, f1micro=0.237359 
+
+Example 76200: accuracy=0.237533, f1macro=0.0818672, f1micro=0.237533 
+
+Example 76300: accuracy=0.237549, f1macro=0.0818194, f1micro=0.237549 
+
+Example 76400: accuracy=0.237723, f1macro=0.0818652, f1micro=0.237723 
+
+Example 76500: accuracy=0.237948, f1macro=0.0819418, f1micro=0.237948 
+
+Example 76600: accuracy=0.23795, f1macro=0.0818909, f1micro=0.23795 
+
+Example 76700: accuracy=0.238096, f1macro=0.0819212, f1micro=0.238096 
+
+Example 76800: accuracy=0.238229, f1macro=0.0819387, f1micro=0.238229 
+
+Example 76900: accuracy=0.238479, f1macro=0.08202, f1micro=0.238479 
+
+Example 77000: accuracy=0.238662, f1macro=0.0820637, f1micro=0.238662 
+
+Example 77100: accuracy=0.238664, f1macro=0.0820136, f1micro=0.238664 
+
+Example 77200: accuracy=0.238821, f1macro=0.0820449, f1micro=0.238821 
+
+Example 77300: accuracy=0.238952, f1macro=0.0820613, f1micro=0.238952 
+
+Example 77400: accuracy=0.238979, f1macro=0.0820227, f1micro=0.238979 
+
+Example 77500: accuracy=0.239097, f1macro=0.0820294, f1micro=0.239097 
+
+Example 77600: accuracy=0.239188, f1macro=0.0820302, f1micro=0.239188 
+
+Example 77700: accuracy=0.239228, f1macro=0.0820047, f1micro=0.239228 
+
+Example 77800: accuracy=0.239344, f1macro=0.0820148, f1micro=0.239344 
+
+Example 77900: accuracy=0.239422, f1macro=0.0820048, f1micro=0.239422 
+
+Example 78000: accuracy=0.239513, f1macro=0.0820002, f1micro=0.239513 
+
+Example 78100: accuracy=0.239629, f1macro=0.0820061, f1micro=0.239629 
+
+Example 78200: accuracy=0.239719, f1macro=0.0819981, f1micro=0.239719 
+
+Example 78300: accuracy=0.239808, f1macro=0.0819901, f1micro=0.239808 
+
+Example 78400: accuracy=0.239872, f1macro=0.0819748, f1micro=0.239872 
+
+Example 78500: accuracy=0.240025, f1macro=0.0819996, f1micro=0.240025 
+
+Example 78600: accuracy=0.240025, f1macro=0.0819565, f1micro=0.240025 
+
+Example 78700: accuracy=0.240127, f1macro=0.0819569, f1micro=0.240127 
+
+Example 78800: accuracy=0.240241, f1macro=0.0819621, f1micro=0.240241 
+
+Example 78900: accuracy=0.24033, f1macro=0.0819559, f1micro=0.24033 
+
+Example 79000: accuracy=0.240456, f1macro=0.0819689, f1micro=0.240456 
+
+Example 79100: accuracy=0.240518, f1macro=0.0819544, f1micro=0.240518 
+
+Example 79200: accuracy=0.240619, f1macro=0.0819556, f1micro=0.240619 
+
+Example 79300: accuracy=0.240706, f1macro=0.0819501, f1micro=0.240706 
+
+Example 79400: accuracy=0.240768, f1macro=0.0819333, f1micro=0.240768 
+
+Example 79500: accuracy=0.240843, f1macro=0.0819253, f1micro=0.240843 
+
+Example 79600: accuracy=0.240917, f1macro=0.081917, f1micro=0.240917 
+
+Example 79700: accuracy=0.241054, f1macro=0.0819299, f1micro=0.241054 
+
+Example 79800: accuracy=0.241103, f1macro=0.0819086, f1micro=0.241103 
+
+Example 79900: accuracy=0.241227, f1macro=0.081917, f1micro=0.241227 
+
+Example 80000: accuracy=0.241313, f1macro=0.0819111, f1micro=0.241313 
+
+Example 80100: accuracy=0.241436, f1macro=0.0819195, f1micro=0.241436 
+
+Example 80200: accuracy=0.241546, f1macro=0.081923, f1micro=0.241546 
+
+Example 80300: accuracy=0.241743, f1macro=0.0819565, f1micro=0.241743 
+
+Example 80400: accuracy=0.241866, f1macro=0.0819666, f1micro=0.241866 
+
+Example 80500: accuracy=0.242, f1macro=0.0819782, f1micro=0.242 
+
+Example 80600: accuracy=0.242159, f1macro=0.0819966, f1micro=0.242159 
+
+Example 80700: accuracy=0.242305, f1macro=0.082013, f1micro=0.242305 
+
+Example 80800: accuracy=0.2425, f1macro=0.0820439, f1micro=0.2425 
+
+Example 80900: accuracy=0.242621, f1macro=0.0820501, f1micro=0.242621 
+
+Example 81000: accuracy=0.242753, f1macro=0.0820577, f1micro=0.242753 
+
+Example 81100: accuracy=0.242861, f1macro=0.0820578, f1micro=0.242861 
+
+Example 81200: accuracy=0.242931, f1macro=0.0820491, f1micro=0.242931 
+
+Example 81300: accuracy=0.24305, f1macro=0.0820521, f1micro=0.24305 
+
+Example 81400: accuracy=0.243145, f1macro=0.0820491, f1micro=0.243145 
+
+Example 81500: accuracy=0.243252, f1macro=0.0820506, f1micro=0.243252 
+
+Example 81600: accuracy=0.243309, f1macro=0.0820385, f1micro=0.243309 
+
+Example 81700: accuracy=0.243427, f1macro=0.0820431, f1micro=0.243427 
+
+Example 81800: accuracy=0.243619, f1macro=0.0820683, f1micro=0.243619 
+
+Example 81900: accuracy=0.243736, f1macro=0.082073, f1micro=0.243736 
+
+Example 82000: accuracy=0.243695, f1macro=0.0820224, f1micro=0.243695 
+
+Example 82100: accuracy=0.243776, f1macro=0.0820161, f1micro=0.243776 
+
+Example 82200: accuracy=0.243808, f1macro=0.0819916, f1micro=0.243808 
+
+Example 82300: accuracy=0.243913, f1macro=0.0819886, f1micro=0.243913 
+
+Example 82400: accuracy=0.243956, f1macro=0.0819712, f1micro=0.243956 
+
+Example 82500: accuracy=0.244073, f1macro=0.0819775, f1micro=0.244073 
+
+Example 82600: accuracy=0.244092, f1macro=0.0819545, f1micro=0.244092 
+
+Example 82700: accuracy=0.244244, f1macro=0.0819695, f1micro=0.244244 
+
+Example 82800: accuracy=0.244372, f1macro=0.0819756, f1micro=0.244372 
+
+Example 82900: accuracy=0.244499, f1macro=0.0819834, f1micro=0.244499 
+
+Example 83000: accuracy=0.244542, f1macro=0.0819575, f1micro=0.244542 
+
+Example 83100: accuracy=0.244645, f1macro=0.0819543, f1micro=0.244645 
+
+Example 83200: accuracy=0.244736, f1macro=0.0819496, f1micro=0.244736 
+
+Example 83300: accuracy=0.244826, f1macro=0.0819477, f1micro=0.244826 
+
+Example 83400: accuracy=0.245012, f1macro=0.0819671, f1micro=0.245012 
+
+Example 83500: accuracy=0.24503, f1macro=0.0819424, f1micro=0.24503 
+
+Example 83600: accuracy=0.245179, f1macro=0.081954, f1micro=0.245179 
+
+Example 83700: accuracy=0.245388, f1macro=0.0819831, f1micro=0.245388 
+
+Example 83800: accuracy=0.245406, f1macro=0.0819595, f1micro=0.245406 
+
+Example 83900: accuracy=0.245542, f1macro=0.0819655, f1micro=0.245542 
+
+Example 84000: accuracy=0.245571, f1macro=0.0819476, f1micro=0.245571 
+
+Example 84100: accuracy=0.245731, f1macro=0.0819649, f1micro=0.245731 
+
+Example 84200: accuracy=0.245819, f1macro=0.0819579, f1micro=0.245819 
+
+Example 84300: accuracy=0.245919, f1macro=0.081957, f1micro=0.245919 
+
+Example 84400: accuracy=0.2459, f1macro=0.0819257, f1micro=0.2459 
+
+Example 84500: accuracy=0.246, f1macro=0.0819235, f1micro=0.246 
+
+Example 84600: accuracy=0.246123, f1macro=0.0819276, f1micro=0.246123 
+
+Example 84700: accuracy=0.246198, f1macro=0.0819176, f1micro=0.246198 
+
+Example 84800: accuracy=0.246238, f1macro=0.0819024, f1micro=0.246238 
+
+Example 84900: accuracy=0.246349, f1macro=0.0819037, f1micro=0.246349 
+
+Example 85000: accuracy=0.246482, f1macro=0.0819089, f1micro=0.246482 
+
+Example 85100: accuracy=0.246592, f1macro=0.081908, f1micro=0.246592 
+
+Example 85200: accuracy=0.246631, f1macro=0.0818911, f1micro=0.246631 
+
+Example 85300: accuracy=0.246694, f1macro=0.0818808, f1micro=0.246694 
+
+Example 85400: accuracy=0.246827, f1macro=0.08189, f1micro=0.246827 
+
+Example 85500: accuracy=0.246901, f1macro=0.0818809, f1micro=0.246901 
+
+Example 85600: accuracy=0.246998, f1macro=0.0818792, f1micro=0.246998 
+
+Example 85700: accuracy=0.24706, f1macro=0.08187, f1micro=0.24706 
+
+Example 85800: accuracy=0.24711, f1macro=0.0818558, f1micro=0.24711 
+
+Example 85900: accuracy=0.247078, f1macro=0.0818227, f1micro=0.247078 
+
+Example 86000: accuracy=0.24714, f1macro=0.0818136, f1micro=0.24714 
+
+Example 86100: accuracy=0.247201, f1macro=0.081804, f1micro=0.247201 
+
+Example 86200: accuracy=0.247297, f1macro=0.0817961, f1micro=0.247297 
+
+Example 86300: accuracy=0.247428, f1macro=0.0818005, f1micro=0.247428 
+
+Example 86400: accuracy=0.247558, f1macro=0.0818072, f1micro=0.247558 
+
+Example 86500: accuracy=0.247572, f1macro=0.0817838, f1micro=0.247572 
+
+Example 86600: accuracy=0.24776, f1macro=0.0818014, f1micro=0.24776 
+
+Example 86700: accuracy=0.247832, f1macro=0.081794, f1micro=0.247832 
+
+Example 86800: accuracy=0.247961, f1macro=0.081798, f1micro=0.247961 
+
+Example 86900: accuracy=0.24809, f1macro=0.0818018, f1micro=0.24809 
+
+Example 87000: accuracy=0.248149, f1macro=0.0817874, f1micro=0.248149 
+
+Example 87100: accuracy=0.248232, f1macro=0.0817839, f1micro=0.248232 
+
+Example 87200: accuracy=0.248314, f1macro=0.0817814, f1micro=0.248314 
+
+Example 87300: accuracy=0.248431, f1macro=0.0817815, f1micro=0.248431 
+
+Example 87400: accuracy=0.248581, f1macro=0.0817893, f1micro=0.248581 
+
+Example 87500: accuracy=0.248617, f1macro=0.081774, f1micro=0.248617 
+
+Example 87600: accuracy=0.248676, f1macro=0.0817624, f1micro=0.248676 
+
+Example 87700: accuracy=0.24878, f1macro=0.081759, f1micro=0.24878 
+
+Example 87800: accuracy=0.248838, f1macro=0.0817465, f1micro=0.248838 
+
+Example 87900: accuracy=0.248931, f1macro=0.0817417, f1micro=0.248931 
+
+Example 88000: accuracy=0.248955, f1macro=0.0817228, f1micro=0.248955 
+
+Example 88100: accuracy=0.249035, f1macro=0.081716, f1micro=0.249035 
+
+Example 88200: accuracy=0.249104, f1macro=0.0817074, f1micro=0.249104 
+
+Example 88300: accuracy=0.249173, f1macro=0.0816997, f1micro=0.249173 
+
+Example 88400: accuracy=0.249253, f1macro=0.0816936, f1micro=0.249253 
+
+Example 88500: accuracy=0.249277, f1macro=0.0816749, f1micro=0.249277 
+
+Example 88600: accuracy=0.249357, f1macro=0.0816682, f1micro=0.249357 
+
+Example 88700: accuracy=0.249414, f1macro=0.0816616, f1micro=0.249414 
+
+Example 88800: accuracy=0.249516, f1macro=0.0816618, f1micro=0.249516 
+
+Example 88900: accuracy=0.249595, f1macro=0.0816582, f1micro=0.249595 
+
+Example 89000: accuracy=0.24973, f1macro=0.0816644, f1micro=0.24973 
+
+Example 89100: accuracy=0.249798, f1macro=0.0816556, f1micro=0.249798 
+
+Example 89200: accuracy=0.249966, f1macro=0.0816652, f1micro=0.249966 
+
+Example 89300: accuracy=0.250056, f1macro=0.0816642, f1micro=0.250056 
+
+Example 89400: accuracy=0.250089, f1macro=0.0816464, f1micro=0.250089 
+
+Example 89500: accuracy=0.250145, f1macro=0.081638, f1micro=0.250145 
+
+Example 89600: accuracy=0.250167, f1macro=0.0816211, f1micro=0.250167 
+
+Example 89700: accuracy=0.250323, f1macro=0.0816332, f1micro=0.250323 
+
+Example 89800: accuracy=0.250412, f1macro=0.081626, f1micro=0.250412 
+
+Example 89900: accuracy=0.250501, f1macro=0.081621, f1micro=0.250501 
+
+Example 90000: accuracy=0.250611, f1macro=0.0816229, f1micro=0.250611 
+
+Example 90100: accuracy=0.250788, f1macro=0.0816395, f1micro=0.250788 
+
+Example 90200: accuracy=0.25082, f1macro=0.0816233, f1micro=0.25082 
+
+Example 90300: accuracy=0.250908, f1macro=0.0816209, f1micro=0.250908 
+
+Example 90400: accuracy=0.250896, f1macro=0.0815945, f1micro=0.250896 
+
+Example 90500: accuracy=0.250939, f1macro=0.0815858, f1micro=0.250939 
+
+Example 90600: accuracy=0.251115, f1macro=0.0816021, f1micro=0.251115 
+
+Example 90700: accuracy=0.25129, f1macro=0.0816165, f1micro=0.25129 
+
+Example 90800: accuracy=0.2513, f1macro=0.0815988, f1micro=0.2513 
+
+Example 90900: accuracy=0.251397, f1macro=0.081599, f1micro=0.251397 
+
+Example 91000: accuracy=0.251121, f1macro=0.0815138, f1micro=0.251121 
+
+Example 91100: accuracy=0.250845, f1macro=0.0814361, f1micro=0.250845 
+
+Example 91200: accuracy=0.250625, f1macro=0.0821271, f1micro=0.250625 
+
+Example 91300: accuracy=0.25046, f1macro=0.0831576, f1micro=0.25046 
+
+Example 91400: accuracy=0.250241, f1macro=0.0833939, f1micro=0.250241 
+
+Example 91500: accuracy=0.250011, f1macro=0.0834836, f1micro=0.250011 
+
+Example 91600: accuracy=0.249793, f1macro=0.0836283, f1micro=0.249793 
+
+Example 91700: accuracy=0.249586, f1macro=0.0838066, f1micro=0.249586 
+
+Example 91800: accuracy=0.249379, f1macro=0.0839554, f1micro=0.249379 
+
+Example 91900: accuracy=0.249184, f1macro=0.0841249, f1micro=0.249184 
+
+Example 92000: accuracy=0.248978, f1macro=0.0842228, f1micro=0.248978 
+
+Example 92100: accuracy=0.248784, f1macro=0.0843543, f1micro=0.248784 
+
+Example 92200: accuracy=0.248623, f1macro=0.0845983, f1micro=0.248623 
+
+Example 92300: accuracy=0.248407, f1macro=0.0846035, f1micro=0.248407 
+
+Example 92400: accuracy=0.248182, f1macro=0.0845715, f1micro=0.248182 
+
+Example 92500: accuracy=0.247935, f1macro=0.0844701, f1micro=0.247935 
+
+Example 92600: accuracy=0.247667, f1macro=0.0843064, f1micro=0.247667 
+
+Example 92700: accuracy=0.2474, f1macro=0.0841604, f1micro=0.2474 
+
+Example 92800: accuracy=0.247134, f1macro=0.0840277, f1micro=0.247134 
+
+Example 92900: accuracy=0.246868, f1macro=0.0839046, f1micro=0.246868 
+
+Example 93000: accuracy=0.246602, f1macro=0.0837935, f1micro=0.246602 
+
+Example 93100: accuracy=0.246337, f1macro=0.0836906, f1micro=0.246337 
+
+Example 93200: accuracy=0.246084, f1macro=0.0836226, f1micro=0.246084 
+
+Example 93300: accuracy=0.24582, f1macro=0.0835312, f1micro=0.24582 
+
+Example 93400: accuracy=0.245557, f1macro=0.083445, f1micro=0.245557 
+
+Example 93500: accuracy=0.245294, f1macro=0.0833683, f1micro=0.245294 
+
+Example 93600: accuracy=0.245032, f1macro=0.0832947, f1micro=0.245032 
+
+Example 93700: accuracy=0.244771, f1macro=0.0832215, f1micro=0.244771 
+
+Example 93800: accuracy=0.24451, f1macro=0.0831587, f1micro=0.24451 
+
+Example 93900: accuracy=0.244249, f1macro=0.0830957, f1micro=0.244249 
+
+Example 94000: accuracy=0.243989, f1macro=0.0830382, f1micro=0.243989 
+
+Example 94100: accuracy=0.24373, f1macro=0.0829834, f1micro=0.24373 
+
+Example 94200: accuracy=0.243471, f1macro=0.0829319, f1micro=0.243471 
+
+Example 94300: accuracy=0.243213, f1macro=0.0828804, f1micro=0.243213 
+
+Example 94400: accuracy=0.242956, f1macro=0.0828289, f1micro=0.242956 
+
+Example 94500: accuracy=0.242698, f1macro=0.0827851, f1micro=0.242698 
+
+Example 94600: accuracy=0.242452, f1macro=0.0827605, f1micro=0.242452 
+
+Example 94700: accuracy=0.242196, f1macro=0.0827189, f1micro=0.242196 
+
+Example 94800: accuracy=0.241941, f1macro=0.082678, f1micro=0.241941 
+
+Example 94900: accuracy=0.241686, f1macro=0.0826415, f1micro=0.241686 
+
+Example 95000: accuracy=0.241432, f1macro=0.0826045, f1micro=0.241432 
+
+Example 95100: accuracy=0.241178, f1macro=0.08257, f1micro=0.241178 
+
+Example 95200: accuracy=0.240924, f1macro=0.0825361, f1micro=0.240924 
+
+Example 95300: accuracy=0.240672, f1macro=0.0825046, f1micro=0.240672 
+
+Example 95400: accuracy=0.240419, f1macro=0.0824738, f1micro=0.240419 
+
+Example 95500: accuracy=0.240168, f1macro=0.0824429, f1micro=0.240168 
+
+Example 95600: accuracy=0.239916, f1macro=0.0824147, f1micro=0.239916 
+
+Example 95700: accuracy=0.239666, f1macro=0.0823854, f1micro=0.239666 
+
+Example 95800: accuracy=0.239426, f1macro=0.0823712, f1micro=0.239426 
+
+Example 95900: accuracy=0.239176, f1macro=0.0823453, f1micro=0.239176 
+
+Example 96000: accuracy=0.238927, f1macro=0.0823179, f1micro=0.238927 
+
+Example 96100: accuracy=0.238678, f1macro=0.08229, f1micro=0.238678 
+
+Example 96200: accuracy=0.238451, f1macro=0.0822929, f1micro=0.238451 
+
+Example 96300: accuracy=0.238204, f1macro=0.0822708, f1micro=0.238204 
+
+Example 96400: accuracy=0.237956, f1macro=0.0822485, f1micro=0.237956 
+
+Example 96500: accuracy=0.23771, f1macro=0.0822255, f1micro=0.23771 
+
+Example 96600: accuracy=0.237464, f1macro=0.0822044, f1micro=0.237464 
+
+Example 96700: accuracy=0.237218, f1macro=0.0821814, f1micro=0.237218 
+
+Example 96800: accuracy=0.236973, f1macro=0.0821632, f1micro=0.236973 
+
+Example 96900: accuracy=0.236729, f1macro=0.0821441, f1micro=0.236729 
+
+Example 97000: accuracy=0.236485, f1macro=0.0821241, f1micro=0.236485 
+
+Example 97100: accuracy=0.236241, f1macro=0.0821058, f1micro=0.236241 
+
+Example 97200: accuracy=0.236008, f1macro=0.0820981, f1micro=0.236008 
+
+Example 97300: accuracy=0.235766, f1macro=0.0820812, f1micro=0.235766 
+
+Example 97400: accuracy=0.235524, f1macro=0.0820617, f1micro=0.235524 
+
+Example 97500: accuracy=0.235282, f1macro=0.0820452, f1micro=0.235282 
+
+Example 97600: accuracy=0.235041, f1macro=0.0820248, f1micro=0.235041 
+
+Example 97700: accuracy=0.234811, f1macro=0.0820179, f1micro=0.234811 
+
+Example 97800: accuracy=0.234571, f1macro=0.0820002, f1micro=0.234571 
+
+Example 97900: accuracy=0.234331, f1macro=0.081984, f1micro=0.234331 
+
+Example 98000: accuracy=0.234092, f1macro=0.0819677, f1micro=0.234092 
+
+Example 98100: accuracy=0.233853, f1macro=0.0819525, f1micro=0.233853 
+
+Example 98200: accuracy=0.233615, f1macro=0.0819363, f1micro=0.233615 
+
+Example 98300: accuracy=0.233377, f1macro=0.0819214, f1micro=0.233377 
+
+Example 98400: accuracy=0.23314, f1macro=0.0819067, f1micro=0.23314 
+
+Example 98500: accuracy=0.232904, f1macro=0.081894, f1micro=0.232904 
+
+Example 98600: accuracy=0.232667, f1macro=0.0818773, f1micro=0.232667 
+
+Example 98700: accuracy=0.232432, f1macro=0.081865, f1micro=0.232432 
+
+Example 98800: accuracy=0.232196, f1macro=0.0818515, f1micro=0.232196 
+
+Example 98900: accuracy=0.231962, f1macro=0.0818356, f1micro=0.231962 
+
+Example 99000: accuracy=0.231727, f1macro=0.0818203, f1micro=0.231727 
+
+Example 99100: accuracy=0.231493, f1macro=0.0818062, f1micro=0.231493 
+
+Example 99200: accuracy=0.23126, f1macro=0.081794, f1micro=0.23126 
+
+Example 99300: accuracy=0.231027, f1macro=0.0817804, f1micro=0.231027 
+
+Example 99400: accuracy=0.230795, f1macro=0.0817701, f1micro=0.230795 
+
+Example 99500: accuracy=0.230563, f1macro=0.0817581, f1micro=0.230563 
+
+Example 99600: accuracy=0.230331, f1macro=0.0817468, f1micro=0.230331 
+
+Example 99700: accuracy=0.2301, f1macro=0.0817326, f1micro=0.2301 
+
+Example 99800: accuracy=0.22988, f1macro=0.0817281, f1micro=0.22988 
+
+Example 99900: accuracy=0.22965, f1macro=0.0817158, f1micro=0.22965 
+
+Example 100000: accuracy=0.22942, f1macro=0.0817034, f1micro=0.22942 
+
+Example 100100: accuracy=0.229191, f1macro=0.0816898, f1micro=0.229191 
+
+Example 100200: accuracy=0.228962, f1macro=0.081679, f1micro=0.228962 
+
+Example 100300: accuracy=0.228734, f1macro=0.0816666, f1micro=0.228734 
+
+Example 100400: accuracy=0.228506, f1macro=0.0816555, f1micro=0.228506 
+
+Example 100500: accuracy=0.228279, f1macro=0.0816443, f1micro=0.228279 
+
+Example 100600: accuracy=0.228052, f1macro=0.0816321, f1micro=0.228052 
+
+Example 100700: accuracy=0.227825, f1macro=0.0816235, f1micro=0.227825 
+
+Example 100800: accuracy=0.227599, f1macro=0.081615, f1micro=0.227599 
+
+Example 100900: accuracy=0.227374, f1macro=0.0816035, f1micro=0.227374 
+
+Example 101000: accuracy=0.227149, f1macro=0.0815942, f1micro=0.227149 
+
+Example 101100: accuracy=0.226924, f1macro=0.081582, f1micro=0.226924 
+
+Example 101200: accuracy=0.226709, f1macro=0.0815796, f1micro=0.226709 
+
+Example 101300: accuracy=0.226486, f1macro=0.0815695, f1micro=0.226486 
+
+Example 101400: accuracy=0.226262, f1macro=0.081558, f1micro=0.226262 
+
+Example 101500: accuracy=0.226049, f1macro=0.0815552, f1micro=0.226049 
+
+Example 101600: accuracy=0.225827, f1macro=0.0815463, f1micro=0.225827 
+
+Example 101700: accuracy=0.225605, f1macro=0.081538, f1micro=0.225605 
+
+Example 101800: accuracy=0.225393, f1macro=0.0815344, f1micro=0.225393 
+
+Example 101900: accuracy=0.225172, f1macro=0.0815234, f1micro=0.225172 
+
+Example 102000: accuracy=0.224951, f1macro=0.0815135, f1micro=0.224951 
+
+Example 102100: accuracy=0.224731, f1macro=0.0815043, f1micro=0.224731 
+
+Example 102200: accuracy=0.224511, f1macro=0.0814932, f1micro=0.224511 
+
+Example 102300: accuracy=0.224291, f1macro=0.0814839, f1micro=0.224291 
+
+Example 102400: accuracy=0.224082, f1macro=0.0814826, f1micro=0.224082 
+
+Example 102500: accuracy=0.223863, f1macro=0.0814724, f1micro=0.223863 
+
+Example 102600: accuracy=0.223645, f1macro=0.0814635, f1micro=0.223645 
+
+Example 102700: accuracy=0.223427, f1macro=0.0814546, f1micro=0.223427 
+
+Example 102800: accuracy=0.22321, f1macro=0.0814462, f1micro=0.22321 
+
+Example 102900: accuracy=0.222993, f1macro=0.0814398, f1micro=0.222993 
+
+Example 103000: accuracy=0.222777, f1macro=0.0814324, f1micro=0.222777 
+
+Example 103100: accuracy=0.222561, f1macro=0.081425, f1micro=0.222561 
+
+Example 103200: accuracy=0.222345, f1macro=0.0814189, f1micro=0.222345 
+
+Example 103300: accuracy=0.22213, f1macro=0.0814084, f1micro=0.22213 
+
+Example 103400: accuracy=0.221915, f1macro=0.0813998, f1micro=0.221915 
+
+Example 103500: accuracy=0.2217, f1macro=0.0813918, f1micro=0.2217 
+
+Example 103600: accuracy=0.221486, f1macro=0.0813857, f1micro=0.221486 
+
+Example 103700: accuracy=0.221273, f1macro=0.0813764, f1micro=0.221273 
+
+Example 103800: accuracy=0.221069, f1macro=0.0813737, f1micro=0.221069 
+
+Example 103900: accuracy=0.220857, f1macro=0.0813654, f1micro=0.220857 
+
+Example 104000: accuracy=0.220654, f1macro=0.0813635, f1micro=0.220654 
+
+Example 104100: accuracy=0.220442, f1macro=0.0813567, f1micro=0.220442 
+
+Example 104200: accuracy=0.22023, f1macro=0.08135, f1micro=0.22023 
+
+Example 104300: accuracy=0.220019, f1macro=0.0813409, f1micro=0.220019 
+
+Example 104400: accuracy=0.219808, f1macro=0.0813323, f1micro=0.219808 
+
+Example 104500: accuracy=0.219598, f1macro=0.0813267, f1micro=0.219598 
+
+Example 104600: accuracy=0.219388, f1macro=0.0813201, f1micro=0.219388 
+
+Example 104700: accuracy=0.219179, f1macro=0.0813146, f1micro=0.219179 
+
+Example 104800: accuracy=0.218969, f1macro=0.081308, f1micro=0.218969 
+
+Example 104900: accuracy=0.218761, f1macro=0.0812999, f1micro=0.218761 
+
+Example 105000: accuracy=0.218562, f1macro=0.0812933, f1micro=0.218562 
+
+Example 105100: accuracy=0.218354, f1macro=0.0812867, f1micro=0.218354 
+
+Example 105200: accuracy=0.218146, f1macro=0.0812796, f1micro=0.218146 
+
+Example 105300: accuracy=0.217939, f1macro=0.081272, f1micro=0.217939 
+
+Example 105400: accuracy=0.217732, f1macro=0.0812664, f1micro=0.217732 
+
+Example 105500: accuracy=0.217526, f1macro=0.0812585, f1micro=0.217526 
+
+Example 105600: accuracy=0.21733, f1macro=0.0812562, f1micro=0.21733 
+
+Example 105700: accuracy=0.217124, f1macro=0.0812497, f1micro=0.217124 
+
+Example 105800: accuracy=0.216919, f1macro=0.0812437, f1micro=0.216919 
+
+Example 105900: accuracy=0.216714, f1macro=0.081238, f1micro=0.216714 
+
+Example 106000: accuracy=0.216509, f1macro=0.0812324, f1micro=0.216509 
+
+Example 106100: accuracy=0.216305, f1macro=0.0812256, f1micro=0.216305 
+
+Example 106200: accuracy=0.216102, f1macro=0.0812186, f1micro=0.216102 
+
+Example 106300: accuracy=0.215898, f1macro=0.0812134, f1micro=0.215898 
+
+Example 106400: accuracy=0.215695, f1macro=0.0812065, f1micro=0.215695 
+
+Example 106500: accuracy=0.215493, f1macro=0.0811976, f1micro=0.215493 
+
+Example 106600: accuracy=0.215291, f1macro=0.0811917, f1micro=0.215291 
+
+Example 106700: accuracy=0.215089, f1macro=0.0811849, f1micro=0.215089 
+
+Example 106800: accuracy=0.214897, f1macro=0.0811826, f1micro=0.214897 
+
+Example 106900: accuracy=0.214696, f1macro=0.0811769, f1micro=0.214696 
+
+Example 107000: accuracy=0.214495, f1macro=0.0811702, f1micro=0.214495 
+
+Example 107100: accuracy=0.214295, f1macro=0.0811641, f1micro=0.214295 
+
+Example 107200: accuracy=0.214095, f1macro=0.0811575, f1micro=0.214095 
+
+Example 107300: accuracy=0.213896, f1macro=0.081151, f1micro=0.213896 
+
+Example 107400: accuracy=0.213696, f1macro=0.0811442, f1micro=0.213696 
+
+Example 107500: accuracy=0.213498, f1macro=0.081137, f1micro=0.213498 
+
+Example 107600: accuracy=0.213299, f1macro=0.0811315, f1micro=0.213299 
+
+Example 107700: accuracy=0.213101, f1macro=0.081125, f1micro=0.213101 
+
+Example 107800: accuracy=0.212904, f1macro=0.081118, f1micro=0.212904 
+
+Example 107900: accuracy=0.212706, f1macro=0.0811117, f1micro=0.212706 
+
+Example 108000: accuracy=0.212509, f1macro=0.0811063, f1micro=0.212509 
+
+Example 108100: accuracy=0.212313, f1macro=0.0811, f1micro=0.212313 
+
+Example 108200: accuracy=0.212116, f1macro=0.0810943, f1micro=0.212116 
+
+Example 108300: accuracy=0.211921, f1macro=0.0810891, f1micro=0.211921 
+
+Example 108400: accuracy=0.211725, f1macro=0.0810816, f1micro=0.211725 
+
+Example 108500: accuracy=0.21153, f1macro=0.0810724, f1micro=0.21153 
+
+Example 108600: accuracy=0.211335, f1macro=0.0810677, f1micro=0.211335 
+
+Example 108700: accuracy=0.211141, f1macro=0.0810623, f1micro=0.211141 
+
+Example 108800: accuracy=0.210947, f1macro=0.0810562, f1micro=0.210947 
+
+Example 108900: accuracy=0.210753, f1macro=0.0810493, f1micro=0.210753 
+
+Example 109000: accuracy=0.210578, f1macro=0.081049, f1micro=0.210578 
+
+Example 109100: accuracy=0.210385, f1macro=0.08104, f1micro=0.210385 
+
+Example 109200: accuracy=0.210192, f1macro=0.0810322, f1micro=0.210192 
+
+Example 109300: accuracy=0.210009, f1macro=0.081031, f1micro=0.210009 
+
+Example 109400: accuracy=0.209817, f1macro=0.0810263, f1micro=0.209817 
+
+Example 109500: accuracy=0.209635, f1macro=0.0810234, f1micro=0.209635 
+
+Example 109600: accuracy=0.209443, f1macro=0.0810173, f1micro=0.209443 
+
+Example 109700: accuracy=0.209253, f1macro=0.0810126, f1micro=0.209253 
+
+Example 109800: accuracy=0.209071, f1macro=0.0810112, f1micro=0.209071 
+
+Example 109900: accuracy=0.208881, f1macro=0.0810022, f1micro=0.208881 
+
+Example 110000: accuracy=0.208691, f1macro=0.080997, f1micro=0.208691 
+
+Example 110100: accuracy=0.208501, f1macro=0.0809906, f1micro=0.208501 
+
+Example 110200: accuracy=0.208312, f1macro=0.0809826, f1micro=0.208312 
+
+Example 110300: accuracy=0.208123, f1macro=0.0809771, f1micro=0.208123 
+
+Example 110400: accuracy=0.207935, f1macro=0.0809705, f1micro=0.207935 
+
+Example 110500: accuracy=0.207747, f1macro=0.0809662, f1micro=0.207747 
+
+Example 110600: accuracy=0.207559, f1macro=0.0809611, f1micro=0.207559 
+
+Example 110700: accuracy=0.20738, f1macro=0.0809554, f1micro=0.20738 
+
+Example 110800: accuracy=0.207193, f1macro=0.0809515, f1micro=0.207193 
+
+Example 110900: accuracy=0.207006, f1macro=0.0809437, f1micro=0.207006 
+
+Example 111000: accuracy=0.20682, f1macro=0.0809381, f1micro=0.20682 
+
+Example 111100: accuracy=0.206634, f1macro=0.0809307, f1micro=0.206634 
+
+Example 111200: accuracy=0.206457, f1macro=0.0809294, f1micro=0.206457 
+
+Example 111300: accuracy=0.206271, f1macro=0.0809255, f1micro=0.206271 
+
+Example 111400: accuracy=0.206086, f1macro=0.0809196, f1micro=0.206086 
+
+Example 111500: accuracy=0.20591, f1macro=0.0812296, f1micro=0.20591 
+
+Example 111600: accuracy=0.205762, f1macro=0.0819882, f1micro=0.205762 
+
+Example 111700: accuracy=0.205622, f1macro=0.0825416, f1micro=0.205622 
+
+Example 111800: accuracy=0.205447, f1macro=0.0823594, f1micro=0.205447 
+
+Example 111900: accuracy=0.205299, f1macro=0.0825622, f1micro=0.205299 
+
+Example 112000: accuracy=0.205152, f1macro=0.0827058, f1micro=0.205152 
+
+Example 112100: accuracy=0.205013, f1macro=0.082895, f1micro=0.205013 
+
+Example 112200: accuracy=0.204893, f1macro=0.0831868, f1micro=0.204893 
+
+Example 112300: accuracy=0.204755, f1macro=0.0832865, f1micro=0.204755 
+
+Example 112400: accuracy=0.204617, f1macro=0.0833653, f1micro=0.204617 
+
+Example 112500: accuracy=0.204462, f1macro=0.0833257, f1micro=0.204462 
+
+Example 112600: accuracy=0.204316, f1macro=0.0833416, f1micro=0.204316 
+
+Example 112700: accuracy=0.20417, f1macro=0.0833523, f1micro=0.20417 
+
+Example 112800: accuracy=0.204007, f1macro=0.0832719, f1micro=0.204007 
+
+Example 112900: accuracy=0.203888, f1macro=0.0834042, f1micro=0.203888 
+
+Example 113000: accuracy=0.203735, f1macro=0.0833684, f1micro=0.203735 
+
+Example 113100: accuracy=0.20359, f1macro=0.0833703, f1micro=0.20359 
+
+Example 113200: accuracy=0.203445, f1macro=0.0833732, f1micro=0.203445 
+
+Example 113300: accuracy=0.203292, f1macro=0.0833393, f1micro=0.203292 
+
+Example 113400: accuracy=0.203131, f1macro=0.0832769, f1micro=0.203131 
+
+Example 113500: accuracy=0.202987, f1macro=0.0832802, f1micro=0.202987 
+
+Example 113600: accuracy=0.202817, f1macro=0.0831967, f1micro=0.202817 
+
+Example 113700: accuracy=0.202709, f1macro=0.0833148, f1micro=0.202709 
+
+Example 113800: accuracy=0.202566, f1macro=0.0833179, f1micro=0.202566 
+
+Example 113900: accuracy=0.202441, f1macro=0.0833692, f1micro=0.202441 
+
+Example 114000: accuracy=0.202298, f1macro=0.0833667, f1micro=0.202298 
+
+Example 114100: accuracy=0.202156, f1macro=0.0833676, f1micro=0.202156 
+
+Example 114200: accuracy=0.202032, f1macro=0.0834079, f1micro=0.202032 
+
+Example 114300: accuracy=0.201899, f1macro=0.083423, f1micro=0.201899 
+
+Example 114400: accuracy=0.20174, f1macro=0.0833753, f1micro=0.20174 
+
+Example 114500: accuracy=0.201607, f1macro=0.0833917, f1micro=0.201607 
+
+Example 114600: accuracy=0.201457, f1macro=0.0833685, f1micro=0.201457 
+
+Example 114700: accuracy=0.201308, f1macro=0.083343, f1micro=0.201308 
+
+Example 114800: accuracy=0.201228, f1macro=0.0834698, f1micro=0.201228 
+
+Example 114900: accuracy=0.201088, f1macro=0.0834625, f1micro=0.201088 
+
+Example 115000: accuracy=0.200948, f1macro=0.0834551, f1micro=0.200948 
+
+Example 115100: accuracy=0.200817, f1macro=0.0834636, f1micro=0.200817 
+
+Example 115200: accuracy=0.200686, f1macro=0.0834727, f1micro=0.200686 
+
+Example 115300: accuracy=0.200555, f1macro=0.0834802, f1micro=0.200555 
+
+Example 115400: accuracy=0.20039, f1macro=0.0834198, f1micro=0.20039 
+
+Example 115500: accuracy=0.200242, f1macro=0.0833962, f1micro=0.200242 
+
+Example 115600: accuracy=0.200112, f1macro=0.083405, f1micro=0.200112 
+
+Example 115700: accuracy=0.199965, f1macro=0.0833806, f1micro=0.199965 
+
+Example 115800: accuracy=0.199827, f1macro=0.0833737, f1micro=0.199827 
+
+Example 115900: accuracy=0.199681, f1macro=0.0833547, f1micro=0.199681 
+
+Example 116000: accuracy=0.19956, f1macro=0.0833776, f1micro=0.19956 
+
+Example 116100: accuracy=0.19944, f1macro=0.0833956, f1micro=0.19944 
+
+Example 116200: accuracy=0.199286, f1macro=0.0833639, f1micro=0.199286 
+
+Example 116300: accuracy=0.199149, f1macro=0.0833545, f1micro=0.199149 
+
+Example 116400: accuracy=0.199038, f1macro=0.0833866, f1micro=0.199038 
+
+Example 116500: accuracy=0.198893, f1macro=0.0833666, f1micro=0.198893 
+
+Example 116600: accuracy=0.198782, f1macro=0.0833963, f1micro=0.198782 
+
+Example 116700: accuracy=0.198646, f1macro=0.083388, f1micro=0.198646 
+
+Example 116800: accuracy=0.19851, f1macro=0.0833816, f1micro=0.19851 
+
+Example 116900: accuracy=0.198349, f1macro=0.083339, f1micro=0.198349 
+
+Example 117000: accuracy=0.198205, f1macro=0.0833185, f1micro=0.198205 
+
+Example 117100: accuracy=0.198044, f1macro=0.0832746, f1micro=0.198044 
+
+Example 117200: accuracy=0.197901, f1macro=0.0832587, f1micro=0.197901 
+
+Example 117300: accuracy=0.197766, f1macro=0.0832501, f1micro=0.197766 
+
+Example 117400: accuracy=0.197658, f1macro=0.083274, f1micro=0.197658 
+
+Example 117500: accuracy=0.197549, f1macro=0.0832962, f1micro=0.197549 
+
+Example 117600: accuracy=0.197406, f1macro=0.083279, f1micro=0.197406 
+
+Example 117700: accuracy=0.197256, f1macro=0.0832497, f1micro=0.197256 
+
+Example 117800: accuracy=0.197148, f1macro=0.0832744, f1micro=0.197148 
+
+Example 117900: accuracy=0.197006, f1macro=0.0832567, f1micro=0.197006 
+
+Example 118000: accuracy=0.196873, f1macro=0.0832496, f1micro=0.196873 
+
+Example 118100: accuracy=0.19674, f1macro=0.0832446, f1micro=0.19674 
+
+Example 118200: accuracy=0.196633, f1macro=0.0832662, f1micro=0.196633 
+
+Example 118300: accuracy=0.1965, f1macro=0.0832616, f1micro=0.1965 
+
+Example 118400: accuracy=0.19636, f1macro=0.0832439, f1micro=0.19636 
+
+Example 118500: accuracy=0.196219, f1macro=0.0832255, f1micro=0.196219 
+
+Example 118600: accuracy=0.196088, f1macro=0.0832169, f1micro=0.196088 
+
+Example 118700: accuracy=0.195948, f1macro=0.0831968, f1micro=0.195948 
+
+Example 118800: accuracy=0.195833, f1macro=0.0832076, f1micro=0.195833 
+
+Example 118900: accuracy=0.195685, f1macro=0.0831832, f1micro=0.195685 
+
+Example 119000: accuracy=0.195538, f1macro=0.0831571, f1micro=0.195538 
+
+Example 119100: accuracy=0.19539, f1macro=0.0831337, f1micro=0.19539 
+
+Example 119200: accuracy=0.195252, f1macro=0.083119, f1micro=0.195252 
+
+Example 119300: accuracy=0.19513, f1macro=0.0831236, f1micro=0.19513 
+
+Example 119400: accuracy=0.194992, f1macro=0.0831074, f1micro=0.194992 
+
+Example 119500: accuracy=0.19487, f1macro=0.0831082, f1micro=0.19487 
+
+Example 119600: accuracy=0.194724, f1macro=0.0830866, f1micro=0.194724 
+
+Example 119700: accuracy=0.194603, f1macro=0.0830883, f1micro=0.194603 
+
+Example 119800: accuracy=0.194457, f1macro=0.0830486, f1micro=0.194457 
+
+Example 119900: accuracy=0.194295, f1macro=0.0829831, f1micro=0.194295 
+
+Example 120000: accuracy=0.194133, f1macro=0.0829215, f1micro=0.194133 
+
+Example 120100: accuracy=0.193972, f1macro=0.0828416, f1micro=0.193972 
+
+Example 120200: accuracy=0.19381, f1macro=0.0827625, f1micro=0.19381 
+
+Example 120300: accuracy=0.193649, f1macro=0.0826898, f1micro=0.193649 
+
+Example 120400: accuracy=0.193488, f1macro=0.0826094, f1micro=0.193488 
+
+Example 120500: accuracy=0.193328, f1macro=0.082526, f1micro=0.193328 
+
+Example 120600: accuracy=0.193167, f1macro=0.082452, f1micro=0.193167 
+
+Example 120700: accuracy=0.193007, f1macro=0.0823891, f1micro=0.193007 
+
+Example 120800: accuracy=0.192848, f1macro=0.0823313, f1micro=0.192848 
+
+Example 120900: accuracy=0.192688, f1macro=0.082261, f1micro=0.192688 
+
+Example 121000: accuracy=0.192529, f1macro=0.0821873, f1micro=0.192529 
+
+Example 121100: accuracy=0.19237, f1macro=0.0821158, f1micro=0.19237 
+
+Example 121200: accuracy=0.192211, f1macro=0.0820515, f1micro=0.192211 
+
+Example 121300: accuracy=0.192053, f1macro=0.0819861, f1micro=0.192053 
+
+Example 121400: accuracy=0.191895, f1macro=0.0819285, f1micro=0.191895 
+
+Example 121500: accuracy=0.191737, f1macro=0.0818693, f1micro=0.191737 
+
+Example 121600: accuracy=0.191579, f1macro=0.0818093, f1micro=0.191579 
+
+Example 121700: accuracy=0.191422, f1macro=0.0817511, f1micro=0.191422 
+
+Example 121800: accuracy=0.191264, f1macro=0.0817014, f1micro=0.191264 
+
+Example 121900: accuracy=0.191107, f1macro=0.0816407, f1micro=0.191107 
+
+Example 122000: accuracy=0.190951, f1macro=0.0815734, f1micro=0.190951 
+
+Example 122100: accuracy=0.190794, f1macro=0.0815213, f1micro=0.190794 
+
+Example 122200: accuracy=0.190638, f1macro=0.0814653, f1micro=0.190638 
+
+Example 122300: accuracy=0.190482, f1macro=0.0814077, f1micro=0.190482 
+
+Example 122400: accuracy=0.190327, f1macro=0.0813587, f1micro=0.190327 
+
+Example 122500: accuracy=0.190171, f1macro=0.081287, f1micro=0.190171 
+
+Example 122600: accuracy=0.190016, f1macro=0.0812359, f1micro=0.190016 
+
+Example 122700: accuracy=0.189861, f1macro=0.0811697, f1micro=0.189861 
+
+Example 122800: accuracy=0.189707, f1macro=0.0811393, f1micro=0.189707 
+
+Example 122900: accuracy=0.189552, f1macro=0.0811298, f1micro=0.189552 
+
+Example 123000: accuracy=0.189398, f1macro=0.0811209, f1micro=0.189398 
+
+Example 123100: accuracy=0.189245, f1macro=0.0811073, f1micro=0.189245 
+
+Example 123200: accuracy=0.189091, f1macro=0.0811011, f1micro=0.189091 
+
+Example 123300: accuracy=0.188938, f1macro=0.0810924, f1micro=0.188938 
+
+Example 123400: accuracy=0.188784, f1macro=0.0810825, f1micro=0.188784 
+
+Example 123500: accuracy=0.188737, f1macro=0.0812875, f1micro=0.188737 
+
+Example 123600: accuracy=0.188697, f1macro=0.0814831, f1micro=0.188697 
+
+Example 123700: accuracy=0.188666, f1macro=0.081687, f1micro=0.188666 
+
+Example 123800: accuracy=0.188635, f1macro=0.0818642, f1micro=0.188635 
+
+Example 123900: accuracy=0.188596, f1macro=0.0820272, f1micro=0.188596 
+
+Example 124000: accuracy=0.18854, f1macro=0.0821529, f1micro=0.18854 
+
+Example 124100: accuracy=0.188517, f1macro=0.082329, f1micro=0.188517 
+
+Example 124200: accuracy=0.188438, f1macro=0.0823899, f1micro=0.188438 
+
+Example 124300: accuracy=0.188375, f1macro=0.0824812, f1micro=0.188375 
+
+Example 124400: accuracy=0.188352, f1macro=0.0826307, f1micro=0.188352 
+
+Example 124500: accuracy=0.188337, f1macro=0.0827869, f1micro=0.188337 
+
+Example 124600: accuracy=0.188291, f1macro=0.0828851, f1micro=0.188291 
+
+Example 124700: accuracy=0.18826, f1macro=0.0830077, f1micro=0.18826 
+
+Example 124800: accuracy=0.188237, f1macro=0.0831338, f1micro=0.188237 
+
+Example 124900: accuracy=0.188167, f1macro=0.0831772, f1micro=0.188167 
+
+Example 125000: accuracy=0.188088, f1macro=0.0832204, f1micro=0.188088 
+
+Example 125100: accuracy=0.188098, f1macro=0.083374, f1micro=0.188098 
+
+Example 125200: accuracy=0.188027, f1macro=0.0834143, f1micro=0.188027 
+
+Example 125300: accuracy=0.188021, f1macro=0.0835395, f1micro=0.188021 
+
+Example 125400: accuracy=0.187959, f1macro=0.0835947, f1micro=0.187959 
+
+Example 125500: accuracy=0.187904, f1macro=0.0836449, f1micro=0.187904 
+
+Example 125600: accuracy=0.187898, f1macro=0.0837551, f1micro=0.187898 
+
+Example 125700: accuracy=0.187828, f1macro=0.0837911, f1micro=0.187828 
+
+Example 125800: accuracy=0.187782, f1macro=0.0838496, f1micro=0.187782 
+
+Example 125900: accuracy=0.187697, f1macro=0.0838485, f1micro=0.187697 
+
+Example 126000: accuracy=0.187635, f1macro=0.0838733, f1micro=0.187635 
+
+Example 126100: accuracy=0.187629, f1macro=0.0839752, f1micro=0.187629 
+
+Example 126200: accuracy=0.187607, f1macro=0.0840486, f1micro=0.187607 
+
+Example 126300: accuracy=0.187569, f1macro=0.0840988, f1micro=0.187569 
+
+Example 126400: accuracy=0.1875, f1macro=0.0841134, f1micro=0.1875 
+
+Example 126500: accuracy=0.187439, f1macro=0.0841345, f1micro=0.187439 
+
+Example 126600: accuracy=0.187409, f1macro=0.0841908, f1micro=0.187409 
+
+Example 126700: accuracy=0.187403, f1macro=0.084271, f1micro=0.187403 
+
+Example 126800: accuracy=0.18735, f1macro=0.0842963, f1micro=0.18735 
+
+Example 126900: accuracy=0.187297, f1macro=0.0843206, f1micro=0.187297 
+
+Example 127000: accuracy=0.187228, f1macro=0.0843256, f1micro=0.187228 
+
+Example 127100: accuracy=0.187207, f1macro=0.0843826, f1micro=0.187207 
+
+Example 127200: accuracy=0.187146, f1macro=0.0843962, f1micro=0.187146 
+
+Example 127300: accuracy=0.187141, f1macro=0.0844589, f1micro=0.187141 
+
+Example 127400: accuracy=0.187119, f1macro=0.0845101, f1micro=0.187119 
+
+Example 127500: accuracy=0.187075, f1macro=0.0845184, f1micro=0.187075 
+
+Example 127600: accuracy=0.187053, f1macro=0.084567, f1micro=0.187053 
+
+Example 127700: accuracy=0.187024, f1macro=0.0846072, f1micro=0.187024 
+
+Example 127800: accuracy=0.186995, f1macro=0.0846403, f1micro=0.186995 
+
+Example 127900: accuracy=0.187005, f1macro=0.084714, f1micro=0.187005 
+
+Example 128000: accuracy=0.186945, f1macro=0.084707, f1micro=0.186945 
+
+Example 128100: accuracy=0.186885, f1macro=0.0847019, f1micro=0.186885 
+
+Example 128200: accuracy=0.186841, f1macro=0.0847305, f1micro=0.186841 
+
+Example 128300: accuracy=0.186797, f1macro=0.0847446, f1micro=0.186797 
+
+Example 128400: accuracy=0.186822, f1macro=0.0848296, f1micro=0.186822 
+
+Example 128500: accuracy=0.186732, f1macro=0.0847999, f1micro=0.186732 
+
+Example 128600: accuracy=0.186726, f1macro=0.0848485, f1micro=0.186726 
+
+Example 128700: accuracy=0.186729, f1macro=0.0848989, f1micro=0.186729 
+
+Example 128800: accuracy=0.186615, f1macro=0.0848874, f1micro=0.186615 
+
+Example 128900: accuracy=0.186501, f1macro=0.0849915, f1micro=0.186501 
+
+Example 129000: accuracy=0.186372, f1macro=0.0850268, f1micro=0.186372 
+
+Example 129100: accuracy=0.186259, f1macro=0.0851134, f1micro=0.186259 
+
+Example 129200: accuracy=0.186138, f1macro=0.0851652, f1micro=0.186138 
+
+Example 129300: accuracy=0.186048, f1macro=0.0853184, f1micro=0.186048 
+
+Example 129400: accuracy=0.185951, f1macro=0.0854335, f1micro=0.185951 
+
+Example 129500: accuracy=0.185838, f1macro=0.08549, f1micro=0.185838 
+
+Example 129600: accuracy=0.185764, f1macro=0.0856585, f1micro=0.185764 
+
+Example 129700: accuracy=0.185644, f1macro=0.0856808, f1micro=0.185644 
+
+Example 129800: accuracy=0.185508, f1macro=0.0856593, f1micro=0.185508 
+
+Example 129900: accuracy=0.185404, f1macro=0.0857219, f1micro=0.185404 
+
+Example 130000: accuracy=0.185292, f1macro=0.0857601, f1micro=0.185292 
+
+Example 130100: accuracy=0.185196, f1macro=0.0858343, f1micro=0.185196 
+
+Example 130200: accuracy=0.185077, f1macro=0.0858459, f1micro=0.185077 
+
+Example 130300: accuracy=0.18495, f1macro=0.0858383, f1micro=0.18495 
+
+Example 130400: accuracy=0.184839, f1macro=0.085866, f1micro=0.184839 
+
+Example 130500: accuracy=0.184743, f1macro=0.0859276, f1micro=0.184743 
+
+Example 130600: accuracy=0.184625, f1macro=0.0859345, f1micro=0.184625 
+
+Example 130700: accuracy=0.184514, f1macro=0.0859574, f1micro=0.184514 
+
+Example 130800: accuracy=0.184396, f1macro=0.0859601, f1micro=0.184396 
+
+Example 130900: accuracy=0.184301, f1macro=0.0860126, f1micro=0.184301 
+
+Example 131000: accuracy=0.184214, f1macro=0.0860763, f1micro=0.184214 
+
+Example 131100: accuracy=0.184088, f1macro=0.0860588, f1micro=0.184088 
+
+Example 131200: accuracy=0.183994, f1macro=0.0861022, f1micro=0.183994 
+
+Example 131300: accuracy=0.183877, f1macro=0.0860998, f1micro=0.183877 
+
+Example 131400: accuracy=0.183782, f1macro=0.0861408, f1micro=0.183782 
+
+Example 131500: accuracy=0.183688, f1macro=0.0861795, f1micro=0.183688 
+
+Example 131600: accuracy=0.183564, f1macro=0.0861595, f1micro=0.183564 
+
+Example 131700: accuracy=0.183455, f1macro=0.0861671, f1micro=0.183455 
+
+Example 131800: accuracy=0.183361, f1macro=0.0862006, f1micro=0.183361 
+
+Example 131900: accuracy=0.18323, f1macro=0.0861692, f1micro=0.18323 
+
+Example 132000: accuracy=0.183121, f1macro=0.0861774, f1micro=0.183121 
+
+Example 132100: accuracy=0.18302, f1macro=0.0861966, f1micro=0.18302 
+
+Example 132200: accuracy=0.182912, f1macro=0.0862027, f1micro=0.182912 
+
+Example 132300: accuracy=0.182797, f1macro=0.0861964, f1micro=0.182797 
+
+Example 132400: accuracy=0.182704, f1macro=0.0862269, f1micro=0.182704 
+
+Example 132500: accuracy=0.182581, f1macro=0.0862088, f1micro=0.182581 
+
+Example 132600: accuracy=0.182466, f1macro=0.0861848, f1micro=0.182466 
+
+Example 132700: accuracy=0.182336, f1macro=0.0861394, f1micro=0.182336 
+
+Example 132800: accuracy=0.182229, f1macro=0.0861295, f1micro=0.182229 
+
+Example 132900: accuracy=0.182122, f1macro=0.0861152, f1micro=0.182122 
+
+Example 133000: accuracy=0.182008, f1macro=0.086097, f1micro=0.182008 
+
+Example 133100: accuracy=0.181916, f1macro=0.0861084, f1micro=0.181916 
+
+Example 133200: accuracy=0.181832, f1macro=0.086133, f1micro=0.181832 
+
+Example 133300: accuracy=0.181725, f1macro=0.0861142, f1micro=0.181725 
+
+Example 133400: accuracy=0.181619, f1macro=0.0861072, f1micro=0.181619 
+
+Example 133500: accuracy=0.181506, f1macro=0.0860841, f1micro=0.181506 
+
+Example 133600: accuracy=0.181445, f1macro=0.0861208, f1micro=0.181445 
+
+Example 133700: accuracy=0.181331, f1macro=0.086102, f1micro=0.181331 
+
+Example 133800: accuracy=0.181218, f1macro=0.0860786, f1micro=0.181218 
+
+Example 133900: accuracy=0.18112, f1macro=0.0860704, f1micro=0.18112 
+
+Example 134000: accuracy=0.181022, f1macro=0.0860616, f1micro=0.181022 
+
+Example 134100: accuracy=0.180902, f1macro=0.0860261, f1micro=0.180902 
+
+Example 134200: accuracy=0.18079, f1macro=0.0859979, f1micro=0.18079 
+
+Example 134300: accuracy=0.180678, f1macro=0.0859802, f1micro=0.180678 
+
+Example 134400: accuracy=0.180558, f1macro=0.0859436, f1micro=0.180558 
+
+Example 134500: accuracy=0.180431, f1macro=0.0859003, f1micro=0.180431 
+
+Example 134600: accuracy=0.180327, f1macro=0.0858798, f1micro=0.180327 
+
+Example 134700: accuracy=0.180215, f1macro=0.0858557, f1micro=0.180215 
+
+Example 134800: accuracy=0.180126, f1macro=0.0858557, f1micro=0.180126 
+
+Example 134900: accuracy=0.180037, f1macro=0.085858, f1micro=0.180037 
+
+Example 135000: accuracy=0.179933, f1macro=0.0858402, f1micro=0.179933 
+
+Example 135100: accuracy=0.1798, f1macro=0.0857938, f1micro=0.1798 
+
+Example 135200: accuracy=0.179719, f1macro=0.0857973, f1micro=0.179719 
+
+Example 135300: accuracy=0.179623, f1macro=0.0857919, f1micro=0.179623 
+
+Example 135400: accuracy=0.179505, f1macro=0.0857565, f1micro=0.179505 
+
+Example 135500: accuracy=0.179395, f1macro=0.0857212, f1micro=0.179395 
+
+Example 135600: accuracy=0.179285, f1macro=0.0856954, f1micro=0.179285 
+
+Example 135700: accuracy=0.17916, f1macro=0.0856567, f1micro=0.17916 
+
+Example 135800: accuracy=0.179072, f1macro=0.0856567, f1micro=0.179072 
+
+Example 135900: accuracy=0.178962, f1macro=0.0856337, f1micro=0.178962 
+
+Example 136000: accuracy=0.178868, f1macro=0.0856192, f1micro=0.178868 
+
+Example 136100: accuracy=0.178744, f1macro=0.0855793, f1micro=0.178744 
+
+Example 136200: accuracy=0.178642, f1macro=0.0855557, f1micro=0.178642 
+
+Example 136300: accuracy=0.17854, f1macro=0.0855411, f1micro=0.17854 
+
+Example 136400: accuracy=0.178453, f1macro=0.0855299, f1micro=0.178453 
+
+Example 136500: accuracy=0.178359, f1macro=0.0855136, f1micro=0.178359 
+
+Example 136600: accuracy=0.178265, f1macro=0.0855125, f1micro=0.178265 
+
+Example 136700: accuracy=0.178171, f1macro=0.0855018, f1micro=0.178171 
+
+Example 136800: accuracy=0.17807, f1macro=0.0854957, f1micro=0.17807 
+
+Example 136900: accuracy=0.17794, f1macro=0.0854861, f1micro=0.17794 
+
+Example 137000: accuracy=0.17781, f1macro=0.0854741, f1micro=0.17781 
+
+Example 137100: accuracy=0.177681, f1macro=0.0854615, f1micro=0.177681 
+
+Example 137200: accuracy=0.177551, f1macro=0.0854479, f1micro=0.177551 
+
+Example 137300: accuracy=0.177422, f1macro=0.0854369, f1micro=0.177422 
+
+Example 137400: accuracy=0.177293, f1macro=0.0854237, f1micro=0.177293 
+
+Example 137500: accuracy=0.177164, f1macro=0.0854135, f1micro=0.177164 
+
+Example 137600: accuracy=0.177035, f1macro=0.0854037, f1micro=0.177035 
+
+Example 137700: accuracy=0.176906, f1macro=0.0853924, f1micro=0.176906 
+
+Example 137800: accuracy=0.176778, f1macro=0.0853813, f1micro=0.176778 
+
+Example 137900: accuracy=0.17665, f1macro=0.0853687, f1micro=0.17665 
+
+Example 138000: accuracy=0.176522, f1macro=0.0853582, f1micro=0.176522 
+
+Example 138100: accuracy=0.176394, f1macro=0.0853441, f1micro=0.176394 
+
+Example 138200: accuracy=0.176266, f1macro=0.0853338, f1micro=0.176266 
+
+Example 138300: accuracy=0.176139, f1macro=0.0853191, f1micro=0.176139 
+
+Example 138400: accuracy=0.176012, f1macro=0.085308, f1micro=0.176012 
+
+Example 138500: accuracy=0.175884, f1macro=0.0852974, f1micro=0.175884 
+
+Example 138600: accuracy=0.175758, f1macro=0.085261, f1micro=0.175758 
+
+Example 138700: accuracy=0.175631, f1macro=0.0852245, f1micro=0.175631 
+
+Example 138800: accuracy=0.175504, f1macro=0.0851862, f1micro=0.175504 
+
+Example 138900: accuracy=0.175378, f1macro=0.0851474, f1micro=0.175378 
+
+Example 139000: accuracy=0.175252, f1macro=0.0851136, f1micro=0.175252 
+
+Example 139100: accuracy=0.175341, f1macro=0.0851788, f1micro=0.175341 
+
+Example 139200: accuracy=0.175632, f1macro=0.0853436, f1micro=0.175632 
+
+Example 139300: accuracy=0.175901, f1macro=0.0854978, f1micro=0.175901 
+
+Example 139400: accuracy=0.176169, f1macro=0.0856504, f1micro=0.176169 
+
+Example 139500: accuracy=0.17648, f1macro=0.0858186, f1micro=0.17648 
+
+Example 139600: accuracy=0.176676, f1macro=0.0859354, f1micro=0.176676 
+
+Example 139700: accuracy=0.176915, f1macro=0.0860714, f1micro=0.176915 
+
+Example 139800: accuracy=0.177146, f1macro=0.0862028, f1micro=0.177146 
+
+Example 139900: accuracy=0.177391, f1macro=0.0863373, f1micro=0.177391 
+
+Example 140000: accuracy=0.177636, f1macro=0.0864671, f1micro=0.177636 
+
+Example 140100: accuracy=0.177866, f1macro=0.0865927, f1micro=0.177866 
+
+Example 140200: accuracy=0.178117, f1macro=0.0867256, f1micro=0.178117 
+
+Example 140300: accuracy=0.178339, f1macro=0.0868451, f1micro=0.178339 
+
+Example 140400: accuracy=0.178597, f1macro=0.0869783, f1micro=0.178597 
+
+Example 140500: accuracy=0.178883, f1macro=0.0871194, f1micro=0.178883 
+
+Example 140600: accuracy=0.179196, f1macro=0.0872707, f1micro=0.179196 
+
+Example 140700: accuracy=0.179481, f1macro=0.0874086, f1micro=0.179481 
+
+Example 140800: accuracy=0.179787, f1macro=0.0875531, f1micro=0.179787 
+
+Example 140900: accuracy=0.180057, f1macro=0.0876814, f1micro=0.180057 
+
+Example 141000: accuracy=0.180262, f1macro=0.0877843, f1micro=0.180262 
+
+Example 141100: accuracy=0.180454, f1macro=0.087882, f1micro=0.180454 
+
+Example 141200: accuracy=0.18068, f1macro=0.0879912, f1micro=0.18068 
+
+Example 141300: accuracy=0.180885, f1macro=0.0880894, f1micro=0.180885 
+
+Example 141400: accuracy=0.181124, f1macro=0.0881994, f1micro=0.181124 
+
+Example 141500: accuracy=0.181364, f1macro=0.0883102, f1micro=0.181364 
+
+Example 141600: accuracy=0.181575, f1macro=0.0884088, f1micro=0.181575 
+
+Example 141700: accuracy=0.18175, f1macro=0.0884938, f1micro=0.18175 
+
+Example 141800: accuracy=0.181932, f1macro=0.0885816, f1micro=0.181932 
+
+Example 141900: accuracy=0.182086, f1macro=0.0886583, f1micro=0.182086 
+
+Example 142000: accuracy=0.182338, f1macro=0.0887677, f1micro=0.182338 
+
+Example 142100: accuracy=0.182562, f1macro=0.0888669, f1micro=0.182562 
+
+Example 142200: accuracy=0.18282, f1macro=0.0889763, f1micro=0.18282 
+
+Example 142300: accuracy=0.183113, f1macro=0.0890965, f1micro=0.183113 
+
+Example 142400: accuracy=0.183371, f1macro=0.0892035, f1micro=0.183371 
+
+Example 142500: accuracy=0.183614, f1macro=0.0893056, f1micro=0.183614 
+
+Example 142600: accuracy=0.183724, f1macro=0.0893536, f1micro=0.183724 
+
+Example 142700: accuracy=0.183644, f1macro=0.0893302, f1micro=0.183644 
+
+Example 142800: accuracy=0.18355, f1macro=0.0893053, f1micro=0.18355 
+
+Example 142900: accuracy=0.183464, f1macro=0.0892801, f1micro=0.183464 
+
+Example 143000: accuracy=0.183385, f1macro=0.089259, f1micro=0.183385 
+
+Example 143100: accuracy=0.183277, f1macro=0.0892281, f1micro=0.183277 
+
+Example 143200: accuracy=0.183184, f1macro=0.0891998, f1micro=0.183184 
+
+Example 143300: accuracy=0.183084, f1macro=0.0891696, f1micro=0.183084 
+
+Example 143400: accuracy=0.182992, f1macro=0.0891482, f1micro=0.182992 
+
+Example 143500: accuracy=0.182906, f1macro=0.0891274, f1micro=0.182906 
+
+Example 143600: accuracy=0.182806, f1macro=0.0890975, f1micro=0.182806 
+
+Example 143700: accuracy=0.182693, f1macro=0.0890665, f1micro=0.182693 
+
+Example 143800: accuracy=0.182594, f1macro=0.0890357, f1micro=0.182594 
+
+Example 143900: accuracy=0.182488, f1macro=0.0890084, f1micro=0.182488 
+
+Example 144000: accuracy=0.182389, f1macro=0.0889809, f1micro=0.182389 
+
+Example 144100: accuracy=0.182311, f1macro=0.0889624, f1micro=0.182311 
+
+Example 144200: accuracy=0.182205, f1macro=0.0889317, f1micro=0.182205 
+
+Example 144300: accuracy=0.182107, f1macro=0.0889791, f1micro=0.182107 
+
+Example 144400: accuracy=0.182015, f1macro=0.0890732, f1micro=0.182015 
+
+Example 144500: accuracy=0.181917, f1macro=0.0891365, f1micro=0.181917 
+
+Example 144600: accuracy=0.181805, f1macro=0.0891608, f1micro=0.181805 
+
+Example 144700: accuracy=0.181721, f1macro=0.0892531, f1micro=0.181721 
+
+Example 144800: accuracy=0.181644, f1macro=0.0893538, f1micro=0.181644 
+
+Example 144900: accuracy=0.181567, f1macro=0.0894512, f1micro=0.181567 
+
+Example 145000: accuracy=0.181462, f1macro=0.0894783, f1micro=0.181462 
+
+Example 145100: accuracy=0.181358, f1macro=0.0895009, f1micro=0.181358 
+
+Example 145200: accuracy=0.18126, f1macro=0.0895401, f1micro=0.18126 
+
+Example 145300: accuracy=0.181211, f1macro=0.089671, f1micro=0.181211 
+
+Example 145400: accuracy=0.181238, f1macro=0.0899493, f1micro=0.181238 
+
+Example 145500: accuracy=0.181258, f1macro=0.0902013, f1micro=0.181258 
+
+Example 145600: accuracy=0.181277, f1macro=0.0904408, f1micro=0.181277 
+
+Example 145700: accuracy=0.181297, f1macro=0.0906684, f1micro=0.181297 
+
+Example 145800: accuracy=0.181296, f1macro=0.0908377, f1micro=0.181296 
+
+Example 145900: accuracy=0.181316, f1macro=0.0910409, f1micro=0.181316 
+
+Example 146000: accuracy=0.181274, f1macro=0.0911121, f1micro=0.181274 
+
+Example 146100: accuracy=0.181205, f1macro=0.0911569, f1micro=0.181205 
+
+Example 146200: accuracy=0.181081, f1macro=0.0911172, f1micro=0.181081 
+
+Example 146300: accuracy=0.180957, f1macro=0.0910772, f1micro=0.180957 
+
+Example 146400: accuracy=0.180833, f1macro=0.091041, f1micro=0.180833 
+
+Example 146500: accuracy=0.18071, f1macro=0.0910021, f1micro=0.18071 
+
+Example 146600: accuracy=0.180587, f1macro=0.0909645, f1micro=0.180587 
+
+Example 146700: accuracy=0.180464, f1macro=0.0909175, f1micro=0.180464 
+
+Example 146800: accuracy=0.180341, f1macro=0.090882, f1micro=0.180341 
+
+Example 146900: accuracy=0.180218, f1macro=0.0908364, f1micro=0.180218 
+
+Example 147000: accuracy=0.180095, f1macro=0.090796, f1micro=0.180095 
+
+Example 147100: accuracy=0.179973, f1macro=0.0907566, f1micro=0.179973 
+
+Example 147200: accuracy=0.179851, f1macro=0.0907215, f1micro=0.179851 
+
+Example 147300: accuracy=0.179728, f1macro=0.0906878, f1micro=0.179728 
+
+Example 147400: accuracy=0.179607, f1macro=0.090647, f1micro=0.179607 
+
+Example 147500: accuracy=0.179485, f1macro=0.0906081, f1micro=0.179485 
+
+Example 147600: accuracy=0.179363, f1macro=0.0905719, f1micro=0.179363 
+
+Example 147700: accuracy=0.179242, f1macro=0.0905314, f1micro=0.179242 
+
+Example 147800: accuracy=0.17912, f1macro=0.0904923, f1micro=0.17912 
+
+Example 147900: accuracy=0.178999, f1macro=0.0904557, f1micro=0.178999 
+
+Example 148000: accuracy=0.178878, f1macro=0.0904191, f1micro=0.178878 
+
+Example 148100: accuracy=0.178758, f1macro=0.0903837, f1micro=0.178758 
+
+Example 148200: accuracy=0.178637, f1macro=0.0903453, f1micro=0.178637 
+
+Example 148300: accuracy=0.178517, f1macro=0.0903183, f1micro=0.178517 
+
+Example 148400: accuracy=0.178396, f1macro=0.0903046, f1micro=0.178396 
+
+Example 148500: accuracy=0.178276, f1macro=0.0902911, f1micro=0.178276 
+
+Example 148600: accuracy=0.178156, f1macro=0.0902776, f1micro=0.178156 
+
+Example 148700: accuracy=0.178036, f1macro=0.0902642, f1micro=0.178036 
+
+Example 148800: accuracy=0.177917, f1macro=0.0902509, f1micro=0.177917 
+
+Example 148900: accuracy=0.177797, f1macro=0.0902376, f1micro=0.177797 
+
+Example 149000: accuracy=0.177678, f1macro=0.0902245, f1micro=0.177678 
+
+Example 149100: accuracy=0.177559, f1macro=0.0902114, f1micro=0.177559 
+
+Example 149200: accuracy=0.17744, f1macro=0.0901984, f1micro=0.17744 
+
+Example 149300: accuracy=0.177321, f1macro=0.0901855, f1micro=0.177321 
+
+Example 149400: accuracy=0.177202, f1macro=0.0901727, f1micro=0.177202 
+
+Example 149500: accuracy=0.177084, f1macro=0.0901599, f1micro=0.177084 
+
+Example 149600: accuracy=0.176965, f1macro=0.0901472, f1micro=0.176965 
+
+Example 149700: accuracy=0.176847, f1macro=0.0901346, f1micro=0.176847 
+
+Example 149800: accuracy=0.176729, f1macro=0.0901221, f1micro=0.176729 
+
+Example 149900: accuracy=0.176611, f1macro=0.0901097, f1micro=0.176611 
+
+Example 150000: accuracy=0.176493, f1macro=0.0900973, f1micro=0.176493 
+
+Example 150100: accuracy=0.176376, f1macro=0.090085, f1micro=0.176376 
+
+Example 150200: accuracy=0.176258, f1macro=0.0900727, f1micro=0.176258 
+
+Example 150300: accuracy=0.176141, f1macro=0.0900606, f1micro=0.176141 
+
+Example 150400: accuracy=0.176024, f1macro=0.0900485, f1micro=0.176024 
+
+Example 150500: accuracy=0.175907, f1macro=0.0900365, f1micro=0.175907 
+
+Example 150600: accuracy=0.17579, f1macro=0.0900246, f1micro=0.17579 
+
+Example 150700: accuracy=0.175674, f1macro=0.0900127, f1micro=0.175674 
+
+Example 150800: accuracy=0.175557, f1macro=0.0900009, f1micro=0.175557 
+
+Example 150900: accuracy=0.175441, f1macro=0.0899892, f1micro=0.175441 
+
+Example 151000: accuracy=0.175325, f1macro=0.0899775, f1micro=0.175325 
+
+Example 151100: accuracy=0.175208, f1macro=0.0899659, f1micro=0.175208 
+
+Example 151200: accuracy=0.175093, f1macro=0.0899544, f1micro=0.175093 
+
+Example 151300: accuracy=0.174977, f1macro=0.0899423, f1micro=0.174977 
+
+Example 151400: accuracy=0.174868, f1macro=0.0899331, f1micro=0.174868 
+
+Example 151500: accuracy=0.174752, f1macro=0.0899136, f1micro=0.174752 
+
+Example 151600: accuracy=0.174637, f1macro=0.0899051, f1micro=0.174637 
+
+Example 151700: accuracy=0.174522, f1macro=0.0898964, f1micro=0.174522 
+
+Example 151800: accuracy=0.174407, f1macro=0.0898888, f1micro=0.174407 
+
+Example 151900: accuracy=0.174292, f1macro=0.0898782, f1micro=0.174292 
+
+Example 152000: accuracy=0.174178, f1macro=0.0898708, f1micro=0.174178 
+
+Example 152100: accuracy=0.174063, f1macro=0.0898606, f1micro=0.174063 
+
+Example 152200: accuracy=0.173949, f1macro=0.0898501, f1micro=0.173949 
+
+Example 152300: accuracy=0.173835, f1macro=0.089841, f1micro=0.173835 
+
+Example 152400: accuracy=0.17372, f1macro=0.0898327, f1micro=0.17372 
+
+Example 152500: accuracy=0.173607, f1macro=0.0898216, f1micro=0.173607 
+
+Example 152600: accuracy=0.173493, f1macro=0.0898111, f1micro=0.173493 
+
+Example 152700: accuracy=0.173379, f1macro=0.0898008, f1micro=0.173379 
+
+Example 152800: accuracy=0.173266, f1macro=0.0897924, f1micro=0.173266 
+
+Example 152900: accuracy=0.173152, f1macro=0.0897817, f1micro=0.173152 
+
+Example 153000: accuracy=0.173039, f1macro=0.0897729, f1micro=0.173039 
+
+Example 153100: accuracy=0.172926, f1macro=0.089763, f1micro=0.172926 
+
+Example 153200: accuracy=0.172813, f1macro=0.0897525, f1micro=0.172813 
+
+Example 153300: accuracy=0.172701, f1macro=0.0897439, f1micro=0.172701 
+
+Example 153400: accuracy=0.172588, f1macro=0.0897359, f1micro=0.172588 
+
+Example 153500: accuracy=0.172476, f1macro=0.0897262, f1micro=0.172476 
+
+Example 153600: accuracy=0.172363, f1macro=0.0897155, f1micro=0.172363 
+
+Example 153700: accuracy=0.172251, f1macro=0.0897068, f1micro=0.172251 
+
+Example 153800: accuracy=0.172139, f1macro=0.0896978, f1micro=0.172139 
+
+Example 153900: accuracy=0.172027, f1macro=0.0896892, f1micro=0.172027 
+
+Example 154000: accuracy=0.171916, f1macro=0.0896801, f1micro=0.171916 
+
+Example 154100: accuracy=0.171804, f1macro=0.0896702, f1micro=0.171804 
+
+Example 154200: accuracy=0.171693, f1macro=0.0896615, f1micro=0.171693 
+
+Example 154300: accuracy=0.171581, f1macro=0.089653, f1micro=0.171581 
+
+Example 154400: accuracy=0.17147, f1macro=0.0896453, f1micro=0.17147 
+
+Example 154500: accuracy=0.171359, f1macro=0.0896371, f1micro=0.171359 
+
+Example 154600: accuracy=0.171248, f1macro=0.0896277, f1micro=0.171248 
+
+Example 154700: accuracy=0.171138, f1macro=0.0896199, f1micro=0.171138 
+
+Example 154800: accuracy=0.171027, f1macro=0.0896114, f1micro=0.171027 
+
+Example 154900: accuracy=0.170917, f1macro=0.0896039, f1micro=0.170917 
+
+Example 155000: accuracy=0.170806, f1macro=0.0895948, f1micro=0.170806 
+
+Example 155100: accuracy=0.170696, f1macro=0.0895874, f1micro=0.170696 
+
+Example 155200: accuracy=0.170586, f1macro=0.0895801, f1micro=0.170586 
+
+Example 155300: accuracy=0.170476, f1macro=0.0895714, f1micro=0.170476 
+
+Example 155400: accuracy=0.170367, f1macro=0.0895637, f1micro=0.170367 
+
+Example 155500: accuracy=0.170257, f1macro=0.089555, f1micro=0.170257 
+
+Example 155600: accuracy=0.170148, f1macro=0.0895465, f1micro=0.170148 
+
+Example 155700: accuracy=0.170039, f1macro=0.0895392, f1micro=0.170039 
+
+Example 155800: accuracy=0.169929, f1macro=0.0895322, f1micro=0.169929 
+
+Example 155900: accuracy=0.16982, f1macro=0.0895244, f1micro=0.16982 
+
+Example 156000: accuracy=0.169712, f1macro=0.0895179, f1micro=0.169712 
+
+Example 156100: accuracy=0.169603, f1macro=0.0895125, f1micro=0.169603 
+
+Example 156200: accuracy=0.169494, f1macro=0.0895095, f1micro=0.169494 
+
+Example 156300: accuracy=0.169386, f1macro=0.0895033, f1micro=0.169386 
+
+Example 156400: accuracy=0.169277, f1macro=0.0894961, f1micro=0.169277 
+
+Example 156500: accuracy=0.169169, f1macro=0.0894893, f1micro=0.169169 
+
+Example 156600: accuracy=0.169061, f1macro=0.0894848, f1micro=0.169061 
+
+Example 156700: accuracy=0.168953, f1macro=0.0894789, f1micro=0.168953 
+
+Example 156800: accuracy=0.168846, f1macro=0.0894713, f1micro=0.168846 
+
+Example 156900: accuracy=0.168738, f1macro=0.0894645, f1micro=0.168738 
+
+Example 157000: accuracy=0.168631, f1macro=0.0894589, f1micro=0.168631 
+
+Example 157100: accuracy=0.168523, f1macro=0.0894533, f1micro=0.168523 
+
+Example 157200: accuracy=0.168416, f1macro=0.0894484, f1micro=0.168416 
+
+Example 157300: accuracy=0.168309, f1macro=0.0894428, f1micro=0.168309 
+
+Example 157400: accuracy=0.168202, f1macro=0.0894369, f1micro=0.168202 
+
+Example 157500: accuracy=0.168095, f1macro=0.0894305, f1micro=0.168095 
+
+Example 157600: accuracy=0.167989, f1macro=0.0894228, f1micro=0.167989 
+
+Example 157700: accuracy=0.167882, f1macro=0.0894145, f1micro=0.167882 
+
+Example 157800: accuracy=0.167776, f1macro=0.0894087, f1micro=0.167776 
+
+Example 157900: accuracy=0.167669, f1macro=0.0894039, f1micro=0.167669 
+
+Example 158000: accuracy=0.167563, f1macro=0.0893984, f1micro=0.167563 
+
+Example 158100: accuracy=0.167464, f1macro=0.0894024, f1micro=0.167464 
+
+Example 158200: accuracy=0.167358, f1macro=0.0893968, f1micro=0.167358 
+
+Example 158300: accuracy=0.167252, f1macro=0.0893906, f1micro=0.167252 
+
+Example 158400: accuracy=0.167146, f1macro=0.0893841, f1micro=0.167146 
+
+Example 158500: accuracy=0.167041, f1macro=0.0893789, f1micro=0.167041 
+
+Example 158600: accuracy=0.166936, f1macro=0.0893723, f1micro=0.166936 
+
+Example 158700: accuracy=0.16683, f1macro=0.0893658, f1micro=0.16683 
+
+Example 158800: accuracy=0.166725, f1macro=0.0893616, f1micro=0.166725 
+
+Example 158900: accuracy=0.166621, f1macro=0.0893565, f1micro=0.166621 
+
+Example 159000: accuracy=0.166516, f1macro=0.0893514, f1micro=0.166516 
+
+Example 159100: accuracy=0.166411, f1macro=0.0893453, f1micro=0.166411 
+
+Example 159200: accuracy=0.166307, f1macro=0.0893409, f1micro=0.166307 
+
+Example 159300: accuracy=0.166202, f1macro=0.0893354, f1micro=0.166202 
+
+Example 159400: accuracy=0.166104, f1macro=0.0893374, f1micro=0.166104 
+
+Example 159500: accuracy=0.166, f1macro=0.0893286, f1micro=0.166 
+
+Example 159600: accuracy=0.165896, f1macro=0.0893165, f1micro=0.165896 
+
+Example 159700: accuracy=0.165792, f1macro=0.0893064, f1micro=0.165792 
+
+Example 159800: accuracy=0.165688, f1macro=0.0892967, f1micro=0.165688 
+
+Example 159900: accuracy=0.165585, f1macro=0.0892845, f1micro=0.165585 
+
+Example 160000: accuracy=0.165481, f1macro=0.0892756, f1micro=0.165481 
+
+Example 160100: accuracy=0.165378, f1macro=0.0892662, f1micro=0.165378 
+
+Example 160200: accuracy=0.165275, f1macro=0.0892575, f1micro=0.165275 
+
+Example 160300: accuracy=0.165172, f1macro=0.089247, f1micro=0.165172 
+
+Example 160400: accuracy=0.165069, f1macro=0.0892349, f1micro=0.165069 
+
+Example 160500: accuracy=0.164966, f1macro=0.0892247, f1micro=0.164966 
+
+Example 160600: accuracy=0.164863, f1macro=0.0892157, f1micro=0.164863 
+
+Example 160700: accuracy=0.16476, f1macro=0.0892056, f1micro=0.16476 
+
+Example 160800: accuracy=0.164658, f1macro=0.0891977, f1micro=0.164658 
+
+Example 160900: accuracy=0.164556, f1macro=0.0891855, f1micro=0.164556 
+
+Example 161000: accuracy=0.164453, f1macro=0.0891753, f1micro=0.164453 
+
+Example 161100: accuracy=0.164351, f1macro=0.0891642, f1micro=0.164351 
+
+Example 161200: accuracy=0.164249, f1macro=0.0891544, f1micro=0.164249 
+
+Example 161300: accuracy=0.164148, f1macro=0.0891446, f1micro=0.164148 
+
+Example 161400: accuracy=0.164046, f1macro=0.0891325, f1micro=0.164046 
+
+Example 161500: accuracy=0.163944, f1macro=0.0891249, f1micro=0.163944 
+
+Example 161600: accuracy=0.163843, f1macro=0.0891156, f1micro=0.163843 
+
+Example 161700: accuracy=0.163741, f1macro=0.0891058, f1micro=0.163741 
+
+Example 161800: accuracy=0.16364, f1macro=0.0890955, f1micro=0.16364 
+
+Example 161900: accuracy=0.163539, f1macro=0.0890831, f1micro=0.163539 
+
+Example 162000: accuracy=0.163438, f1macro=0.0890741, f1micro=0.163438 
+
+Example 162100: accuracy=0.163337, f1macro=0.0890672, f1micro=0.163337 
+
+Example 162200: accuracy=0.163237, f1macro=0.0890605, f1micro=0.163237 
+
+Example 162300: accuracy=0.163136, f1macro=0.0890552, f1micro=0.163136 
+
+Example 162400: accuracy=0.163036, f1macro=0.0890493, f1micro=0.163036 
+
+Example 162500: accuracy=0.162935, f1macro=0.0890447, f1micro=0.162935 
+
+Example 162600: accuracy=0.162835, f1macro=0.0890407, f1micro=0.162835 
+
+Example 162700: accuracy=0.162735, f1macro=0.0890352, f1micro=0.162735 
+
+Example 162800: accuracy=0.162635, f1macro=0.0890307, f1micro=0.162635 
+
+Example 162900: accuracy=0.162535, f1macro=0.0890254, f1micro=0.162535 
+
+Example 163000: accuracy=0.162436, f1macro=0.0890227, f1micro=0.162436 
+
+Example 163100: accuracy=0.162336, f1macro=0.0890179, f1micro=0.162336 
+
+Example 163200: accuracy=0.162237, f1macro=0.0890107, f1micro=0.162237 
+
+Example 163300: accuracy=0.162137, f1macro=0.0890068, f1micro=0.162137 
+
+Example 163400: accuracy=0.162038, f1macro=0.0890032, f1micro=0.162038 
+
+Example 163500: accuracy=0.161939, f1macro=0.0889997, f1micro=0.161939 
+
+Example 163600: accuracy=0.16184, f1macro=0.0889954, f1micro=0.16184 
+
+Example 163700: accuracy=0.161741, f1macro=0.088992, f1micro=0.161741 
+
+Example 163800: accuracy=0.161642, f1macro=0.0889849, f1micro=0.161642 
+
+Example 163900: accuracy=0.161544, f1macro=0.0889796, f1micro=0.161544 
+
+Example 164000: accuracy=0.161445, f1macro=0.088974, f1micro=0.161445 
+
+Example 164100: accuracy=0.161347, f1macro=0.0889698, f1micro=0.161347 
+
+Example 164200: accuracy=0.161248, f1macro=0.0889663, f1micro=0.161248 
+
+Example 164300: accuracy=0.16115, f1macro=0.0889621, f1micro=0.16115 
+
+Example 164400: accuracy=0.161052, f1macro=0.0889592, f1micro=0.161052 
+
+Example 164500: accuracy=0.160954, f1macro=0.0889548, f1micro=0.160954 
+
+Example 164600: accuracy=0.160857, f1macro=0.0889496, f1micro=0.160857 
+
+Example 164700: accuracy=0.160759, f1macro=0.088945, f1micro=0.160759 
+
+Example 164800: accuracy=0.160661, f1macro=0.0889395, f1micro=0.160661 
+
+Example 164900: accuracy=0.160564, f1macro=0.0889357, f1micro=0.160564 
+
+Example 165000: accuracy=0.160467, f1macro=0.0889329, f1micro=0.160467 
+
+Example 165100: accuracy=0.160369, f1macro=0.0889308, f1micro=0.160369 
+
+Example 165200: accuracy=0.160272, f1macro=0.0889269, f1micro=0.160272 
+
+Example 165300: accuracy=0.160175, f1macro=0.0889211, f1micro=0.160175 
+
+Example 165400: accuracy=0.160079, f1macro=0.0889073, f1micro=0.160079 
+
+Example 165500: accuracy=0.159994, f1macro=0.088915, f1micro=0.159994 
+
+Example 165600: accuracy=0.159909, f1macro=0.088923, f1micro=0.159909 
+
+Example 165700: accuracy=0.159819, f1macro=0.0889013, f1micro=0.159819 
+
+Example 165800: accuracy=0.159741, f1macro=0.0889266, f1micro=0.159741 
+
+Example 165900: accuracy=0.159656, f1macro=0.0889257, f1micro=0.159656 
+
+Example 166000: accuracy=0.159566, f1macro=0.0889001, f1micro=0.159566 
+
+Example 166100: accuracy=0.159482, f1macro=0.0888941, f1micro=0.159482 
+
+Example 166200: accuracy=0.159386, f1macro=0.0888443, f1micro=0.159386 
+
+Example 166300: accuracy=0.15929, f1macro=0.0887963, f1micro=0.15929 
+
+Example 166400: accuracy=0.159201, f1macro=0.0887682, f1micro=0.159201 
+
+Example 166500: accuracy=0.159105, f1macro=0.0887195, f1micro=0.159105 
+
+Example 166600: accuracy=0.159022, f1macro=0.0887083, f1micro=0.159022 
+
+Example 166700: accuracy=0.158926, f1macro=0.0886611, f1micro=0.158926 
+
+Example 166800: accuracy=0.158837, f1macro=0.088633, f1micro=0.158837 
+
+Example 166900: accuracy=0.15876, f1macro=0.0886376, f1micro=0.15876 
+
+Example 167000: accuracy=0.158677, f1macro=0.0886231, f1micro=0.158677 
+
+Example 167100: accuracy=0.158588, f1macro=0.0885907, f1micro=0.158588 
+
+Example 167200: accuracy=0.158505, f1macro=0.0885774, f1micro=0.158505 
+
+Example 167300: accuracy=0.158428, f1macro=0.0885782, f1micro=0.158428 
+
+Example 167400: accuracy=0.158333, f1macro=0.0885296, f1micro=0.158333 
+
+Example 167500: accuracy=0.158251, f1macro=0.088516, f1micro=0.158251 
+
+Example 167600: accuracy=0.158162, f1macro=0.088486, f1micro=0.158162 
+
+Example 167700: accuracy=0.158074, f1macro=0.0884523, f1micro=0.158074 
+
+Example 167800: accuracy=0.157992, f1macro=0.0884354, f1micro=0.157992 
+
+Example 167900: accuracy=0.157904, f1macro=0.0883975, f1micro=0.157904 
+
+Example 168000: accuracy=0.157821, f1macro=0.0883771, f1micro=0.157821 
+
+Example 168100: accuracy=0.157739, f1macro=0.0883473, f1micro=0.157739 
+
+Example 168200: accuracy=0.157652, f1macro=0.0883107, f1micro=0.157652 
+
+Example 168300: accuracy=0.157564, f1macro=0.0882763, f1micro=0.157564 
+
+Example 168400: accuracy=0.15747, f1macro=0.0882216, f1micro=0.15747 
+
+Example 168500: accuracy=0.157407, f1macro=0.0882326, f1micro=0.157407 
+
+Example 168600: accuracy=0.157313, f1macro=0.08818, f1micro=0.157313 
+
+Example 168700: accuracy=0.157232, f1macro=0.0881586, f1micro=0.157232 
+
+Example 168800: accuracy=0.15715, f1macro=0.0881326, f1micro=0.15715 
+
+Example 168900: accuracy=0.157057, f1macro=0.0880845, f1micro=0.157057 
+
+Example 169000: accuracy=0.156976, f1macro=0.0880584, f1micro=0.156976 
+
+Example 169100: accuracy=0.156889, f1macro=0.0880231, f1micro=0.156889 
+
+Example 169200: accuracy=0.156809, f1macro=0.0879981, f1micro=0.156809 
+
+Example 169300: accuracy=0.156728, f1macro=0.0879752, f1micro=0.156728 
+
+Example 169400: accuracy=0.156653, f1macro=0.0879627, f1micro=0.156653 
+
+Example 169500: accuracy=0.156572, f1macro=0.0879351, f1micro=0.156572 
+
+Example 169600: accuracy=0.156486, f1macro=0.0878964, f1micro=0.156486 
+
+Example 169700: accuracy=0.156394, f1macro=0.0878475, f1micro=0.156394 
+
+Example 169800: accuracy=0.156302, f1macro=0.0878105, f1micro=0.156302 
+
+Example 169900: accuracy=0.156221, f1macro=0.0878036, f1micro=0.156221 
+
+Example 170000: accuracy=0.156129, f1macro=0.0877697, f1micro=0.156129 
+
+Example 170100: accuracy=0.156044, f1macro=0.0877503, f1micro=0.156044 
+
+Example 170200: accuracy=0.155952, f1macro=0.0877186, f1micro=0.155952 
+
+Example 170300: accuracy=0.155872, f1macro=0.0877135, f1micro=0.155872 
+
+Example 170400: accuracy=0.155786, f1macro=0.0876948, f1micro=0.155786 
+
+Example 170500: accuracy=0.155701, f1macro=0.0876757, f1micro=0.155701 
+
+Example 170600: accuracy=0.155621, f1macro=0.0876694, f1micro=0.155621 
+
+Example 170700: accuracy=0.15553, f1macro=0.0876361, f1micro=0.15553 
+
+Example 170800: accuracy=0.155445, f1macro=0.0876158, f1micro=0.155445 
+
+Example 170900: accuracy=0.155354, f1macro=0.087584, f1micro=0.155354 
+
+Example 171000: accuracy=0.155269, f1macro=0.0875673, f1micro=0.155269 
+
+Example 171100: accuracy=0.155178, f1macro=0.0875362, f1micro=0.155178 
+
+Example 171200: accuracy=0.155099, f1macro=0.0875271, f1micro=0.155099 
+
+Example 171300: accuracy=0.15502, f1macro=0.0875195, f1micro=0.15502 
+
+Example 171400: accuracy=0.15493, f1macro=0.0874914, f1micro=0.15493 
+
+Example 171500: accuracy=0.154845, f1macro=0.0874725, f1micro=0.154845 
+
+Example 171600: accuracy=0.154761, f1macro=0.0874543, f1micro=0.154761 
+
+Example 171700: accuracy=0.154694, f1macro=0.0874691, f1micro=0.154694 
+
+Example 171800: accuracy=0.15461, f1macro=0.0874507, f1micro=0.15461 
+
+Example 171900: accuracy=0.154526, f1macro=0.0874308, f1micro=0.154526 
+
+Example 172000: accuracy=0.154448, f1macro=0.0874227, f1micro=0.154448 
+
+Example 172100: accuracy=0.154358, f1macro=0.0873936, f1micro=0.154358 
+
+Example 172200: accuracy=0.154727, f1macro=0.0881451, f1micro=0.154727 
+
+Example 172300: accuracy=0.155084, f1macro=0.0888432, f1micro=0.155084 
+
+Example 172400: accuracy=0.155412, f1macro=0.0894651, f1micro=0.155412 
+
+Example 172500: accuracy=0.155751, f1macro=0.0900778, f1micro=0.155751 
+
+Example 172600: accuracy=0.156118, f1macro=0.090706, f1micro=0.156118 
+
+Example 172700: accuracy=0.156508, f1macro=0.0913398, f1micro=0.156508 
+
+Example 172800: accuracy=0.156869, f1macro=0.091906, f1micro=0.156869 
+
+Example 172900: accuracy=0.157212, f1macro=0.092426, f1micro=0.157212 
+
+Example 173000: accuracy=0.157566, f1macro=0.0929402, f1micro=0.157566 
+
+Example 173100: accuracy=0.157915, f1macro=0.0934265, f1micro=0.157915 
+
+Example 173200: accuracy=0.158251, f1macro=0.0938793, f1micro=0.158251 
+
+Example 173300: accuracy=0.158598, f1macro=0.0943298, f1micro=0.158598 
+
+Example 173400: accuracy=0.158916, f1macro=0.09473, f1micro=0.158916 
+
+Example 173500: accuracy=0.159193, f1macro=0.0950696, f1micro=0.159193 
+
+Example 173600: accuracy=0.159551, f1macro=0.0954875, f1micro=0.159551 
+
+Example 173700: accuracy=0.159891, f1macro=0.0958723, f1micro=0.159891 
+
+Example 173800: accuracy=0.160253, f1macro=0.0962684, f1micro=0.160253 
+
+Example 173900: accuracy=0.160581, f1macro=0.0966148, f1micro=0.160581 
+
+Example 174000: accuracy=0.160943, f1macro=0.0969845, f1micro=0.160943 
+
+Example 174100: accuracy=0.161275, f1macro=0.0973141, f1micro=0.161275 
+
+Example 174200: accuracy=0.161602, f1macro=0.0976268, f1micro=0.161602 
+
+Example 174300: accuracy=0.161951, f1macro=0.0979522, f1micro=0.161951 
+
+Example 174400: accuracy=0.162294, f1macro=0.098261, f1micro=0.162294 
+
+Example 174500: accuracy=0.162613, f1macro=0.0985387, f1micro=0.162613 
+
+Example 174600: accuracy=0.162978, f1macro=0.0988514, f1micro=0.162978 
+
+Example 174700: accuracy=0.163331, f1macro=0.0991438, f1micro=0.163331 
+
+Example 174800: accuracy=0.163701, f1macro=0.0994426, f1micro=0.163701 
+
+Example 174900: accuracy=0.164088, f1macro=0.0997466, f1micro=0.164088 
+
+Example 175000: accuracy=0.164434, f1macro=0.100007, f1micro=0.164434 
+
+Example 175100: accuracy=0.164757, f1macro=0.100242, f1micro=0.164757 
+
+Example 175200: accuracy=0.165126, f1macro=0.100508, f1micro=0.165126 
+
+Example 175300: accuracy=0.165482, f1macro=0.100757, f1micro=0.165482 
+
+Example 175400: accuracy=0.165832, f1macro=0.100995, f1micro=0.165832 
+
+Example 175500: accuracy=0.166137, f1macro=0.101191, f1micro=0.166137 
+
+Example 175600: accuracy=0.166475, f1macro=0.101408, f1micro=0.166475 
+
+Example 175700: accuracy=0.166818, f1macro=0.101623, f1micro=0.166818 
+
+Example 175800: accuracy=0.167184, f1macro=0.10185, f1micro=0.167184 
+
+Example 175900: accuracy=0.167516, f1macro=0.102046, f1micro=0Example 1000: accuracy=0.251, f1macro=0.115117, f1micro=0.251 
+
+Example 2000: accuracy=0.251, f1macro=0.112965, f1micro=0.251 
+
+Example 3000: accuracy=0.258333, f1macro=0.119518, f1micro=0.258333 
+
+Example 4000: accuracy=0.255, f1macro=0.117989, f1micro=0.255 
+
+Example 5000: accuracy=0.2528, f1macro=0.117795, f1micro=0.2528 
+
+Example 6000: accuracy=0.252, f1macro=0.118355, f1micro=0.252 
+
+Example 7000: accuracy=0.253571, f1macro=0.118403, f1micro=0.253571 
+
+Example 8000: accuracy=0.252, f1macro=0.117072, f1micro=0.252 
+
+Example 9000: accuracy=0.253444, f1macro=0.117616, f1micro=0.253444 
+
+Example 10000: accuracy=0.2526, f1macro=0.117034, f1micro=0.2526 
+
+Example 11000: accuracy=0.254273, f1macro=0.11749, f1micro=0.254273 
+
+Example 12000: accuracy=0.254917, f1macro=0.117848, f1micro=0.254917 
+
+Example 13000: accuracy=0.255308, f1macro=0.118263, f1micro=0.255308 
+
+Example 14000: accuracy=0.2555, f1macro=0.118226, f1micro=0.2555 
+
+Example 15000: accuracy=0.254, f1macro=0.118131, f1micro=0.254 
+
+Example 16000: accuracy=0.255188, f1macro=0.118644, f1micro=0.255188 
+
+Example 17000: accuracy=0.253824, f1macro=0.118231, f1micro=0.253824 
+
+Example 18000: accuracy=0.254056, f1macro=0.118523, f1micro=0.254056 
+
+Example 19000: accuracy=0.254842, f1macro=0.118911, f1micro=0.254842 
+
+Example 20000: accuracy=0.2543, f1macro=0.118639, f1micro=0.2543 
+
+Example 21000: accuracy=0.254143, f1macro=0.118592, f1micro=0.254143 
+
+Example 22000: accuracy=0.253955, f1macro=0.118401, f1micro=0.253955 
+
+Example 23000: accuracy=0.254174, f1macro=0.118605, f1micro=0.254174 
+
+Example 24000: accuracy=0.253375, f1macro=0.119052, f1micro=0.253375 
+
+Example 25000: accuracy=0.25384, f1macro=0.119092, f1micro=0.25384 
+
+Example 26000: accuracy=0.253462, f1macro=0.119134, f1micro=0.253462 
+
+Example 27000: accuracy=0.253444, f1macro=0.119366, f1micro=0.253444 
+
+Example 28000: accuracy=0.253071, f1macro=0.11917, f1micro=0.253071 
+
+Example 29000: accuracy=0.253517, f1macro=0.11961, f1micro=0.253517 
+
+Example 30000: accuracy=0.254033, f1macro=0.120025, f1micro=0.254033 
+
+Example 31000: accuracy=0.254065, f1macro=0.120095, f1micro=0.254065 
+
+Example 32000: accuracy=0.254469, f1macro=0.120501, f1micro=0.254469 
+
+Example 33000: accuracy=0.254576, f1macro=0.120725, f1micro=0.254576 
+
+Example 34000: accuracy=0.254765, f1macro=0.12065, f1micro=0.254765 
+
+Example 35000: accuracy=0.255114, f1macro=0.120759, f1micro=0.255114 
+
+Example 36000: accuracy=0.255139, f1macro=0.12087, f1micro=0.255139 
+
+Example 37000: accuracy=0.254946, f1macro=0.120731, f1micro=0.254946 
+
+Example 38000: accuracy=0.254658, f1macro=0.12058, f1micro=0.254658 
+
+Example 39000: accuracy=0.254359, f1macro=0.120404, f1micro=0.254359 
+
+Example 40000: accuracy=0.2542, f1macro=0.120279, f1micro=0.2542 
+
+Example 41000: accuracy=0.254146, f1macro=0.120289, f1micro=0.254146 
+
+Example 42000: accuracy=0.253929, f1macro=0.120395, f1micro=0.253929 
+
+Example 43000: accuracy=0.254698, f1macro=0.120777, f1micro=0.254698 
+
+Example 44000: accuracy=0.253886, f1macro=0.120413, f1micro=0.253886 
+
+Example 45000: accuracy=0.254333, f1macro=0.120313, f1micro=0.254333 
+
+Example 46000: accuracy=0.254283, f1macro=0.120537, f1micro=0.254283 
+
+Example 47000: accuracy=0.254277, f1macro=0.120421, f1micro=0.254277 
+
+Example 48000: accuracy=0.25425, f1macro=0.120531, f1micro=0.25425 
+
+Example 49000: accuracy=0.254388, f1macro=0.120596, f1micro=0.254388 
+
+Example 50000: accuracy=0.25436, f1macro=0.120706, f1micro=0.25436 
+
+Example 51000: accuracy=0.254333, f1macro=0.12048, f1micro=0.254333 
+
+Example 52000: accuracy=0.254654, f1macro=0.120569, f1micro=0.254654 
+
+Example 53000: accuracy=0.254585, f1macro=0.120665, f1micro=0.254585 
+
+Example 54000: accuracy=0.254444, f1macro=0.120516, f1micro=0.254444 
+
+Example 55000: accuracy=0.254836, f1macro=0.120434, f1micro=0.254836 
+
+Example 56000: accuracy=0.255054, f1macro=0.12057, f1micro=0.255054 
+
+Example 57000: accuracy=0.255351, f1macro=0.120571, f1micro=0.255351 
+
+Example 58000: accuracy=0.25531, f1macro=0.120545, f1micro=0.25531 
+
+Example 59000: accuracy=0.255203, f1macro=0.120649, f1micro=0.255203 
+
+Example 60000: accuracy=0.255283, f1macro=0.120714, f1micro=0.255283 
+
+Example 61000: accuracy=0.254951, f1macro=0.1207, f1micro=0.254951 
+
+Example 62000: accuracy=0.254823, f1macro=0.120708, f1micro=0.254823 
+
+Example 63000: accuracy=0.25481, f1macro=0.120623, f1micro=0.25481 
+
+Example 64000: accuracy=0.254563, f1macro=0.12056, f1micro=0.254563 
+
+Example 65000: accuracy=0.254415, f1macro=0.120493, f1micro=0.254415 
+
+Example 66000: accuracy=0.253742, f1macro=0.120243, f1micro=0.253742 
+
+Example 67000: accuracy=0.254164, f1macro=0.120427, f1micro=0.254164 
+
+Example 68000: accuracy=0.253868, f1macro=0.120266, f1micro=0.253868 
+
+Example 69000: accuracy=0.253899, f1macro=0.120301, f1micro=0.253899 
+
+Example 70000: accuracy=0.254357, f1macro=0.120424, f1micro=0.254357 
+
+Example 71000: accuracy=0.254423, f1macro=0.120471, f1micro=0.254423 
+
+Example 72000: accuracy=0.254833, f1macro=0.12067, f1micro=0.254833 
+
+Example 73000: accuracy=0.254767, f1macro=0.12078, f1micro=0.254767 
+
+Example 74000: accuracy=0.254703, f1macro=0.120679, f1micro=0.254703 
+
+Example 75000: accuracy=0.25456, f1macro=0.120662, f1micro=0.25456 
+
+Example 76000: accuracy=0.254447, f1macro=0.120726, f1micro=0.254447 
+
+Example 77000: accuracy=0.254494, f1macro=0.120799, f1micro=0.254494 
+
+Example 78000: accuracy=0.254231, f1macro=0.120624, f1micro=0.254231 
+
+Example 79000: accuracy=0.254329, f1macro=0.120688, f1micro=0.254329 
+
+Example 80000: accuracy=0.2545, f1macro=0.120675, f1micro=0.2545 
+
+Example 81000: accuracy=0.254543, f1macro=0.120647, f1micro=0.254543 
+
+Example 82000: accuracy=0.254805, f1macro=0.120755, f1micro=0.254805 
+
+Example 83000: accuracy=0.254928, f1macro=0.120795, f1micro=0.254928 
+
+Example 84000: accuracy=0.254833, f1macro=0.120618, f1micro=0.254833 
+
+Example 85000: accuracy=0.254635, f1macro=0.120471, f1micro=0.254635 
+
+Example 86000: accuracy=0.254395, f1macro=0.120351, f1micro=0.254395 
+
+Example 87000: accuracy=0.25454, f1macro=0.12045, f1micro=0.25454 
+
+Example 88000: accuracy=0.254409, f1macro=0.120349, f1micro=0.254409 
+
+Example 89000: accuracy=0.254427, f1macro=0.120438, f1micro=0.254427 
+
+Example 90000: accuracy=0.254133, f1macro=0.120328, f1micro=0.254133 
+
+Example 91000: accuracy=0.25422, f1macro=0.120294, f1micro=0.25422 
+
+Example 92000: accuracy=0.254228, f1macro=0.12034, f1micro=0.254228 
+
+Example 93000: accuracy=0.254108, f1macro=0.120339, f1micro=0.254108 
+
+Example 94000: accuracy=0.254053, f1macro=0.120363, f1micro=0.254053 
+
+Example 95000: accuracy=0.254326, f1macro=0.120484, f1micro=0.254326 
+
+Example 96000: accuracy=0.254281, f1macro=0.120465, f1micro=0.254281 
+
+Example 97000: accuracy=0.254196, f1macro=0.120479, f1micro=0.254196 
+
+Example 98000: accuracy=0.254276, f1macro=0.12045, f1micro=0.254276 
+
+Example 99000: accuracy=0.25403, f1macro=0.120413, f1micro=0.25403 
+
+Example 100000: accuracy=0.25425, f1macro=0.120516, f1micro=0.25425 
+
+Example 101000: accuracy=0.254109, f1macro=0.120514, f1micro=0.254109 
+
+Example 102000: accuracy=0.254157, f1macro=0.120475, f1micro=0.254157 
+
+Example 103000: accuracy=0.254126, f1macro=0.12045, f1micro=0.254126 
+
+Example 104000: accuracy=0.254192, f1macro=0.120481, f1micro=0.254192 
+
+Example 105000: accuracy=0.254267, f1macro=0.120595, f1micro=0.254267 
+
+Example 106000: accuracy=0.254255, f1macro=0.120576, f1micro=0.254255 
+
+Example 107000: accuracy=0.254299, f1macro=0.120634, f1micro=0.254299 
+
+Example 108000: accuracy=0.254407, f1macro=0.12073, f1micro=0.254407 
+
+Example 109000: accuracy=0.254376, f1macro=0.120759, f1micro=0.254376 
+
+Example 110000: accuracy=0.254145, f1macro=0.120635, f1micro=0.254145 
+
+Example 111000: accuracy=0.25409, f1macro=0.120674, f1micro=0.25409 
+
+Example 112000: accuracy=0.254089, f1macro=0.120615, f1micro=0.254089 
+
+Example 113000: accuracy=0.254088, f1macro=0.120604, f1micro=0.254088 
+
+Example 114000: accuracy=0.254132, f1macro=0.120627, f1micro=0.254132 
+
+Example 115000: accuracy=0.254209, f1macro=0.120615, f1micro=0.254209 
+
+Example 116000: accuracy=0.254267, f1macro=0.120647, f1micro=0.254267 
+
+Example 117000: accuracy=0.254333, f1macro=0.120775, f1micro=0.254333 
+
+Example 118000: accuracy=0.254314, f1macro=0.120894, f1micro=0.254314 
+
+Example 119000: accuracy=0.254395, f1macro=0.12099, f1micro=0.254395 
+
+Example 120000: accuracy=0.254342, f1macro=0.120933, f1micro=0.254342 
+
+Example 121000: accuracy=0.254446, f1macro=0.120895, f1micro=0.254446 
+
+Example 122000: accuracy=0.254287, f1macro=0.1208, f1micro=0.254287 
+
+Example 123000: accuracy=0.254236, f1macro=0.120753, f1micro=0.254236 
+
+Example 124000: accuracy=0.254097, f1macro=0.120737, f1micro=0.254097 
+
+Example 125000: accuracy=0.253912, f1macro=0.120695, f1micro=0.253912 
+
+Example 126000: accuracy=0.254103, f1macro=0.120772, f1micro=0.254103 
+
+Example 127000: accuracy=0.254244, f1macro=0.120831, f1micro=0.254244 
+
+Example 128000: accuracy=0.254141, f1macro=0.120843, f1micro=0.254141 
+
+Example 129000: accuracy=0.254, f1macro=0.120757, f1micro=0.254 
+
+Example 130000: accuracy=0.253962, f1macro=0.120756, f1micro=0.253962 
+
+Example 131000: accuracy=0.253931, f1macro=0.120762, f1micro=0.253931 
+
+Example 132000: accuracy=0.254121, f1macro=0.120822, f1micro=0.254121 
+
+Example 133000: accuracy=0.254368, f1macro=0.120937, f1micro=0.254368 
+
+Example 134000: accuracy=0.254224, f1macro=0.120914, f1micro=0.254224 
+
+Example 135000: accuracy=0.254222, f1macro=0.120879, f1micro=0.254222 
+
+Example 136000: accuracy=0.254301, f1macro=0.120929, f1micro=0.254301 
+
+Example 137000: accuracy=0.25438, f1macro=0.120965, f1micro=0.25438 
+
+Example 138000: accuracy=0.254145, f1macro=0.120934, f1micro=0.254145 
+
+Example 139000: accuracy=0.254101, f1macro=0.120926, f1micro=0.254101 
+
+Example 140000: accuracy=0.254186, f1macro=0.120898, f1micro=0.254186 
+
+Example 141000: accuracy=0.254227, f1macro=0.120881, f1micro=0.254227 
+
+Example 142000: accuracy=0.254282, f1macro=0.120903, f1micro=0.254282 
+
+Example 143000: accuracy=0.254364, f1macro=0.120891, f1micro=0.254364 
+
+Example 144000: accuracy=0.254333, f1macro=0.120944, f1micro=0.254333 
+
+Example 145000: accuracy=0.254421, f1macro=0.12098, f1micro=0.254421 
+
+Example 146000: accuracy=0.254411, f1macro=0.120991, f1micro=0.254411 
+
+Example 147000: accuracy=0.25451, f1macro=0.121019, f1micro=0.25451 
+
+Example 148000: accuracy=0.254655, f1macro=0.121113, f1micro=0.254655 
+
+Example 149000: accuracy=0.254785, f1macro=0.121216, f1micro=0.254785 
+
+Example 150000: accuracy=0.25482, f1macro=0.121273, f1micro=0.25482 
+
+Example 151000: accuracy=0.254887, f1macro=0.121272, f1micro=0.254887 
+
+Example 152000: accuracy=0.255046, f1macro=0.121325, f1micro=0.255046 
+
+Example 153000: accuracy=0.255105, f1macro=0.121289, f1micro=0.255105 
+
+Example 154000: accuracy=0.255201, f1macro=0.121314, f1micro=0.255201 
+
+Example 155000: accuracy=0.255329, f1macro=0.121356, f1micro=0.255329 
+
+Example 156000: accuracy=0.255212, f1macro=0.121297, f1micro=0.255212 
+
+Example 157000: accuracy=0.255115, f1macro=0.121302, f1micro=0.255115 
+
+Example 158000: accuracy=0.25519, f1macro=0.121314, f1micro=0.25519 
+
+Example 159000: accuracy=0.255201, f1macro=0.121363, f1micro=0.255201 
+
+Example 160000: accuracy=0.25525, f1macro=0.121394, f1micro=0.25525 
+
+Example 161000: accuracy=0.255193, f1macro=0.121378, f1micro=0.255193 
+
+Example 162000: accuracy=0.255383, f1macro=0.121441, f1micro=0.255383 
+
+Example 163000: accuracy=0.255399, f1macro=0.121422, f1micro=0.255399 
+
+Example 164000: accuracy=0.25536, f1macro=0.121431, f1micro=0.25536 
+
+Example 165000: accuracy=0.255279, f1macro=0.121395, f1micro=0.255279 
+
+Example 166000: accuracy=0.255181, f1macro=0.12138, f1micro=0.255181 
+
+Example 167000: accuracy=0.255293, f1macro=0.121459, f1micro=0.255293 
+
+Example 168000: accuracy=0.255399, f1macro=0.121549, f1micro=0.255399 
+
+Example 169000: accuracy=0.255467, f1macro=0.12157, f1micro=0.255467 
+
+Example 170000: accuracy=0.255641, f1macro=0.121643, f1micro=0.255641 
+
+Example 171000: accuracy=0.255556, f1macro=0.121543, f1micro=0.255556 
+
+Example 172000: accuracy=0.255576, f1macro=0.12152, f1micro=0.255576 
+
+Example 173000: accuracy=0.255653, f1macro=0.121553, f1micro=0.255653 
+
+Example 174000: accuracy=0.255678, f1macro=0.121567, f1micro=0.255678 
+
+Example 175000: accuracy=0.255806, f1macro=0.121605, f1micro=0.255806 
+
+Example 176000: accuracy=0.255761, f1macro=0.121598, f1micro=0.255761 
+
+Example 177000: accuracy=0.255627, f1macro=0.121611, f1micro=0.255627 
+
+Example 178000: accuracy=0.255584, f1macro=0.121644, f1micro=0.255584 
+
+Example 179000: accuracy=0.25552, f1macro=0.121545, f1micro=0.25552 
+
+Example 180000: accuracy=0.255344, f1macro=0.121486, f1micro=0.255344 
+
+Example 181000: accuracy=0.255497, f1macro=0.121522, f1micro=0.255497 
+
+Example 182000: accuracy=0.255566, f1macro=0.121472, f1micro=0.255566 
+
+Example 183000: accuracy=0.255596, f1macro=0.121461, f1micro=0.255596 
+
+Example 184000: accuracy=0.255592, f1macro=0.121469, f1micro=0.255592 
+
+Example 185000: accuracy=0.255551, f1macro=0.121464, f1micro=0.255551 
+
+Example 186000: accuracy=0.255446, f1macro=0.121459, f1micro=0.255446 
+
+Example 187000: accuracy=0.255289, f1macro=0.12136, f1micro=0.255289 
+
+Example 188000: accuracy=0.255463, f1macro=0.121431, f1micro=0.255463 
+
+Example 189000: accuracy=0.255386, f1macro=0.121421, f1micro=0.255386 
+
+Example 190000: accuracy=0.255374, f1macro=0.121421, f1micro=0.255374 
+
+Example 191000: accuracy=0.255309, f1macro=0.121391, f1micro=0.255309 
+
+Example 192000: accuracy=0.255224, f1macro=0.121366, f1micro=0.255224 
+
+Example 193000: accuracy=0.255383, f1macro=0.121424, f1micro=0.255383 
+
+Example 194000: accuracy=0.255582, f1macro=0.121502, f1micro=0.255582 
+
+Example 195000: accuracy=0.255579, f1macro=0.121525, f1micro=0.255579 
+
+Example 196000: accuracy=0.255587, f1macro=0.121515, f1micro=0.255587 
+
+Example 197000: accuracy=0.255594, f1macro=0.121502, f1micro=0.255594 
+
+Example 198000: accuracy=0.255646, f1macro=0.121532, f1micro=0.255646 
+
+Example 199000: accuracy=0.255528, f1macro=0.121511, f1micro=0.255528 
+
+Example 200000: accuracy=0.25546, f1macro=0.121467, f1micro=0.25546 
+
+Example 201000: accuracy=0.255393, f1macro=0.121523, f1micro=0.255393 
+
+Example 202000: accuracy=0.25546, f1macro=0.12158, f1micro=0.25546 
+
+Example 203000: accuracy=0.255424, f1macro=0.121529, f1micro=0.255424 
+
+Example 204000: accuracy=0.255407, f1macro=0.121548, f1micro=0.255407 
+
+Example 205000: accuracy=0.255468, f1macro=0.121573, f1micro=0.255468 
+
+Example 206000: accuracy=0.255476, f1macro=0.121557, f1micro=0.255476 
+
+Example 207000: accuracy=0.255551, f1macro=0.121608, f1micro=0.255551 
+
+Example 208000: accuracy=0.255524, f1macro=0.121589, f1micro=0.255524 
+
+Example 209000: accuracy=0.255589, f1macro=0.121614, f1micro=0.255589 
+
+Example 210000: accuracy=0.25561, f1macro=0.121596, f1micro=0.25561 
+
+Example 211000: accuracy=0.255545, f1macro=0.121591, f1micro=0.255545 
+
+Example 212000: accuracy=0.255434, f1macro=0.121526, f1micro=0.255434 
+
+Example 213000: accuracy=0.255413, f1macro=0.121536, f1micro=0.255413 
+
+Example 214000: accuracy=0.25536, f1macro=0.121541, f1micro=0.25536 
+
+Example 215000: accuracy=0.255395, f1macro=0.12156, f1micro=0.255395 
+
+Example 216000: accuracy=0.255417, f1macro=0.121545, f1micro=0.255417 
+
+Example 217000: accuracy=0.255493, f1macro=0.121548, f1micro=0.255493 
+
+Example 218000: accuracy=0.255573, f1macro=0.12158, f1micro=0.255573 
+
+Example 219000: accuracy=0.255612, f1macro=0.121571, f1micro=0.255612 
+
+Example 220000: accuracy=0.255482, f1macro=0.121532, f1micro=0.255482 
+
+Example 221000: accuracy=0.255475, f1macro=0.121494, f1micro=0.255475 
+
+Example 222000: accuracy=0.255455, f1macro=0.121503, f1micro=0.255455 
+
+Example 223000: accuracy=0.25535, f1macro=0.121479, f1micro=0.25535 
+
+Example 224000: accuracy=0.255393, f1macro=0.121478, f1micro=0.255393 
+
+Example 225000: accuracy=0.255391, f1macro=0.121458, f1micro=0.255391 
+
+Example 226000: accuracy=0.255363, f1macro=0.121439, f1micro=0.255363 
+
+Example 227000: accuracy=0.2553, f1macro=0.121407, f1micro=0.2553 
+
+Example 228000: accuracy=0.255373, f1macro=0.12142, f1micro=0.255373 
+
+Example 229000: accuracy=0.255389, f1macro=0.121441, f1micro=0.255389 
+
+Example 230000: accuracy=0.255409, f1macro=0.121447, f1micro=0.255409 
+
+Example 231000: accuracy=0.255481, f1macro=0.121443, f1micro=0.255481 
+
+Example 232000: accuracy=0.255504, f1macro=0.121432, f1micro=0.255504 
+
+Example 233000: accuracy=0.255468, f1macro=0.12141, f1micro=0.255468 
+
+Example 234000: accuracy=0.2555, f1macro=0.121401, f1micro=0.2555 
+
+Example 235000: accuracy=0.255489, f1macro=0.121393, f1micro=0.255489 
+
+Example 236000: accuracy=0.255581, f1macro=0.12143, f1micro=0.255581 
+
+Example 237000: accuracy=0.255451, f1macro=0.121371, f1micro=0.255451 
+
+Example 238000: accuracy=0.255429, f1macro=0.121389, f1micro=0.255429 
+
+Example 239000: accuracy=0.255372, f1macro=0.121422, f1micro=0.255372 
+
+Example 240000: accuracy=0.255404, f1macro=0.121447, f1micro=0.255404 
+
+Example 241000: accuracy=0.255282, f1macro=0.121409, f1micro=0.255282 
+
+Example 242000: accuracy=0.255252, f1macro=0.121403, f1micro=0.255252 
+
+Example 243000: accuracy=0.255239, f1macro=0.121425, f1micro=0.255239 
+
+Example 244000: accuracy=0.255197, f1macro=0.121416, f1micro=0.255197 
+
+Example 245000: accuracy=0.255229, f1macro=0.121398, f1micro=0.255229 
+
+Example 246000: accuracy=0.255252, f1macro=0.121381, f1micro=0.255252 
+
+Example 247000: accuracy=0.255162, f1macro=0.121368, f1micro=0.255162 
+
+Example 248000: accuracy=0.25519, f1macro=0.121387, f1micro=0.25519 
+
+Example 249000: accuracy=0.255141, f1macro=0.121402, f1micro=0.255141 
+
+Example 250000: accuracy=0.255084, f1macro=0.121338, f1micro=0.255084 
+
+Example 251000: accuracy=0.255143, f1macro=0.121362, f1micro=0.255143 
+
+Example 252000: accuracy=0.255127, f1macro=0.121363, f1micro=0.255127 
+
+Example 253000: accuracy=0.255051, f1macro=0.12134, f1micro=0.255051 
+
+Example 254000: accuracy=0.255087, f1macro=0.12134, f1micro=0.255087 
+
+Example 255000: accuracy=0.25518, f1macro=0.121388, f1micro=0.25518 
+
+Example 256000: accuracy=0.255129, f1macro=0.121355, f1micro=0.255129 
+
+Example 257000: accuracy=0.25514, f1macro=0.121358, f1micro=0.25514 
+
+Example 258000: accuracy=0.255151, f1macro=0.121382, f1micro=0.255151 
+
+Example 259000: accuracy=0.255158, f1macro=0.121397, f1micro=0.255158 
+
+Example 260000: accuracy=0.255135, f1macro=0.12141, f1micro=0.255135 
+
+Example 261000: accuracy=0.255088, f1macro=0.121399, f1micro=0.255088 
+
+Example 262000: accuracy=0.255099, f1macro=0.121438, f1micro=0.255099 
+
+Example 263000: accuracy=0.255137, f1macro=0.121452, f1micro=0.255137 
+
+Example 264000: accuracy=0.255186, f1macro=0.121436, f1micro=0.255186 
+
+Example 265000: accuracy=0.255177, f1macro=0.121409, f1micro=0.255177 
+
+Example 266000: accuracy=0.255139, f1macro=0.12141, f1micro=0.255139 
+
+Example 267000: accuracy=0.255082, f1macro=0.121421, f1micro=0.255082 
+
+Example 268000: accuracy=0.255082, f1macro=0.121402, f1micro=0.255082 
+
+Example 269000: accuracy=0.254996, f1macro=0.121382, f1micro=0.254996 
+
+Example 270000: accuracy=0.25493, f1macro=0.121367, f1micro=0.25493 
+
+Example 271000: accuracy=0.254886, f1macro=0.121363, f1micro=0.254886 
+
+Example 272000: accuracy=0.254915, f1macro=0.121346, f1micro=0.254915 
+
+Example 273000: accuracy=0.25496, f1macro=0.121371, f1micro=0.25496 
+
+Example 274000: accuracy=0.254964, f1macro=0.121397, f1micro=0.254964 
+
+Example 275000: accuracy=0.254851, f1macro=0.121383, f1micro=0.254851 
+
+Example 276000: accuracy=0.254793, f1macro=0.121344, f1micro=0.254793 
+
+Example 277000: accuracy=0.254856, f1macro=0.121353, f1micro=0.254856 
+
+Example 278000: accuracy=0.254871, f1macro=0.121349, f1micro=0.254871 
+
+Example 279000: accuracy=0.254875, f1macro=0.121383, f1micro=0.254875 
+
+PredictTime 3207.19017196
+Accuracy 0.254808139327
+F1macro 0.121342995612
+F1micro 0.254808139327
